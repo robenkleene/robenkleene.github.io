@@ -11,4 +11,4 @@ kramdown:
   input: GFM
 highlighter: pygments
 
-permalink: pretty
+permalink: /:year/:month/:day/:title/

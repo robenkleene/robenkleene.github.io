@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "\"Open in Terminal\" for Atom"
-categories: Atom
+categories: atom
 ---
 
 Define a command to open the directory containing the active buffer's file in Terminal in your [`init.coffee`](https://atom.io/docs/v0.106.0/customizing-atom#initcoffee).
