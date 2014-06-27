@@ -1,10 +1,14 @@
 # Site settings
-title: 1Percenter Blog
+title: Roben Kleene
 email: blog@1percenter.com
 description: "Roben Kleene's blog version 3 or 4 or whatever, the time when he <i>really</i> gets it right."
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://1percenter.com"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: pygments
+
 permalink: pretty
