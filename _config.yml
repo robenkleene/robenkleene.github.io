@@ -4,11 +4,12 @@ email: blog@1percenter.com
 description: "Roben Kleene's blog version 3 or 4 or whatever, the time when he <i>really</i> gets it right."
 baseurl: ""
 url: "http://1percenter.com"
+twitter_username: robenkleene
+github_username:  robenkleene
 
 # Build settings
 markdown: kramdown
 kramdown:
   input: GFM
-highlighter: pygments
 
 permalink: /:year/:month/:day/:title/
