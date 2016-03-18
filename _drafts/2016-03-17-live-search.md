@@ -4,8 +4,7 @@ title: "Live Search"
 categories: Unix, Emacs, Vim
 ---
 
-Think about how search works in your favorite text editor. 
-First you probably enter your search term, and then hit enter before your search results start showing up. Now think about popular consumer apps work: Does Google sit around waiting enter before showing you results? How about Spotlight? iTunes? Mail? The App Store?
+Think about how search works in your favorite text editor. First you probably enter your search term, and then hit enter before your search results start showing up. Now think about popular consumer apps work: Does Google sit around waiting enter before showing you results? How about Spotlight? iTunes? Mail? The App Store?
 
 From a user experience perspective, I don't see any reason a programmers' editor should work any differently. The great irony being that programmers spend all-day improving apps for other people, while our own tools get left behind[1].
 
