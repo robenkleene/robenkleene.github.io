@@ -4,15 +4,15 @@ title: "Live Search"
 categories: Unix, Emacs, Vim
 ---
 
-Think about how search works in your favorite text editor. First you probably enter your search term, and then hit enter before your search results start showing up. Now think about popular consumer apps work: Does Google sit around waiting enter before showing you results? How about Spotlight? iTunes? Mail? The App Store?
+Think about how search works in your favorite text editor. You probably enter your search term first, then hit enter before you start seeing your search results. Now think about how popular consumer apps work: Does Google wait around for you to hit enter before showing you results? How about Spotlight? iTunes? Mail? The App Store?
 
-From a user experience perspective, I don't see any reason a programmers' editor should work any differently. The great irony being that programmers spend all-day improving apps for other people, while our own tools get left behind[^others].
+From a user experience perspective, I don't see any reason programmers' editors shouldn't work the same way. The great irony of being a programmers is that we spend all-day improving apps for other people, while our own tools get left behind[^others].
 
-With that said, there are a couple of ways to do a live search of source code files today; I on day to see this implemented in every text editor.
+There are a couple of ways to search source code files live today; I hope to see this in every text editor one day.
 
 ## Emacs
 
-You can do  a live search in Emacs, by using the `helm-ag` package's `helm-do-ag` command[^helm]. Here's what it looks like searching [Web Console](https://github.com/robenkleene/webconsole)'s source code for the string "`toggledebugmode`", and then hitting enter to go to that line of code (the [`toggleDebugMode:`](https://github.com/robenkleene/webconsole/blob/6373e62508fd9e9f41b46910e7460833af6b855f/Web%20Console/Web%20Console/WCLAppDelegate.m#L65) method):
+Emacs can do live search using the `helm-do-ag` command from the [`helm-ag` ](https://github.com/syohex/emacs-helm-ag) package[^helm]. Here's what it looks like searching for the string "`toggledebugmode`" in [Web Console](https://github.com/robenkleene/webconsole)'s source code, followed by hitting enter to go to that [line of code](https://github.com/robenkleene/webconsole/blob/6373e62508fd9e9f41b46910e7460833af6b855f/Web%20Console/Web%20Console/WCLAppDelegate.m#L65):
 
 ![helm-do-ag](/assets/2016-03-17-helm-do-ag.gif)
 
@@ -25,13 +25,13 @@ Junegunn Choi's fantastic command-line filtering utility [`fzf`](https://github.
 ag --nobreak --nonumbers --noheading . | fzf
 ```
 
-That's not very useful on it's own, because after you've selected your match, the line will just get printed to the console. So I've written a [fish shell function](https://github.com/robenkleene/Dotfiles/blob/a32996fa1d7af58f929a94db5fc4c05f36d42b47/config/fish/config.fish#L102-L108) that opens that line in Vim.  Here's what that looks like, with the same search as before:
+That's not very useful on it's own, because all it does is print the selected line to the console. So I wrote a [fish shell function](https://github.com/robenkleene/Dotfiles/blob/a32996fa1d7af58f929a94db5fc4c05f36d42b47/config/fish/config.fish#L102-L108) that opens the selected line in Vim.  Here's what that looks like, using the same search as before:
 
 ![`fzf` Vim Lines](/assets/2016-03-17-fzf-vim-lines.gif)
 
-This is piping all the lines of all the files into `fzf`, which then hides the lines that *don't* match your search term. Making this a filter, not a search. Which means *all* the lines of *all* the files need to be stored in memory simultaneously while this command is running. In practice, `fzf` handles this extremely well[^filtering]. The `helm-do-ag` command, on the other hand, performs a regular search, which is preferable since only the *matchings* lines are stored in memory.
+This is piping all the lines of all the files being searched into `fzf`, which then hides the lines that *don't* match your search term. That makes this a filter, not a search, and it means *all* the lines of *all* the files being searched need to be stored in memory while the command is running (in other words, it'll use a lot of RAM). In practice, `fzf` handles this extremely well[^filtering]. The `helm-do-ag` command, on the other hand, performs a real search, which is preferable since only the *matchings lines* are stored in memory.
 
-So there you have it, a case for improving on the shortcomings of our current tools, and some ways to work around those limitations today.
+So there you have it, a case for improving on our current tools and some ways to work around those limitations today.
 
 * * *
 
