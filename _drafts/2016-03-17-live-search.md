@@ -4,11 +4,11 @@ title: "Live Search"
 categories: Unix, Emacs, Vim
 ---
 
-Think about how search works in your favorite text editor. You probably enter your search term first, then hit enter before you start seeing your search results. Now think about how popular consumer apps work: Does Google wait around for you to hit enter before showing you results? How about Spotlight? iTunes? Mail? The App Store?
+Think about how search works in your favorite text editor. You probably type your search term then hit enter before your search results start appearing. Now think about how popular apps work: Does Google wait around for enter before showing you results? How about Spotlight? iTunes? Mail? The App Store?
 
-From a user experience perspective, I don't see any reason programmers' editors shouldn't work the same way. The great irony of being a programmers is that we spend all-day improving apps for other people, while our own tools get left behind[^others].
+I don't see any reason programmers' editors shouldn't work the same way. The great irony of being a programmer is that you spend all-day improving apps for other people, while your own tools are late to get the same innovations[^others].
 
-There are a couple of ways to search source code files live today; I hope to see this in every text editor one day.
+There are a couple of ways to search source code files live today; one day I hope to see this in every text editor.
 
 ## Emacs
 
@@ -25,20 +25,20 @@ Junegunn Choi's fantastic command-line filtering utility [`fzf`](https://github.
 ag --nobreak --nonumbers --noheading . | fzf
 ```
 
-That's not very useful on it's own, because all it does is print the selected line to the console. So I wrote a [fish shell function](https://github.com/robenkleene/Dotfiles/blob/a32996fa1d7af58f929a94db5fc4c05f36d42b47/config/fish/config.fish#L102-L108) that opens the selected line in Vim.  Here's what that looks like, using the same search as before:
+That's not very useful on it's own, because all it does is print the selected line to the console. So I wrote a [fish shell function](https://github.com/robenkleene/Dotfiles/blob/a32996fa1d7af58f929a94db5fc4c05f36d42b47/config/fish/config.fish#L102-L108) that opens the selected line in Vim.  Here's what that looks like, using the same search term as before:
 
 ![`fzf` Vim Lines](/assets/2016-03-17-fzf-vim-lines.gif)
 
 This is piping all the lines of all the files being searched into `fzf`, which then hides the lines that *don't* match your search term. That makes this a filter, not a search, and it means *all* the lines of *all* the files being searched need to be stored in memory while the command is running (in other words, it'll use a lot of RAM). In practice, `fzf` handles this extremely well[^filtering]. The `helm-do-ag` command, on the other hand, performs a real search, which is preferable since only the *matchings lines* are stored in memory.
 
-So there you have it, a case for improving on our current tools and some ways to work around those limitations today.
+So there you have it, a case for improving our current tools and some suggestions for working around those limitations today.
 
 * * *
 
-[^others]: Consider how much find and replace would benefit from a live preview. [TextMate 2](https://github.com/textmate/textmate) and Emacs do implement this in some circumstances, but that's far from typical.
+[^others]: Consider how much find and replace would benefit from a live preview. [TextMate 2](https://github.com/textmate/textmate) and Emacs implement this in some circumstances, but it's far from typical.
 
-[^helm]: [Tu Do](http://tuhdo.github.io/) has a [great introduction](http://tuhdo.github.io/helm-intro.html) to the Emacs [Helm](https://github.com/emacs-helm/helm) package. This was the first place I saw an example of doing live search in Emacs.
+[^helm]: [Tu Do](http://tuhdo.github.io/) has a [great introduction](http://tuhdo.github.io/helm-intro.html) to the Emacs [Helm](https://github.com/emacs-helm/helm) package; this was the first place I saw live search in Emacs.
 
 [^ag]: Both of these commands are powered by [The Silver Searcher](https://github.com/ggreer/the_silver_searcher).
 
-[^filtering]: To test, I piped a directory of five million lines of code through `fzf` and it handled it just fine. That's right, `fzf` stayed performant filtering *five million* lines of code live. If that's not a great illustration of software quality then I don't know what is. Now it used a lot of RAM, to the tune of 6GB, and I wouldn't make a habit of doing this regularly, but it's impressive it handled it at all.
+[^filtering]: I tried piping a directory of five million lines of code through `fzf` and it handled it just fine. That's right, `fzf` stayed performant filtering *five million* lines of code live. If that's not a great illustration of software quality then I don't know what is. Now it used a lot of RAM, to the tune of 6GB, and I wouldn't make a habit of doing it regularly, but it's impressive that it handled it at all.
