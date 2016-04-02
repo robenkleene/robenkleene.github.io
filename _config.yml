@@ -1,9 +1,9 @@
 # Site settings
 title: Roben Kleene
-email: blog@1percenter.com
-description: "Roben Kleene's blog version 3 or 4 or whatever, the time when he <i>really</i> gets it right."
+email: roben@1percenter.com
+description: "Roben Kleene's blog version 3 or 4 or whatever, the time when he *really* gets it right."
 baseurl: ""
-url: "http://1percenter.com"
+url: "http://robenkleene.github.io"
 twitter_username: robenkleene
 github_username:  robenkleene
 
