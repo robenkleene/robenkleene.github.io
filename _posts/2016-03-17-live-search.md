@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Live Search"
+title: "Live Search With Vim & Emacs"
 categories: Unix, Emacs, Vim
 ---
 
