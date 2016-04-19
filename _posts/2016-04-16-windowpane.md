@@ -14,7 +14,7 @@ Why write[^use] Windowpane when there are already other perfectly reasonable sol
 2. Lua bindings for Cocoa's accessibility features that can control the sizes and positions of windows.
 3. Lua scripts that calculate window sizes and positions on a grid.
 
-The reason I wrote Windowpane is that there's so much *software* here that does the same thing as *other software* I already have on my machine, let me explain.
+The reason I wrote Windowpane is that there's so much software here that just does the same thing as other software I already have on my machine. Let me explain.
 
 I've used Daniel Jalkut's excellent [FastScripts](https://red-sweater.com/fastscripts/) for years. FastScripts is a utility for running AppleScripts with keyboard shortcuts[^applescript], that's #1. Apple themselves provide bindings for Cocoa's accessibility features in at least two languages: AppleScript, and the new JavaScript for Automation. That just leaves #3, the Lua scripts themselves. Lua is closely related to JavaScript, so porting them was a no-brainer, hence Windowpane.
 
