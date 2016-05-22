@@ -7,7 +7,7 @@ categories: Max, Ableton-Live, Music-Production
 ![Euclidean Sequencer](/assets/2016-05-22-euclidean-sequencer.png)
 
 I've built an [Euclidean Sequencer](https://github.com/robenkleene/euclidean-sequencer)[^literate] for Ableton Live in [Max for Live](https://www.ableton.com/en/live/max-for-live/). 
-I've been interested in [Euclidean rhythm](https://en.wikipedia.org/wiki/Euclidean_rhythm) ever since [I first heard about it](http://createdigitalmusic.com/2011/03/circles-and-euclidian-rhythms-off-the-grid-a-few-music-makers-that-go-round-and-round/) because it looked like a good solution to some of the problems that come up when making music with a computer. Most of these problems involve what I call "the grid".
+I've been interested in [Euclidean rhythm](https://en.wikipedia.org/wiki/Euclidean_rhythm) ever since [I first heard about it](http://createdigitalmusic.com/2011/03/circles-and-euclidian-rhythms-off-the-grid-a-few-music-makers-that-go-round-and-round/) because it looks like a good solution to some of the problems that come up when making music with a computer. Most of these problems revolve around what I call "the grid".
 
 ![Monome](/assets/2016-05-22-monome.jpeg)
 
@@ -15,17 +15,17 @@ This is a  [Monome](https://en.wikipedia.org/wiki/Monome)[^monome], it's a 16 x 
 
 ![808](/assets/2016-05-22-808.jpeg)
 
-The Monome isn't the inventor of the 16 steps by any means, that goes back decades: The [Roland TR-808](https://en.wikipedia.org/wiki/Roland_TR-808) is a historic example of this layout; it's an electronic music tradition that's been passed down for generations.
+The Monome isn't the originator of the 16 steps by any means, that goes back decades: The [Roland TR-808](https://en.wikipedia.org/wiki/Roland_TR-808) is a historic example of this layout. It's an electronic music tradition that's been passed down for generations.
 
-The disadvantages of this design are obvious, the rhythmic possibilities of 16 steps were exhausted ages ago, but it's the *advantages* that are much more interesting. The small palette is a scaffolding for more adventurous ideas. It's a familiar base that can lure listeners far outside of their comfort zone. It's what allows DJs to blend songs together, the unsung benefit of DJ sets is just how much experimental music gets slipped in and actually *enjoyed* (by people who'd never otherwise find themselves staring face-to-face with a trout mask).
+The disadvantages of this design are obvious, the rhythmic possibilities of 16 steps were exhausted ages ago, but it's the *advantages* that are more interesting. This small palette acts as a scaffolding for more adventurous ideas. It's a familiar base that can lure listeners far outside of their comfort zone. It's what allows DJs to blend songs together, the unsung benefit of DJ sets being just how much experimental music gets slipped in and actually *enjoyed* (by people who'd never otherwise find themselves staring face-to-face with a trout mask).
 
 The grid has been so successful as a compositional tool that it permeates through all kinds of electronic instruments, to the degree that it can be an uphill battle to deviate from it. In many ways this is a good thing, innovation happens when the common cases are effortless, freeing the musician to focus their effort on invention. The balancing act for new tools is how to facilitate the exploration of new ideas without interfering with existing workflows. 
 
-This is where Euclidean rhythm comes in. A Euclidean sequencer is basically polyrhythm generator: It takes two parameters: a number of notes and a number of steps, and it algorithmically positions the notes as equidistant as possible in the number of steps. For example, three notes and seven steps results in the pattern `E(3,7)  = [x . x . x . .]`. It turns out that equidistant distribution is a key to creating rhythms that are inherently musical[^traditional].
+This is where Euclidean rhythm comes in. A Euclidean sequencer is basically polyrhythm generator, it takes two parameters: a number of notes and a number of steps. Then it algorithmically positions the notes as equidistant as possible in the number of steps. For example, three notes and seven steps results in the pattern `E(3,7)  = [x . x . x . .]`. It turns out that equidistant distribution is a key to creating rhythms that sound musical[^traditional].
 
-Polyrhythms are a great way to make rhythms sound fresh: Multiple repeating rhythms at different rates creates variation over time.  And since they're inherently difficult to work with, they're also under-explored. The grid in particular makes polyrhythms impossible in many situations, when the number steps that don't match the 16 subdivisions, and at best difficult. The beauty of the Euclidean sequencer is that it addresses all of these problems simultaneously, while also working seamlessly with the benefits of grid.
+Polyrhythms are a great way to make rhythms sound fresh: Multiple repeating rhythms at different rates creates variation over time.  And being difficult to work with, they're under-explored. The grid in particular makes polyrhythms impossible in many situations, when the number steps that don't match the 16 subdivisions, and difficult at best. The beauty of the Euclidean sequencer is that it simultaneously addresses all of these problems, while also working seamlessly with the benefits of grid.
 
-Now I just have to make a tool to generatively manipulating the Euclidean sequencers parameters, and I can sit back and leave the music making to the machines entirely. I like making software more anyway.
+Now I just have to make one more tool to generatively manipulating the Euclidean sequencers parameters, and I can sit back and leave the music making to the machines entirely. I like making software more anyway.
 
 * * *
 
