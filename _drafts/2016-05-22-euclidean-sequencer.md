@@ -15,17 +15,17 @@ This is a  [Monome](https://en.wikipedia.org/wiki/Monome)[^monome], it's a 16 x 
 
 ![808](/assets/2016-05-22-808.jpeg)
 
-The Monome isn't the inventor of the 16 steps by any means, that goes back decades. The [Roland TR-808](https://en.wikipedia.org/wiki/Roland_TR-808) is a historic example of this layout. It's an electronic music tradition that's been passed down for generations.
+The Monome isn't the inventor of the 16 steps by any means, that goes back decades: The [Roland TR-808](https://en.wikipedia.org/wiki/Roland_TR-808) is a historic example of this layout; it's an electronic music tradition that's been passed down for generations.
 
-The disadvantages of this design are obvious, the rhythmic possibilities of 16 steps were exhausted long ago, but the *advantages* are much more interesting. This small palette acts is a scaffolding for more adventurous ideas, it's a familiar base that can lure listeners far outside of there comfort zone. It's what allows DJs to blend songs together, the unsung benefit of DJ sets is just how much experimental music gets slipped into DJ sets and is actually *enjoyed* (by people who'd wouldn't otherwise find themselves face-to-face with a trout mask).
+The disadvantages of this design are obvious, the rhythmic possibilities of 16 steps were exhausted ages ago, but it's the *advantages* that are much more interesting. The small palette is a scaffolding for more adventurous ideas. It's a familiar base that can lure listeners far outside of their comfort zone. It's what allows DJs to blend songs together, the unsung benefit of DJ sets is just how much experimental music gets slipped in and actually *enjoyed* (by people who'd never otherwise find themselves staring face-to-face with a trout mask).
 
 The grid has been so successful as a compositional tool that it permeates through all kinds of electronic instruments, to the degree that it can be an uphill battle to deviate from it. In many ways this is a good thing, innovation happens when the common cases are effortless, freeing the musician to focus their effort on invention. The balancing act for new tools is how to facilitate the exploration of new ideas without interfering with existing workflows. 
 
 This is where Euclidean rhythm comes in. A Euclidean sequencer is basically polyrhythm generator: It takes two parameters: a number of notes and a number of steps, and it algorithmically positions the notes as equidistant as possible in the number of steps. For example, three notes and seven steps results in the pattern `E(3,7)  = [x . x . x . .]`. It turns out that equidistant distribution is a key to creating rhythms that are inherently musical[^traditional].
 
-Polyrhythms are a great way to make rhythms sound fresh, repeating multiple rhythms at different rates inherently creates variation over time. And their under-explored, because they're difficult work with. The grid in particular makes polyrhythms impossible for any number of steps that doesn't match the 16 subdivisions. So a tool that simultaneously addresses all of these problems while not interfering with the benefits of grid is very useful.
+Polyrhythms are a great way to make rhythms sound fresh: Multiple repeating rhythms at different rates creates variation over time.  And since they're inherently difficult to work with, they're also under-explored. The grid in particular makes polyrhythms impossible in many situations, when the number steps that don't match the 16 subdivisions, and at best difficult. The beauty of the Euclidean sequencer is that it addresses all of these problems simultaneously, while also working seamlessly with the benefits of grid.
 
-Now I just need another tool to generatively manipulating the Euclidean sequencers parameters, then I can sit back and leave the music making up to the machines entirely. I like making software more anyway.
+Now I just have to make a tool to generatively manipulating the Euclidean sequencers parameters, and I can sit back and leave the music making to the machines entirely. I like making software more anyway.
 
 * * *
 
