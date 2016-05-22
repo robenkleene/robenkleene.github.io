@@ -30,6 +30,6 @@ Now I just have to make a tool to generatively manipulating the Euclidean sequen
 
 [^literate]: The repository has some nice examples of using [Literate CoffeeScript](http://coffeescript.org/#literate) to [annotated the Euclidean algirthm](https://github.com/robenkleene/euclidean-sequencer/blob/master/source/src/coffee/bjorklund.litcoffee).
 
-[^monome]: I love the Monome's design because it distills the converging trend toward flexibility in electronic instrument design to its essence. Predictably, it's been tremendously influential, a google image search for [`grid midi controller` ](https://www.google.com/search?q=grid+midi+controller&tbm=isch&gws_rd=ssl) reveals seemingly endless Monome-inspired designs.
+[^monome]: I love the Monome's design because it distills the converging trend in electronic instrument design towards flexibility to its essence. Predictably, it's been tremendously influential, a google image search for [`grid midi controller` ](https://www.google.com/search?q=grid+midi+controller&tbm=isch&gws_rd=ssl) reveals seemingly endless Monome-inspired designs.
 
 [^constraints]: The 16 steps are a great example of [embracing constraints](https://gettingreal.37signals.com/ch03_Embrace_Constraints.php).
