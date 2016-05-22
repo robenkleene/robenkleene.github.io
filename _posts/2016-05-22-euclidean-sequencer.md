@@ -24,7 +24,7 @@ This is where Euclidean rhythm comes in. An Euclidean sequencer is basically pol
 
 Polyrhythms are a great way to make rhythms sound fresh: Multiple repeating rhythms at different rates creates variation over time.  And being difficult to work with, they're under-explored. The grid in particular makes polyrhythms impossible in many situations, when the number steps that don't match the 16 subdivisions, and difficult at best. The beauty of the Euclidean sequencer is that it simultaneously addresses all of these problems, while also working seamlessly with the benefits of grid.
 
-Now I just have to make one more tool to generatively manipulating the Euclidean sequencers parameters, and I can sit back and leave the music making to the machines entirely. I like making software more anyway. My Euclidean Sequencer is [on GitHub](https://github.com/robenkleene/euclidean-sequencer).
+Now I just have to make a tool to generatively manipulating the Euclidean sequencers parameters, and I can sit back and leave the music making to the machines entirely. I like making software more anyway. My Euclidean Sequencer is [on GitHub](https://github.com/robenkleene/euclidean-sequencer).
 
 * * *
 
