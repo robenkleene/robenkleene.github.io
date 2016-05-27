@@ -9,11 +9,13 @@ categories: Max, Ableton-Live, Music-Production
 I've built an [Euclidean Sequencer](https://github.com/robenkleene/euclidean-sequencer)[^literate] for Ableton Live in [Max for Live](https://www.ableton.com/en/live/max-for-live/). I've been interested in [Euclidean rhythm](https://en.wikipedia.org/wiki/Euclidean_rhythm) ever since [I first heard about it](http://createdigitalmusic.com/2011/03/circles-and-euclidian-rhythms-off-the-grid-a-few-music-makers-that-go-round-and-round/) because it looks like a good solution to some of the problems that come up when making music with a computer. Most of these problems revolve around what I call "the grid".
 
 ![Monome](/assets/2016-05-22-monome.jpeg)
+
 *[soundcyst](https://commons.wikimedia.org/wiki/File%3AMonome_256_controlling_Arduino_fake_flamethrower.jpg) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) / Cropped from original*
 
 This is a  [Monome](https://en.wikipedia.org/wiki/Monome)[^monome], it's a 16 x 16 grid of LED buttons that can be mapped to control any aspect of an electronic composition. By far the most common thing they're mapped to is sequencing notes in time (called "steps"). The 16 buttons across mean four steps per measure in 4/4 time[^constraints]. 
 
 ![808](/assets/2016-05-22-808.jpeg)
+
 *[Brandon Daniel](https://commons.wikimedia.org/wiki/File%3ARoland_TR-808_(large).jpg) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)*
 
 The Monome isn't the originator of the 16 steps by any means, that goes back decades: The [Roland TR-808](https://en.wikipedia.org/wiki/Roland_TR-808) is a historic example of this layout. It's an electronic music tradition that's been passed down for generations.
