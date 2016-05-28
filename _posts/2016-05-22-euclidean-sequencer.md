@@ -10,13 +10,13 @@ I've built an [Euclidean Sequencer](https://github.com/robenkleene/euclidean-seq
 
 ![Monome](/assets/2016-05-22-monome.jpeg)
 
-*[soundcyst](https://commons.wikimedia.org/wiki/File%3AMonome_256_controlling_Arduino_fake_flamethrower.jpg) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) / Cropped from original*
+[Monome 256](https://commons.wikimedia.org/wiki/File%3AMonome_256_controlling_Arduino_fake_flamethrower.jpg) by soundcyst / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) / Cropped from original
 
 This is a  [Monome](https://en.wikipedia.org/wiki/Monome)[^monome], it's a 16 x 16 grid of LED buttons that can be mapped to control any aspect of an electronic composition. By far the most common thing they're mapped to is sequencing notes in time (called "steps"). The 16 buttons across mean four steps per measure in 4/4 time[^constraints]. 
 
 ![808](/assets/2016-05-22-808.jpeg)
 
-*[Brandon Daniel](https://commons.wikimedia.org/wiki/File%3ARoland_TR-808_(large).jpg) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)*
+[Roland TR-808](https://commons.wikimedia.org/wiki/File%3ARoland_TR-808_(large).jpg) by Brandon Daniel / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 
 The Monome isn't the originator of the 16 steps by any means, that goes back decades: The [Roland TR-808](https://en.wikipedia.org/wiki/Roland_TR-808) is a historic example of this layout. It's an electronic music tradition that's been passed down for generations.
 
