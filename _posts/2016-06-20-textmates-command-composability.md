@@ -5,7 +5,7 @@ categories: TextMate
 ---
 
 
-For its complexity level, [TextMate](https://github.com/textmate/textmate) is the most well-designed application I've ever encountered. Featurewise, it doesn't compete  with Vim[^vim], Emacs, or Sublime Text---but the features it does implement are better designed than anywhere else.
+For its complexity level, [TextMate](https://github.com/textmate/textmate) is the most well-designed application I've ever encountered. Featurewise[^features], it doesn't compete  with Vim[^vim], Emacs, or Sublime Text---but the features it does implement are better designed than anywhere else.
 
 TextMate's design elegance is exemplified by its command [composability](https://en.wikipedia.org/wiki/Composability). "Composability" here means commands can be chained together to produce cumulative effects that are logical and useful.
 
@@ -59,6 +59,8 @@ TextMate's composability can be demonstrated further by performing the same comm
 Command composability is a defining trait of well-designed software---learning a piece of software is an investment, and one of the best ways an application can make the most of that investment is to amplify what you can accomplish for the same effort through command composability.
 
 * * *
+
+[^features]: [Autocomplete](https://en.wikipedia.org/wiki/Autocomplete), [linter](https://en.wikipedia.org/wiki/Lint_(software)) integration, and [ctags](https://en.wikipedia.org/wiki/Ctags) are the most problematic missing features.
 
 [^vim]: Vim deserves special attention in this post because it also excels at command composability. But Vim has far more design flaws than TextMate. I'd be surprised if anyone can read the chapter on regular expressions in [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition) and not come to this same conclusion.
 
