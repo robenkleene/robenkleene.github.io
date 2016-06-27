@@ -60,7 +60,7 @@ Command composability is a defining trait of well-designed software---learning a
 
 * * *
 
-[^features]: [Autocomplete](https://en.wikipedia.org/wiki/Autocomplete), [linter](https://en.wikipedia.org/wiki/Lint_(software)) integration, and [ctags](https://en.wikipedia.org/wiki/Ctags) are the most problematic missing features.
+[^features]: [Autocomplete](https://en.wikipedia.org/wiki/Autocomplete), [linter](https://en.wikipedia.org/wiki/Lint_(software)) integration, split windows, and [ctags](https://en.wikipedia.org/wiki/Ctags) are the most problematic missing features.
 
 [^vim]: Vim deserves special attention in this post because it also excels at command composability. But Vim has far more design flaws than TextMate. I'd be surprised if anyone can read the chapter on regular expressions in [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition) and not come to this same conclusion.
 
