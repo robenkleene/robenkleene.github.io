@@ -38,3 +38,5 @@ fzf-safari-history-open() {
 ```
 
 Here's what it looks like:
+
+![safari-history](/assets/2018-03-04-safari-history.gif)
