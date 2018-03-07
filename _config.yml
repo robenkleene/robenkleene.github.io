@@ -3,7 +3,7 @@ title: Roben Kleene
 email: roben@1percenter.com
 description: "Roben Kleene's blog version 3 or 4 or whatever, the time when he really gets it right."
 baseurl: ""
-url: "http://robenkleene.github.io"
+url: "http://blog.robenkleene.com"
 twitter_username: robenkleene
 github_username:  robenkleene
 
@@ -11,5 +11,8 @@ github_username:  robenkleene
 markdown: kramdown
 kramdown:
   input: GFM
+theme: minima
+plugins:
+  - jekyll-feed
 
 permalink: /:year/:month/:day/:title/
