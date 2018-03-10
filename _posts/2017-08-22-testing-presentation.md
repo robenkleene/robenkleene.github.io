@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Practical Testing for an Imperative World"
+title: "Practical Testing for an Imperative World Presentation"
 categories: Presentation, iOS, macOS, Development
 ---
 
