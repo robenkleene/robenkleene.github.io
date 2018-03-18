@@ -5,7 +5,7 @@ description: "Roben Kleene's blog version 3 or 4 or whatever, the time when he r
 baseurl: ""
 url: "http://blog.robenkleene.com"
 twitter_username: robenkleene
-github_username:  robenkleene
+github_username: robenkleene
 
 # Build settings
 markdown: kramdown
