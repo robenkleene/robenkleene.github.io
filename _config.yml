@@ -11,8 +11,13 @@ github_username: robenkleene
 markdown: kramdown
 kramdown:
   input: GFM
-theme: minima
+# theme: minima
+theme: cyclist
 plugins:
   - jekyll-feed
+
+# theme
+# show_excerpts: true
+show_contents: true
 
 permalink: /:year/:month/:day/:title/
