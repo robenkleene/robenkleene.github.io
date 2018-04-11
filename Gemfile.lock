@@ -16,7 +16,7 @@ GEM
     commonmarker (0.17.9)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.0.5)
-    cyclist (0.3.0)
+    cyclist (0.4.0)
       jekyll (~> 3.7)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
@@ -248,7 +248,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  cyclist (~> 0.3.0)
+  cyclist (~> 0.4.0)
   github-pages
   jekyll-feed (~> 0.6)
   tzinfo-data
