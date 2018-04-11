@@ -11,8 +11,10 @@ github_username: robenkleene
 markdown: kramdown
 kramdown:
   input: GFM
+
 # theme: minima
 remote_theme: robenkleene/cyclist
+
 plugins:
   - jekyll-feed
 
