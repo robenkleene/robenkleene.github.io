@@ -12,7 +12,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 # theme: minima
-theme: cyclist
+remote_theme: robenkleene/cyclist
 plugins:
   - jekyll-feed
 
