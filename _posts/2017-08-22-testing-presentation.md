@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: link
 title: "Practical Testing for an Imperative World Presentation"
 categories: Presentation, iOS, macOS, Development
 ---

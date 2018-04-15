@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: link
 title: "Cocaine & Rhinestones"
 categories: Music, Podcast
 ---

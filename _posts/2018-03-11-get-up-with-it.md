@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: link
 title: "Get Up With It"
 categories: Music, Jazz
 ---

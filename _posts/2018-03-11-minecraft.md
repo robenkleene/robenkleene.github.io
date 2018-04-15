@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: link
 title: "Playing Video Games With My Son Isn’t What I Thought It Would Be"
 categories: Video-Games
 ---

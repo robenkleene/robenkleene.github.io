@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: link
 title: "Paul Ford on Bitcoin"
 categories: Blockchain, Cryptocurrency
 ---
