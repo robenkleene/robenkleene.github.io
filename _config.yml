@@ -11,6 +11,9 @@ github_username: robenkleene
 markdown: kramdown
 kramdown:
   input: GFM
+  # By default kramdown uses a link that gets converted to an ugly emoji
+  # character on iOS
+  footnote_backlink: "&#8617;&#xfe0e;"
 
 # theme: minima
 remote_theme: robenkleene/cyclist
@@ -18,7 +21,7 @@ remote_theme: robenkleene/cyclist
 plugins:
   - jekyll-feed
 
-# theme
+# Theme
 # show_excerpts: true
 show_contents: true
 
