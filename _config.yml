@@ -21,6 +21,9 @@ remote_theme: robenkleene/cyclist
 plugins:
   - jekyll-feed
 
+feed:
+  path: /feed/atom/index.xml
+
 # Theme
 # show_excerpts: true
 show_contents: true

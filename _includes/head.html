@@ -1,0 +1,10 @@
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+    {%- comment %} Override `head.html` just to get a custom feed URL {% endcomment -%}
+    <link type="application/atom+xml" rel="alternate" href="{{ "/feed/atom/" | relative_url }}" title="Roben Kleene" />
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  </head>
