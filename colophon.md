@@ -15,4 +15,3 @@ This blog uses [Jekyll](https://jekyllrb.com/), with my own theme called [Cyclis
 ![Cyclist Grid](/assets/colophon-cyclist-grid.png)
 
 ![Cyclist](/assets/colophon-cyclist.png)
-
