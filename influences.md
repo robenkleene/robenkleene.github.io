@@ -74,9 +74,9 @@ title: Influences
 
 ### Mac
 
+* [LaunchBar](https://obdev.at/products/launchbar/index.html)
 * [NetNewsWire](http://netnewswireapp.com/)
 * [OmniFocus](https://www.omnigroup.com/omnifocus)
-* [OmniOutliner](https://www.omnigroup.com/omnioutliner)
 * [TextMate](https://macromates.com/)
 
 ### Music
