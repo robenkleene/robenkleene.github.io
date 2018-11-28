@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "That’s just not true for iPad"
+layout: link
+title: "That's Just Not True for iPad"
 categories: iPad
 ---
 

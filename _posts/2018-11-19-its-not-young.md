@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: link
 title: "It's Not Young"
 categories: iOS
 ---
