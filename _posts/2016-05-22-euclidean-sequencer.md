@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Euclidean Sequencer"
-categories: Max, Ableton-Live, Music-Production
+categories: Music-Production
 ---
 
 ![Euclidean Sequencer](/assets/2016-05-22-euclidean-sequencer.png)

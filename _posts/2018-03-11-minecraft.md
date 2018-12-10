@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "Playing Video Games With My Son Isn’t What I Thought It Would Be"
-categories: Video-Games
+categories: Video-Game
 ---
 
 David Cole describes [playing *Minecraft* with his son](https://www.thecut.com/2018/03/playing-minecraft-with-my-son.html) for *The Cut*:

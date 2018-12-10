@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TextMate's Command Composability"
-categories: TextMate
+categories: Text-Editor
 ---
 
 

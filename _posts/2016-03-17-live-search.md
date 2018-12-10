@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Live Search With Vim & Emacs"
-categories: Unix, Emacs, Vim
+categories: Unix, Text-Editor
 ---
 
 Think about how search works in your favorite text editor. You probably type your search term then hit enter before your search results start appearing. Now think about how popular apps work: Does Google wait around for enter before showing you results? How about Spotlight? iTunes? Mail? The App Store?

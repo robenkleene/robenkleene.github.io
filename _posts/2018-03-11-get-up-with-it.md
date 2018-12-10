@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "Get Up With It"
-categories: Music, Jazz
+categories: Music
 ---
 
 Andy Beta [reviews Miles Davis's *Get Up With It*](https://pitchfork.com/reviews/albums/miles-davis-get-up-with-it/) for Pitchfork:
