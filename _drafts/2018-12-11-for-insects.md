@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "For Insects"
+title: "Generalization"
 categories: 
 ---
 

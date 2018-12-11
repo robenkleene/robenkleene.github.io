@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "How Little Actually Changes"
-categories: 
+categories: Unix
 ---
 
 Sinclair Target at Two-Bit History has a [nice piece on `cat`](https://twobithistory.org/2018/11/12/cat.html), I liked this part about the contradictions in tech being called a fast-paced industry:
