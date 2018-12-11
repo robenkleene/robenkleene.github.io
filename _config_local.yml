@@ -1,0 +1,32 @@
+# Site settings
+title: Roben Kleene
+email: contact@robenkleene.com
+description: "Roben Kleene's blog"
+baseurl: ""
+url: "http://blog.robenkleene.com"
+twitter_username: robenkleene
+github_username: robenkleene
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  # By default kramdown uses a link that gets converted to an ugly emoji
+  # character on iOS
+  footnote_backlink: "&#8617;&#xfe0e;"
+
+# theme: minima
+# remote_theme: robenkleene/cyclist
+theme: cyclist
+
+plugins:
+  - jekyll-feed
+
+feed:
+  path: /feed/atom/index.xml
+
+# Theme
+# show_excerpts: true
+show_contents: true
+
+permalink: /:year/:month/:day/:title/
