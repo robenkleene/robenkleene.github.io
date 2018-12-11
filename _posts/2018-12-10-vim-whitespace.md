@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vim Whitespace"
+title: "Whitespace in Vim"
 categories: Unix, Text-Editor
 ---
 
