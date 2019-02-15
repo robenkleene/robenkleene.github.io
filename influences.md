@@ -7,7 +7,6 @@ title: Influences
 
 * [Daring Fireball](https://daringfireball.net/)
 * [Marco.org](https://marco.org/)
-* [The Brooks Review](https://brooksreview.net/)
 * [Inessential](http://inessential.com/)
 * [Kottke.org](https://www.kottke.org)
 
