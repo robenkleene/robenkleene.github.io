@@ -10,4 +10,4 @@ Michael Herrmann on his experience [switching to desktop Linux](https://fman.io/
 
 It's hard to get an accurate picture of Linux on the desktop, since so many Linux users are proponents of [Free software](https://en.wikipedia.org/wiki/Free_software), it's difficult to separate that from the user experience in their accounts. Operating systems are a *partisan issue*. So I'm always on the lookout for accounts that sound unbiased. Michael's account, with its precise description of the problems and solutions, has the ring of truth.
 
-People experiencing issues like those completely differently. For some, they're minor annoyances that can be put up with without a second thought, for others, the computers busted and it's going out the window. The more you lean towards the latter, the more likely you'll be happier on a Mac.
+People experiencing issues like those completely differently. For some, they're minor annoyances that can be put up with without a second thought, for others, the computer's busted and it's going out the window. The more you lean towards the latter, the more likely you'll be happier on a Mac.
