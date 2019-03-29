@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BBC Blocks Its Podcasts on Google Podcasts App"
+title: "BBC Blocks Its Podcasts in Google Podcasts App"
 categories: Podcasts
 ---
 
