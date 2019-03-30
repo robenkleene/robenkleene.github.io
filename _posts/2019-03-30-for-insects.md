@@ -14,4 +14,4 @@ Believing that code, or [Free software](https://en.wikipedia.org/wiki/Free_softw
 
 * * *
 
-[^workarounds]: There are workarounds for all, or at least most (audio on Linux seems particularly untenable), of these tasks, but I'm looking for first-citizen status for every one of those tasks. *These are what computers are for.*
+[^workarounds]: There are workarounds for all, or at least most (audio on Linux seems particularly untenable), of these tasks, but I'm looking for first-class citizen status for every one of those tasks. *These are what computers are for.*
