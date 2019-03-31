@@ -84,3 +84,8 @@ title: Influences
 * [Ableton Live](https://www.ableton.com/)
 * [Logic Pro X](https://www.apple.com/logic-pro/)
 * [Max](https://cycling74.com/)
+
+### Video Games
+
+* [Ultima VII](https://en.wikipedia.org/wiki/Ultima_VII:_The_Black_Gate)
+* [Quake](https://en.wikipedia.org/wiki/Quake_(video_game))
