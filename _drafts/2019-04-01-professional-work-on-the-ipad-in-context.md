@@ -12,13 +12,13 @@ Based on [Stackoverflow's Annual Developer Survey](https://insights.stackoverflo
 
 1. [2015](https://insights.stackoverflow.com/survey/2015#tech-editor): 2.8% combined, 2.8% Atom
 2. [2016](https://insights.stackoverflow.com/survey/2016#technology-development-environments): 19.7% combined, 12.5% Atom, 7.2% Visual Studio Code
-3. [2017]([Stack Overflow Developer Survey 2017](https://insights.stackoverflow.com/survey/2017#technology-_-most-popular-developer-environments-by-occupation)): 39.6% combined, 17.3% Atom, 22.3% Visual Studio Code
+3. [2017](https://insights.stackoverflow.com/survey/2017#technology-_-most-popular-developer-environments-by-occupation): 39.6% combined, 17.3% Atom, 22.3% Visual Studio Code
 4. [2018](https://insights.stackoverflow.com/survey/2018#technology-_-most-popular-development-environments): 52.9% combined, 18% Atom, 34.9% Visual Studio Code
 
-That's 52.9% of market captured just four years after the new products were introduced. We don't have real numbers about iPad market share[^survey], but I think we can be certain they look nothing like this.
+That's 52.9% of market captured four years after they were introduced. We don't have real numbers about iPad market share in professional music production[^survey], but I think we can be certain they don't look like this.
 
-There are all sorts of reasons the music production industry is different than the programming industry. The programming industry is of course known for moving quickly. But the software Henny is using in the video, [BeatMaker](https://intua.net/beatmaker3/), was first released in 2008. At what point do we call a dud a dud?
+There are all sorts of reasons the music production industry is different than the programming industry. The programming industry is of course known for its pace of change. But the software Henny is using in the video, [BeatMaker](https://intua.net/beatmaker3/), was first released in 2008. At what point do we call a dud a dud?
 
 * * *
 
-[^survey]: This kind of freely available industry trends survey data is unique to programming, and it's also [starting to also appear for design](https://uxtools.co/survey-2018).
+[^survey]: This kind of freely available survey data on industry trends is unique to programming, it's [starting to appear for design](https://uxtools.co/survey-2018).
