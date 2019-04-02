@@ -13,10 +13,10 @@ categories: Design, Software, Professional
 
 What's most interesting about these numbers, is that while Figma has experienced over 200% growth, Sketch actually gained more market share percentage points, by a wide margin (25% vs. +14%)[^multiple], making it difficult to guess how this will play out.
 
-Personally, I think web apps like Figma, are better for collaboration, since then everyone can always be looking at the latest design, but native apps are better for solo work, where personal productivity is the highest priority. An ideal workflow would be mainly working in Sketch but exporting to Figma to collaborate. The question at stake here is whether collaboration is so important it will just end up subsuming all other concerns, like it has for spreadsheets and word processors with [Google Docs](https://docs.google.com).
+Personally, I think web apps like Figma, are better for collaboration, since then everyone can always be looking at the latest design, but native apps are better for solo work, where personal productivity is the highest priority. An ideal workflow would be mainly working in Sketch but exporting to Figma to collaborate. The question at stake here is whether collaboration is so important that it will just end up subsuming all other concerns (like it has for spreadsheets and word processors with [Google Docs](https://docs.google.com)).
 
 * * *
 
 [^venture]: Figma has been [venture funded since the beginning](https://techcrunch.com/2013/06/26/21-years-4-million-dollars/), whereas Sketch was originally bootstrapped, but recently [took a series A round](https://blog.sketchapp.com) (presumably as competition heats up from Figma).
-[^interface]: These numbers are from the user-interface design category because, as a software developer, that's the category I'm most interested in.
-[^multiple]: Each respondent can choose multiple tools in this survey, so the same people can vote for both Sketch and Figma.
+[^interface]: These numbers are for the user-interface design category because, as a software developer, that's the category I'm most interested in.
+[^multiple]: Each respondent can choose multiple tools in this survey, so the same people can be voting for both Sketch and Figma.
