@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: link
 title: "AppStories Podcast Discusses Pro Apps"
 categories: Podcast, Professional, Software
 ---
