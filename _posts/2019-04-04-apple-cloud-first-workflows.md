@@ -14,9 +14,9 @@ And a follow-up tweet in the same thread:
 
 I'm not sure this is as big an issue as Speirs thinks it is. Or to clarify, I think Apple actually does want to be great at this[^iwork], but it isn't in their DNA and never has been. A big priority for online collaboration is a consistent cross-platform experience, and Apple has never been great at cross-platform applications (or at web applications).
 
-My biggest gripe with Apple's current direction is they are failing at *what they were once great at*: Pro applications. Here their strategy goes from entirely absent, with no Apple Pro applications on the iPad *Pro*, to clueless, by prioritizing consumer-iOS features on macOS (their only pro platform), to border-line malicious, by letting platform-distinguishing pro features (like [AppleScript](https://daringfireball.net/linked/2016/11/16/sal-soghoian)) die on the vine.
+My biggest gripe with Apple's current direction is they are failing at *what they were once great at*: Pro applications. Here their strategy goes from entirely absent, with no Apple Pro applications on the iPad *Pro*, to clueless, by prioritizing consumer iOS features on macOS (their only pro platform), to border-line malicious, by letting platform-distinguishing pro features (like [AppleScript](https://daringfireball.net/linked/2016/11/16/sal-soghoian)) die on the vine.
 
-This is really focused on Fraser's second tweet. I think Apple should be *doubling down* on "people who mostly work alone or in very small groups". Those people cater to Apple's strengths: They need high-quality, powerful hardware and software. It would be great if Apple was more competitive with their cloud-first workflows, but that just isn't one of Apple's core competencies. Apple seems to be failing pro users out of spite.
+This is really focused on Fraser's second tweet. I think Apple should be *doubling down* on "people who mostly work alone or in very small groups". Catering to these people plays to Apple's strengths: They need high-quality, powerful hardware and software. It would be great if Apple was more competitive with their cloud-first workflows, but that just isn't one of Apple's core competencies. Apple seems to be failing pro users out of spite.
 
 * * *
 
