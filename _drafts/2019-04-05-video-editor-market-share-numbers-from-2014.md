@@ -4,7 +4,7 @@ title: "Video Editor Market Share Numbers From 2014"
 categories: Professional, Video-Editor
 ---
 
-I'm [love](/2019/04/01/professional-work-on-the-ipad-in-context/) [discussing](/2019/04/02/sketch-figmas-market-share/) market share numbers for professional tools[^photoshop], so I was happy to find this breakdown on [video editor market share](http://www.learningvideo.com/nle-market-share-breakdown/) [Dave Dugdale](https://twitter.com/dugdale) conducted by polling his audience ("over 1000 people responded"):
+I [love](/2019/04/01/professional-work-on-the-ipad-in-context/) [discussing](/2019/04/02/sketch-figmas-market-share/) market share numbers for professional tools[^photoshop], so I was happy to find this breakdown on [video editor market share](http://www.learningvideo.com/nle-market-share-breakdown/) [Dave Dugdale](https://twitter.com/dugdale) conducted by polling his audience ("over 1000 people responded"):
 
 1. 63% Adobe Premiere Pro
 2. 20% Final Cut Pro[^finalcut]
