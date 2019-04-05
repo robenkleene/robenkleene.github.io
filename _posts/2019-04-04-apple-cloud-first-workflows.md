@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apple & Cloud-First Workflows"
-categories: Professional, Colloboration
+categories: Professional, Collaboration
 ---
 
 [Fraser Speirs on Twitter](https://twitter.com/fraserspeirs/status/1113320119588020224): 
