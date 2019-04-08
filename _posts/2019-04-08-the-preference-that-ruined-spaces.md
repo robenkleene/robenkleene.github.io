@@ -10,7 +10,7 @@ In his post on [Spaces in 10.5.3](https://daringfireball.net/2008/05/spaces), Gr
 
 10.5.3 is the version that introduced the all-important “When switching to an application, switch to a space with open windows for the application” option[^defaults]. I contend that this option should have always been disabled by default, i.e., Spaces *never* should have automatically switched spaces when switching  applications---and not having that be the default behavior ruined Spaces.
 
-The problem with automatically switching to the space for an application is that that is application-level window organization, but OS X *already had great application-level window organization*. "Command-Tab", Exposé, Dock icons, application hiding (`⌘H`), and Spotlight, are all already great ways to switch between applications.
+The problem with automatically switching to the space for an application is that that enforces application-level window organization, but OS X *already had great application-level window organization*. "Command-Tab", Exposé, Dock icons, application hiding (`⌘H`), and Spotlight, are all already great ways to switch between applications.
 
 Literally, the *entire value add* of Spaces is that it is the *only way* to organize application windows *besides by application*. And since the only sensical behavior for Spaces was hidden behind a user preference, it meant a whole bunch of essential refinements that would make a truly great Spaces experience would never be prioritize for non-default behavior. For example:
 
