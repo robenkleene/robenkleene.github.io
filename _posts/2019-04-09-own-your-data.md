@@ -14,9 +14,9 @@ Jared's goes over his backup strategy in his post, and it's extensive, and yet:
 
 My setup is similar to Jared's: Everything I care about is backed up extensively, but there are a few small pockets that could use some improvement[^tumblr]. We can all always use a reminder that any data stored in the cloud could disappear forever at any moment[^data].
 
-For big companies, I can see some data stored exclusively in the cloud being a good tradeoff: If your account were suddenly inaccessible, presumably you'd have the leverage to get it back. And getting your employees to all implement a decent backup strategy is probably impossible anyway.
+For big companies, I can see storing some data exclusively in the cloud being a good tradeoff: If your account were suddenly inaccessible, presumably you'd have the leverage to get it back. And getting your employees to all implement a decent backup strategy is probably impossible anyway.
 
-But for individuals and small companies, storing anything you care about exclusively in the cloud is madness. You shouldn't be entering data you care about into anything that doesn't automatically create a local backup that you have full control over. The basic reality is that people are sometimes locked out of these services without warning and find themselves in the Kafkaesque situation of trying to get their account back from a company that has automated people out of their support system.
+But for individuals and small companies, storing anything you care about exclusively in the cloud is madness. You shouldn't be entering any data you care about into anything that doesn't automatically create a local backup that you have full control over. The basic reality is that people are sometimes locked out of these services without warning and find themselves in the Kafkaesque situation of trying to get their account back from a company that has automated people out of their support system.
 
 * * *
 
