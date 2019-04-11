@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "Pixelmator Photo Coming Soon to iOS"
-categories: Software
+categories: Software, News
 ---
 
 [Pixelmator Photo](https://www.pixelmator.com/blog/2019/04/02/pixelmator-photo-now-available-for-pre-order-coming-april-9th/) is coming out April 9th (just $4.99, really?). I'm not a big photo editor, but if I were I'd use [Pixelmator](https://www.pixelmator.com/) because it's the most Mac-like of the available photo editors.

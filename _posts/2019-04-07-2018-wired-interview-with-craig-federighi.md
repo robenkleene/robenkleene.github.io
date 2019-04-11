@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "2018 Wired Interview With Craig Federighi"
-categories: macOS
+categories: macOS, Old
 ---
 
 In light of the news about Apple's new services from the [March event](https://www.apple.com/apple-events/march-2019/), and [other details](https://twitter.com/stroughtonsmith/status/1114261872029700098) that have come to light, it's good to go back and review some of the statements in this [exclusive Wired interview with Craig Federighi](https://www.wired.com/story/wwdc-2018-federighi-ios-apps-on-macos/):

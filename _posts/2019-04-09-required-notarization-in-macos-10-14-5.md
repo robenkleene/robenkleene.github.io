@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "Required Notarization in macOS 10.14.5"
-categories: macOS, Development
+categories: macOS, Development, News
 ---
 
 As Steve Troughton-Smith [points out on Twitter](https://twitter.com/stroughtonsmith/status/1115354467006910471) Apple has updated the [notarization documentation](https://developer.apple.com/documentation/security/notarizing_your_app_before_distribution?language=objc) to include the following:

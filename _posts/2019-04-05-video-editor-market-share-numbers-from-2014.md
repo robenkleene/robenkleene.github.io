@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "2014 Video Editor Market Share Numbers"
-categories: Professional, Video-Editor
+categories: Professional, Video-Editor, Old
 ---
 
 I [love](/2019/04/01/professional-work-on-the-ipad-in-context/) [discussing](/2019/04/02/sketch-figmas-market-share/) market share numbers for professional tools[^photoshop], so I was happy to find this breakdown on [video editor market share](http://www.learningvideo.com/nle-market-share-breakdown/) by [Dave Dugdale](https://twitter.com/dugdale) from 2014[^finalcut]. Dave polled his audience and received "over 1000" responses:

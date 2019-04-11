@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SubEthaEdit Goes Open Source"
-categories: Software, Text-Editor
+categories: Software, Text-Editor, News
 ---
 
 Classic macOS text editor [SubEthaEdit has gone open source](https://rant.monkeydom.de/posts/2018/11/28/see-is-back) (and free as in beer!): 

@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "2012 Apple's Great GPL Purge"
-categories: Open-Source, macOS
+categories: Open-Source, macOS, Old
 ---
 
 [Mathew](https://twitter.com/mathew) writes about [the declining number GPL packages](http://meta.ath0.com/2012/02/05/apples-great-gpl-purge/) shipping with OS X:

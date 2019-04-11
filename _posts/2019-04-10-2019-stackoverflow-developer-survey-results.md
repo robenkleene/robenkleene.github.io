@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "2019 Stackoverflow Developer Survey Results"
-categories: Software, Development, Text-Editor
+categories: Software, Development, Text-Editor, News
 ---
 
 The [2019 Stackoverflow developer survey results](https://insights.stackoverflow.com/survey/2019#development-environments-and-tools) are out, which means I can update the data I collected for [another post](/2019/04/01/professional-work-on-the-ipad-in-context/) illustrating the industry-wide takeover by the Electron-based text editors:
