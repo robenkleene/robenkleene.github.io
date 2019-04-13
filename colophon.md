@@ -3,7 +3,7 @@ layout: page
 title: Colophon
 ---
 
-This blog uses [Jekyll](https://jekyllrb.com/), with my own theme called [Cyclist](https://github.com/robenkleene/cyclist/tree/master). Cyclist uses my typographic-grid system, [Raster](https://github.com/robenkleene/raster), for layout.
+This blog uses [Jekyll](https://jekyllrb.com/), with my own theme called [Cyclist](https://github.com/robenkleene/cyclist). Cyclist uses my typographic-grid system, [Raster](https://github.com/robenkleene/raster), for layout.
 
 *Cyclist* uses the typefaces [Playfair Display][playfair] for headers, [Crimson][crimson] for body copy, [Lato][lato] for block quotes, and [Fira Mono][fira] for code. All of them are free software under the [SIL Open Font License](https://en.wikipedia.org/wiki/SIL_Open_Font_License). Thanks for everyone's hard work on free typography.
 
