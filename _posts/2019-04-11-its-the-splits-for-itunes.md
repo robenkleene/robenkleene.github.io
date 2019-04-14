@@ -10,7 +10,7 @@ categories: News, macOS
 
 > With the standalone versions of Apple’s media apps coming to the Mac, it’s natural to ask: what about iTunes in macOS 10.15? According to sources, the next major version of macOS will still include the iTunes app. Since Apple doesn’t have a new solution for manually syncing devices such as old iPods and iPhones with the Mac, it’s natural to keep iTunes around a little longer.
 
-We'll see how this goes. The biggest implications are for the Music app. Podcasts, TV, and Books[^books] already range from terrible to non-existent. The obvious features on the potentially on the chopping block are metadata editing, adding your own music, and anything involving manual syncing.
+We'll see how this goes. The biggest implications are for the Music app. Podcasts, TV, and Books[^books] already range from terrible to non-existent. The obvious features potentially on the chopping block are metadata editing, adding your own music, and anything involving manual syncing.
 
 For me the most important of these is adding your own music. My iTunes library has 10,560 songs in it, of that 1,715 are songs I've added myself using [iTunes Match](https://support.apple.com/en-us/HT204146). That's 16% on paper, but the that's also by far the most listened to music in my collection.
 
