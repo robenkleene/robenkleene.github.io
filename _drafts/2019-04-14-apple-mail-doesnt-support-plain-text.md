@@ -4,18 +4,17 @@ title: "Apple Mail Doesn't Support Plain Text"
 categories: macOS
 ---
 
-For a long time I've had a [splinter in my mind](https://www.youtube.com/watch?v=DRnr3MiGWmo) when composing messages in Apple Mail. Just a general feeling that something wasn't right that I couldn't put my finger on. When I finally saw the illusion for what it was, it felt so obvious, like a cheap trick that falls apart upon closer inspection. Apple Mail doesn't support plain text.
+For a long time I've had a [splinter in my mind](https://www.youtube.com/watch?v=DRnr3MiGWmo) when composing messages in Apple Mail. Just a general feeling that something wasn't right that I couldn't put my finger on. When I finally saw the illusion for what it was, it was so obvious. A cheap trick that falls apart upon closer inspection: Apple Mail doesn't support plain text.
 
-The confusion begins because I clearly have "Plain Text" set as the "Message Format" in Mail's preferences. But, if I for example quote an email message I'm replying to, Mail uses a graphical bar to indicate the quoted portion of a message (instead of using the plain text convention of preceding each quoted line with a `>` character).
+The confusion begins because I clearly have "Plain Text" set as the "Message Format" in Mail's preferences. But, if I for example quote a message I'm replying to, Mail uses a graphical bar to indicate the quoted portion of a message (instead of the plain text convention of preceding each quoted line with a `>` character).
 
 ![Top Post Reply](/assets/2019-04-14-top-post-reply.png)
 
-This is frustrating for a few reasons. Since the cursor is also placed in the wrong position for replying to a quoted portion of an email (ready to commit [top posting](https://daringfireball.net/2007/07/on_top)). If I then do what's natural, and remove the top empty line, and move the cursor to the bottom of the post, here's the result:
+This is frustrating for a few reasons. Since the cursor is also placed in the wrong position for replying to a quoted portion of an email (ready to commit [top posting](https://daringfireball.net/2007/07/on_top)), if I then do what's natural, and remove the top empty line, and move the cursor to the bottom of the post, here's the result:
 
 ![Broken Reply](/assets/2019-04-14-broken-reply.png)
 
-Deleting the top line breaks the quote formatting[^invisiblecharacters]. The workaround is simple, but still unfortunate: Just leave a blank line at the top of the message[^cutandpaste]. But this cuts right to the heart of why some people greatly prefer plain text. 
-Rich text in *unpredictable* and therefore *unreliable*.
+Deleting the top line breaks the quote formatting[^invisiblecharacters]. The workaround is simple, but still unfortunate: Just leave a blank line at the top of the message[^cutandpaste]. But this cuts right to the heart of why some people greatly prefer plain text: Rich text in *unpredictable* and therefore *unreliable*.
 
 If I view the "Raw Source" of the message in Mail, it's revealed as an obvious imposter:
 
