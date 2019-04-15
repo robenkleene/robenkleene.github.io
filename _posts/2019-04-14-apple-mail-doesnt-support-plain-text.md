@@ -4,19 +4,19 @@ title: "Apple Mail Doesn't Support Plain Text"
 categories: macOS
 ---
 
-For a long time I've had a [splinter in my mind](https://www.youtube.com/watch?v=DRnr3MiGWmo) when composing messages in Apple Mail. Just a general feeling that something wasn't right that I couldn't put my finger on. When I finally saw the illusion for what it was, it was so obvious. A cheap trick that falls apart upon closer inspection: Apple Mail doesn't support plain text.
+For a long time I've had a [splinter in my mind](https://www.youtube.com/watch?v=DRnr3MiGWmo) when composing messages in Apple Mail. Just a general feeling that something wasn't quite right that I couldn't put my finger on. When I finally figured it out, it was so obvious, like a cheap illusion that falls apart upon close inspection: Apple Mail doesn't support plain text.
 
-The confusion begins because I clearly have "Plain Text" set as the "Message Format" in Mail's preferences. But, if I for example quote a message I'm replying to, Mail uses a graphical bar to indicate the quoted portion of a message (instead of the plain text convention of preceding each quoted line with a `>` character).
+The confusion begins because I clearly have "Plain Text" set as the "Message Format" in Mail's preferences. But, if I quote a message I'm replying to, Mail uses a graphical bar to indicate the quoted portion of a message instead using plain text convention of preceding each quoted line with a `>` character:
 
 ![Top Post Reply](/assets/2019-04-14-top-post-reply.png)
 
-This is frustrating for a few reasons. Since the cursor is also placed in the wrong position for replying to a quoted portion of an email (ready to commit [top posting](https://daringfireball.net/2007/07/on_top)), if I then do what's natural, and remove the top empty line, and move the cursor to the bottom of the post, here's the result:
+This is frustrating for a few reasons. Since the cursor is also placed in the wrong position for replying to a quoted portion of an email (positioned ready to commit [top posting](https://daringfireball.net/2007/07/on_top)), if I then do what's natural, and remove the top empty line, and move the cursor to the bottom of the post, here's the result:
 
 ![Broken Reply](/assets/2019-04-14-broken-reply.png)
 
-Deleting the top line breaks the quote formatting[^invisiblecharacters]. The workaround is simple, but still unfortunate: Just leave a blank line at the top of the message[^cutandpaste]. But this cuts right to the heart of why some people greatly prefer plain text: Rich text in *unpredictable* and therefore *unreliable*.
+Deleting the top line breaks the quote formatting[^invisiblecharacters]. The workaround is simple, but unfortunate: Leave a blank line at the top of the message[^cutandpaste]. But this cuts right to the heart of why some people greatly prefer plain text: Rich text is *unpredictable* and therefore *unreliable*.
 
-If I view the "Raw Source" of the message in Mail, it's revealed as an obvious imposter:
+If I view the "Raw Source" of the message in Mail it's revealed as an obvious imposter:
 
 	Subject: Re: Looks Can Be Deceiving
 	Mime-Version: 1.0 (Mac OS X Mail 12.4 \(3445.104.8\))
@@ -47,6 +47,6 @@ That's not plain text.
 
 * * *
 
-[^invisiblecharacters]: The reason the formatting breaks is because rich text is implemented by inserting invisible characters into the document. If you delete the invisible character, the formatting disappears or changes. The problem is how do you know when you're going to delete an invisible character? These invisible characters  also cause a number of other annoying rich text issues such as text taking on a different formatting depending on where it's pasted into a document.
+[^invisiblecharacters]: The reason the formatting breaks is because rich text is implemented by inserting invisible characters into the document. If you delete the invisible character, the formatting disappears or changes. The problem is how do you know when you're going to delete an invisible character? These invisible characters also cause a number of annoying rich text issues such as text taking on a different formatting depending on where it's pasted into a document.
 
-[^cutandpaste]: Another problem with Mail's lack of plain text indication of message quoting is that it means a message can't be copied and pasted into a text editor, edited there, and then pasted back into Mail. If you try to do so, you'll lose any indication of the quoted portion of the email.
+[^cutandpaste]: Another problem with Mail's not using plain text to indicate message quoting is that it means a message can't be copied and pasted into a text editor, edited there, and then pasted back into Mail. If you try to do this you'll lose the indication of message quoting.
