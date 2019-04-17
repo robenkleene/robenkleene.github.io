@@ -8,4 +8,4 @@ categories: News, iOS
 
 > There are many changes coming to iPad with iOS 13, including the ability for apps to have multiple windows. Each window will also be able to contain sheets that are initially attached to a portion of the screen, but can be detached with a drag gesture, becoming a card that can be moved around freely, similar to what an open-source project called "[PanelKit](https://github.com/louisdh/panelkit)" could do.
 
-We should see iOS gravitate towards a normal windowed OS over time, especially on larger screens, since that's the paradigm that's already won for those screen sizes.
+We should see iOS gravitate towards a normal-windowed OS over time, especially on larger screens, since that's the paradigm that's already won for those screen sizes.
