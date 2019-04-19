@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "Accidental Tech Podcast on the Coming ITunes Break Up"
+title: "Accidental Tech Podcast on the Coming iTunes Break Up"
 categories: Podcast, macOS
 ---
 
