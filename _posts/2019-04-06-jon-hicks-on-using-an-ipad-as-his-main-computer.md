@@ -18,6 +18,6 @@ Definitely don't miss the "[Shortcomings and Workarounds](https://hicksdesign.co
 
 [^podcast]: Jon also appeared recently on [Episode 44 of the iPad Pros podcast](https://ipadpros.net/2019/02/07/episode-44-jon-from-hicks-design/).
 
-[^illustration]: Illustration should have one of the easiest times transitioning to iOS. The success of [Wacom Tablets](https://www.wacom.com/en-us) shows this group already likes working this way. The other two types of work that I think transition easily are writing and general office work (e.g., [Microsoft Office](https://en.wikipedia.org/wiki/Microsoft_Office), [iWork](https://en.wikipedia.org/wiki/IWork), and [Google Docs](https://en.wikipedia.org/wiki/Google_Docs).
+[^illustration]: Illustration should have one of the easiest times transitioning to iOS. The success of [Wacom Tablets](https://www.wacom.com/en-us) shows this group already likes working this way. The other two types of work I think transition easily are writing and general office work (e.g., [Microsoft Office](https://en.wikipedia.org/wiki/Microsoft_Office), [iWork](https://en.wikipedia.org/wiki/IWork), and [Google Docs](https://en.wikipedia.org/wiki/Google_Docs).
 
 
