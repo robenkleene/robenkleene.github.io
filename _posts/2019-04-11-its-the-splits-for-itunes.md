@@ -16,4 +16,4 @@ For me the most important of these is adding your own music. My iTunes library h
 
 * * *
 
-[^books]: I actually use the books app extensively, mainly to share PDFs between devices, but I also have a handful of books and [graphic novels](https://en.wikipedia.org/wiki/The_Arab_of_the_Future). Some purchased through the Apple Book Store. The Books app already can't edit metadata, and you can't select book and right-click it to reveal it in the Finder, but you *can* add your own data, hopefully that bodes well for adding your own music in the new Music app.
+[^books]: I actually use the books app extensively, mainly to share PDFs between devices, but I also have a handful of books and [graphic novels](https://en.wikipedia.org/wiki/The_Arab_of_the_Future), some purchased through the Apple Book Store. The Books app already can't edit metadata, and you can't select a book and right-click it to reveal it in the Finder. But you *can* add your own data, hopefully that bodes well for adding your own music in the new Music app.
