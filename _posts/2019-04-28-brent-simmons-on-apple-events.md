@@ -10,7 +10,7 @@ Brent Simmon's has [another](/2019/04/24/marzipan-freedom/) wonderful piece, thi
 
 This is the biggest misconception about the Macs. Conventional wisdom is that Macs are for users that don't have the technical ability to run something like Linux (or at least don't want the hassle). The truth is that AppleScript, combined with the [Unix subsystem](https://en.wikipedia.org/wiki/Darwin_(operating_system)), has historically[^dockeronmac] made OS X a more powerful programming environment than other platforms.
 
-Now AppleScript is dying by attrition, presumably to be replaced by the [technically inferior Shortcuts](/2019/04/21/siri-shortcuts-coming-to-the-mac/). Like with the keyboards and touch bar harming their laptop line, Apple is squandering their advantages.
+Now AppleScript is dying by attrition, presumably to be replaced by the [technically inferior Shortcuts](/2019/04/21/siri-shortcuts-coming-to-the-mac/). Like with the keyboards and Touch Bar harming their laptop line, Apple is squandering their advantages.
 
 * * *
 
