@@ -25,7 +25,7 @@ Junegunn Choi's fantastic command-line filtering utility [`fzf`](https://github.
 ag --nobreak --nonumbers --noheading . | fzf
 ```
 
-That's not very useful on it's own, because all it does is print the selected line to the console. So I wrote a [fish shell function](https://github.com/robenkleene/Dotfiles/blob/a32996fa1d7af58f929a94db5fc4c05f36d42b47/config/fish/config.fish#L102-L108) that opens the selected line in Vim.  Here's what that looks like, using the same search term as before:
+That's not useful on it's own, because all it does is print the selected line to the console. So I wrote a [fish shell function](https://github.com/robenkleene/Dotfiles/blob/a32996fa1d7af58f929a94db5fc4c05f36d42b47/config/fish/config.fish#L102-L108) that opens the selected line in Vim. Here's what that looks like, using the same search term as before:
 
 ![`fzf` Vim Lines](/assets/2016-03-17-fzf-vim-lines.gif)
 

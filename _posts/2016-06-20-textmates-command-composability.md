@@ -66,4 +66,4 @@ Command composability is a defining trait of well-designed software---learning a
 
 [^selection]: ["Filter Through Command..."](http://manual.textmate.org/text-editing.html#shell-command-filters) is my favorite example.
 
-[^annoying]: "Replace All" does have a keyboard shortcut, `⌃⌘G`, but it's hard to remember. And frankly, OS X dialog boxes don't work very well when you want to choose any button other than the default (or `esc` to dismiss). And "Replace All" is too dangerous to make the default.
+[^annoying]: "Replace All" does have a keyboard shortcut, `⌃⌘G`, but it's hard to remember. And frankly, OS X dialog boxes don't work well when you want to choose any button other than the default (or `esc` to dismiss). And "Replace All" is too dangerous to make the default.

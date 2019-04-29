@@ -16,7 +16,7 @@ This is frustrating for a few reasons. Since the cursor is also placed in the wr
 
 Deleting the top line breaks the quote formatting[^invisiblecharacters]. The workaround is simple, but unfortunate: Leave a blank line at the top of the message[^cutandpaste]. But this cuts right to the heart of why some people greatly prefer plain text: Rich text is *unpredictable* and therefore *unreliable*.
 
-If I view the "Raw Source" of the message in Mail it's revealed as an obvious imposter:
+If I view the "Raw Source" of the message in Mail it's revealed as an obvious impostor:
 
 	Subject: Re: Looks Can Be Deceiving
 	Mime-Version: 1.0 (Mac OS X Mail 12.4 \(3445.104.8\))

@@ -10,7 +10,7 @@ The reason I use an Ergodox is that it's a solution to the wrist angle problems 
 
 > It has the vertical split common on ergonomic keyboards, and the main keys are angled so your wrists can hold your hands straight forward instead of at the slight outward angle needed to type on a straight row of keys. (The official term for the normal bad angle is "ulnar deviation".)
 
-Back to the Planck EZ, I personally prefer my mobile keyboards to be bluetooth[^hhkb], but it's great to see new release using the same formula as the Ergodox EZ. 
+Back to the Planck EZ, I prefer my mobile keyboards to be bluetooth[^hhkb], but it's great to see new release using the same formula as the Ergodox EZ. 
 
 * * *
 

@@ -6,7 +6,7 @@ categories: iOS, Productivity
 
 Jason Snell details [some of the issues](https://sixcolors.com/post/2019/02/finding-my-way-around-ios-roadblocks/) he has when he tries to work on an iPad. The first is about not being able to do regular expression searches:
 
-> I complained about not being able to do grep searches in my iOS text editors of choice, and while that’s true, several people pointed out that there are iOS apps that are capable of them, most notably Coda by Panic and Textastic Code Editor 7.  I own both of these apps and while I don’t like writing articles using them—they’re development tools more than writing tools—they absolutely support grep and I will use them in the future when I need to do pattern-matching searches on iOS.
+> I complained about not being able to do grep searches in my iOS text editors of choice, and while that’s true, several people pointed out that there are iOS apps that are capable of them, most notably Coda by Panic and Textastic Code Editor 7. I own both of these apps and while I don’t like writing articles using them—they’re development tools more than writing tools—they absolutely support grep and I will use them in the future when I need to do pattern-matching searches on iOS.
 
 The second is missing [BBEdit's](https://www.barebones.com/products/bbedit/) "Sort Lines" feature:
 

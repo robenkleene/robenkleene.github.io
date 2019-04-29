@@ -10,7 +10,7 @@ Classic macOS text editor [SubEthaEdit has gone open source](https://rant.monkey
 
 The post itself, and [this remembrance by Gus Mueller](http://shapeof.com/archives/2018/11/subethaedit_goes_open_source.html), are both great reads about the formative days of OS X app development.
 
-SubEthaEdit remains very relevant today. It's a hat in the ring for how to do collaborative text editing. Google Docs is the only successful application in this space and that's only for rich text, making live collaboration for plain text, e.g., source code and markdown, still an unsolved problem[^canvas]. SubEthaEdit is a plain text editor designed specifically for this purpose.
+SubEthaEdit remains relevant today. It's a hat in the ring for how to do collaborative text editing. Google Docs is the only successful application in this space and that's only for rich text, making live collaboration for plain text, e.g., source code and markdown, still an unsolved problem[^canvas]. SubEthaEdit is a plain text editor designed specifically for this purpose.
 
 SubEthaEdit's implementation uses Apple's [Bonjour](https://en.wikipedia.org/wiki/Bonjour_(software)) networking technology (also notable that it's based on an "old Xerox Parc Paper"):
 
