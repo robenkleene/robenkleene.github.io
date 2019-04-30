@@ -12,9 +12,9 @@ John Siracusa's excellent piece from 2013 on [why Apple should continue making a
 
 > Why wouldn’t a company want to get a low-volume, money-losing product line off its books, bankruptcy or no bankruptcy? If you can’t think of a reason, you may be what is known in the auto industry as a “bean counter.”
 
-These arguments and terminology, and *mood*, also map perfectly to Apple's pro software. I love the term "bean counter", because it applies equally well to looking at feature usage analytics as it does to balance sheets. "Halo" is also the perfect term for the benefits of pro software too, here capturing not just the trickle-down effect from pro software to consumer software[^apeturetophotos], but also developers, designers, and other content creators *making things for the platform they work on*.
+The arguments, terminology, and *mood* of this piece also map perfectly to Apple's pro software. I love the term "bean counter", because it applies equally well to looking at feature usage analytics as it does to balance sheets. "Halo" also perfectly describes the benefits of pro software, here capturing both the trickle-down effect from pro software to consumer software[^apeturetophotos], but also developers, designers, and other content creators *making things for the platform they do work on*.
 
-Finally, as Siracusa points out, another reason to develop great and powerful software is just for the sheer joy of it. Apple's priorities for software were once greatness, now it feels like it's all about how things fit into a larger corporate strategy.
+Finally, as Siracusa points out, another reason to develop great and powerful software is for the sheer joy of it. Apple's priorities for software were once greatness, now it feels like it's just about how things fit into a corporate strategy.
 
 * * *
 
