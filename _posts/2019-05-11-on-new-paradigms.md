@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On New Paradigms"
-categories: iOS, macOS, user-interface, innovation
+categories: iOS, macOS, User-Interface, Innovation
 ---
 
 Ink & Switch has a great [in-depth study of a prototype iPad app](https://www.inkandswitch.com/muse-studio-for-ideas.html) they've developed:
