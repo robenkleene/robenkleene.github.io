@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apple Mail Doesn't Support Plain Text"
-categories: macOS
+categories: macOS Email
 ---
 
 For a long time I've had a [splinter in my mind](https://www.youtube.com/watch?v=DRnr3MiGWmo) when composing messages in Apple Mail. Just a general feeling that something wasn't quite right that I couldn't put my finger on. When I finally figured it out, it was so obvious, like a cheap illusion that falls apart upon close inspection: Apple Mail doesn't support plain text.
