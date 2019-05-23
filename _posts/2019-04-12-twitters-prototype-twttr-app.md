@@ -4,7 +4,7 @@ title: "Twitter's Prototype Twttr App"
 categories: News, iOS
 ---
 
-Twitter has a prototype app called Twttr, Sarah Perez [wrote](https://techcrunch.com/2019/03/11/twitters-new-prototype-app-twttr-launches-today/) for TechCrunch last month:
+Twitter has a prototype app called Twttr, Sarah Perez [wrote](https://techcrunch.com/2019/03/11/twitters-new-prototype-app-twttr-launches-today/) for *TechCrunch* last month:
 
 > Twitter’s  new prototype application is rolling out to the first group of testers starting today, the company announced this afternoon by way of a tweet. The app, which Twitter is calling “twttr” as a throwback to its original name, was first introduced at the CES conference this January. It aims to offer Twitter a more experimental testing space where the company can try out new ideas outside of its existing public network, gain feedback from testers, then develop new features as a result of what it learns.
 

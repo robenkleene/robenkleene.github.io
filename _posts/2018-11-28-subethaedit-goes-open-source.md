@@ -20,4 +20,4 @@ The major problem with SubEthaEdit's collaborative editing model is that it's on
 
 One of the interesting bits about SubEthaEdit becoming free is that an application like this thrives on the network effect. If you want to edit a file with someone collaboratively, convincing them to use a $40 application is a big hurdle to overcome. I hope this change means SubEthaEdit gets some wider use, I know I'll be looking for opportunities to use it with my collaborators now.
 
-[^canvas]: See also Roman Dillet for TechCrunch [writing about Canvas](https://techcrunch.com/2016/08/19/canvas-is-the-collaborative-markdown-editor-ive-been-waiting-for/) a great attempt to make a Google Docs for Markdown. It's now been shuttered; [it's also open source](https://github.com/usecanvas/).
+[^canvas]: See also Roman Dillet for *TechCrunch* [writing about Canvas](https://techcrunch.com/2016/08/19/canvas-is-the-collaborative-markdown-editor-ive-been-waiting-for/) a great attempt to make a Google Docs for Markdown. It's now been shuttered; [it's also open source](https://github.com/usecanvas/).

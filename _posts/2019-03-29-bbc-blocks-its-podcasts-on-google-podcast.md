@@ -4,7 +4,7 @@ title: "BBC Blocks Its Podcasts in Google Podcasts App"
 categories: Podcasts
 ---
 
-The battle over Podcasts is heating up, James Cridland writes for Podnews:
+The battle over Podcasts is heating up, James Cridland writes for *Podnews*:
 
 > Some time on March 19th, the BBC started blocking all access to its podcasts on Google search, Google Assistant, and Google Podcasts. No new podcasts have appeared within Google Podcasts since March 19th, and many podcasts have already been removed altogether from the service. All BBC podcasts are affected across Google properties, including the popular Global News Podcast and Brexitcast.
 
