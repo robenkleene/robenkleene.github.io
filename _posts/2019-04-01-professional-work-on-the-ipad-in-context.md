@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pro Audio Work on iOS in Context"
-categories: Prefessional, iPad
+categories: Prefessional, iPad, Market-Share
 ---
 
 In an [excellent video by Jonathan Morrison](https://www.youtube.com/watch?v=dItCj676GmA&list=PLqcaiHQwxA9jB-o-1-zmujxnbpaqwl9lV), professional hip hop producer Justin "Henny" Henderson, of [Tha Bizness](https://en.wikipedia.org/wiki/Tha_Bizness), discusses how he works exclusively on an iPad. While we can appreciate what this video for what it is, it's also important to remember a single data point like this isn't useful in predicting the direction of an industry.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sketch & Figma's Market Share"
-categories: Design, Software, Professional
+categories: Design, Software, Professional, Market-Share
 ---
 
 [Sketch](https://www.sketch.com/), released in 2010, is the elephant in the room for interface design. [Figma](https://www.figma.com/), released in 2016, is the up-and-comer in this space[^venture]. Sketch is a Mac-only native app, Figma is a browser-based tool with a desktop [Electron](https://electronjs.org) app. After the rise of [Electron-based editors](/2019/04/01/professional-work-on-the-ipad-in-context/), this is the next battleground for the soul of desktop apps.
