@@ -4,13 +4,13 @@ title: "Steve Troughton-Smith's WWDC Wish List"
 categories: 
 ---
 
-Steve Troughton-Smith put together a [phenomenal WWDC wish list for MacStories](https://www.macstories.net/stories/wwdc-a-wish-list-2019-edition/). This is probably my favorite list of this kind ever, for any WWDC. This list in particular does a great job capturing the features that professional software developers need to make iOS more useful.
+Steve Troughton-Smith put together a [phenomenal WWDC wish list for MacStories](https://www.macstories.net/stories/wwdc-a-wish-list-2019-edition/). This is probably my favorite list of this kind ever, for any WWDC. This list does a great job of capturing the features that professional software developers need to make iOS more useful.
 
 A couple of points below I wanted to comment on, first on the command line, Troughton-Smith says:
 
 > Much like the file system, for a certain class of user the need for a command-line environment of some kind hasn't gone away as I'm sure Apple had hoped.
 
-How you feel about the command line is probably a really good litmus test for how you feel about iOS as a whole. One way of looking at it, the one Troughton-Smith seems to hold, is that command line is just trudging along, despite its flaws, and we're just waiting for the day we can finally get rid of it for good. Another, the one I believe, is that the command line is one of the most refined ways of working with a computer we've created. It's carried the whole industry of programming forward on its shoulders, from [collaboration](https://en.wikipedia.org/wiki/Git), to [compilation](https://en.wikipedia.org/wiki/LLVM), to [testing](https://en.wikipedia.org/wiki/Continuous_integration), to [style](https://en.wikipedia.org/wiki/Lint_(software)), to [languages](https://en.wikipedia.org/wiki/Node.js), to [frameworks](https://en.wikipedia.org/wiki/Ruby_on_Rails), not only is it not going anywhere, it's going to keep *increasing* in relevance for as long as humans program computers.
+How you feel about the command line is good litmus test for how you feel about iOS as a whole. One way of looking at it, the way Troughton-Smith seems to, is that command line is trudging along despite its flaws, and we're all just waiting for the day we can finally be rid of it for good. Another, the one I believe, is that the command line is one of the most refined ways of working with a computer that we've created. It's carried the whole programming industry forward, from [collaboration](https://en.wikipedia.org/wiki/Git), to [compilation](https://en.wikipedia.org/wiki/LLVM), to [testing](https://en.wikipedia.org/wiki/Continuous_integration), to [style](https://en.wikipedia.org/wiki/Lint_(software)), to [languages](https://en.wikipedia.org/wiki/Node.js), to [frameworks](https://en.wikipedia.org/wiki/Ruby_on_Rails). Not only is it not going anywhere, it's going to *increase* in relevance for as long as humans program computers.
 
 On a robust entitlements system, he wrote:
 
