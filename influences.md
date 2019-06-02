@@ -57,7 +57,6 @@ title: Influences
 ### Command Line
 
 * [Fish Shell](https://fishshell.com/)
-* [GNU Emacs](https://www.gnu.org/software/emacs/)
 * [Neovim](https://neovim.io/)
 * [Ripgrep](https://github.com/BurntSushi/ripgrep)
 * [Vim](https://www.vim.org/)
@@ -65,6 +64,17 @@ title: Influences
 * [`tig`](https://github.com/jonas/tig)
 * [`tmux`](https://github.com/tmux/tmux)
 * [`zsh`](https://www.zsh.org/)
+
+### Design
+
+* [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
+* [Sketch](https://www.sketch.com/)
+
+### Development
+
+* [BBEdit](https://www.barebones.com/products/bbedit/index.html)
+* [GNU Emacs](https://www.gnu.org/software/emacs/)
+* [TextMate](https://macromates.com/)
 
 ### iOS
 
@@ -77,7 +87,6 @@ title: Influences
 * [LaunchBar](https://obdev.at/products/launchbar/index.html)
 * [NetNewsWire](http://netnewswireapp.com/)
 * [OmniFocus](https://www.omnigroup.com/omnifocus)
-* [TextMate](https://macromates.com/)
 
 ### Music
 
