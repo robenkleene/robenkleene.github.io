@@ -8,7 +8,7 @@ categories:
 
 I'm what you would could call an operating-system traditionalist[^cleanslates], but I love seeing these imaginings. I think this kind of approach ("there are no Apps or Folders [...] content and actions are fluidly assembled based on your intentions") can work great on satellite devices[^satellitedevices].
 
-The main question I'd have for Jason, is can you build an OS *with* this? And if you can't, then how and where do you build this? It's the same question I have for people who think iOS will replace macOS.
+The main question I'd have for Jason, is can you build an OS *with* this? And if you can't, then how and where do you build this OS? It's the same question I have for people who think iOS will replace macOS.
 
 * * *
 
