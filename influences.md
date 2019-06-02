@@ -43,7 +43,7 @@ title: Influences
 ## Podcasts
 
 * [Accidental Tech Podcast](http://atp.fm/)
-* [Open Source with Christopher Lydon](http://radioopensource.org/)
+* [Open Source With Christopher Lydon](http://radioopensource.org/)
 * [The Changelog](https://changelog.com/)
 * [The Talk Show](https://daringfireball.net/thetalkshow/)
 
