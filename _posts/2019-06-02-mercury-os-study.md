@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "Mercury OS Study"
-categories: 
+categories: Design
 ---
 
 [Jason Yuan](https://twitter.com/jasonyuandesign) presents [Mercury OS](https://www.mercuryos.com/): "A speculative vision of the operating system, driven by humane design principles." There's also [an accompanying blog post](https://medium.com/@jasonyuan/introducing-mercury-os-f4de45a04289).

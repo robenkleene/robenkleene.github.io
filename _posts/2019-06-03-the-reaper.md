@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Reaper"
-categories: 
+categories: Development, iOS, macOS
 ---
 
 Brent Simmons responds to Steve Troughton-Smith's ["(Don't Fear) The Reaper"](https://www.highcaffeinecontent.com/blog/20190522-(Dont-Fear)-The-Reaper) with ["Still Fearing the Reaper"](https://inessential.com/2019/05/22/still_fearing_the_reaper):

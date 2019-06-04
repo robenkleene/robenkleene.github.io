@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "Steve Troughton-Smith's WWDC Wish List"
-categories: 
+categories: iOS
 ---
 
 Steve Troughton-Smith put together a [phenomenal WWDC wish list for MacStories](https://www.macstories.net/stories/wwdc-a-wish-list-2019-edition/). This is probably my favorite list of this kind ever, for any WWDC. This list does a great job of capturing the features that professional software developers need to make iOS more useful.
