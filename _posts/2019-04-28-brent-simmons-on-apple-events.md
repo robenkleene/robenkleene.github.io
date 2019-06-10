@@ -14,4 +14,4 @@ Now AppleScript is dying by attrition, presumably to be replaced by the [technic
 
 * * *
 
-[^dockeronmac]: I have to add the "historically" caveat because [Docker](https://docs.docker.com/docker-for-mac/install/) doesn't run well on Macs (Docker on macOS spins up a Linux virtual machine rather than running natively). This is again due to Apple [letting important parts of their operating system die by attrition](https://blog.robenkleene.com/2019/04/11/2012-apples-great-gpl-purge/). Slowly but surely, macOS is becoming a less recommendable platform for programming.
+[^dockeronmac]: I have to add the "historically" caveat because [Docker](https://docs.docker.com/docker-for-mac/install/) doesn't run well on Macs (Docker on macOS spins up a Linux virtual machine rather than running natively). This is again due to Apple [letting important parts of their operating system die by attrition](/2019/04/11/2012-apples-great-gpl-purge/). Slowly but surely, macOS is becoming a less recommendable platform for programming.
