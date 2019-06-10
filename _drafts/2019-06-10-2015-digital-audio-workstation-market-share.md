@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: link
 title: "2015 Digital Audio Workstation Market Share"
 categories: Market-Share, DAW, Professional
 ---
 
-In 2015, [Ask.Audio polled their readers about which DAW they preferred](https://www.macprovideo.com/article/news/the-top-11-most-popular-daws-you-voted-for). They got an impressive 25,000 responses:
+In 2015, [Ask.Audio polled their readers about which DAW they preferred](https://www.macprovideo.com/article/news/the-top-11-most-popular-daws-you-voted-for). They got an impressive 25,000 responses, here are the results[^daweverythingelse]:
 
 1. 23.14% [Ableton Live](https://www.ableton.com/en/live/)
 2. 16.95% [Logic Pro X](https://www.apple.com/logic-pro/)
@@ -18,8 +18,6 @@ In 2015, [Ask.Audio polled their readers about which DAW they preferred](https:/
 10. 0.92% [Digital Performer](http://www.motu.com/products/software/dp/)
 11. 0.77% [Bitwig Studio](https://www.bitwig.com/en/bitwig-studio)
 
-Everything else got 8.70%.
-
 One of the great things about the DAW market is how fractured it is. The market leader, Ableton Live, only has 23.14%. Compare that with leaders in other markets:
 
 - 96% [Adobe After Effects](https://www.adobe.com/products/aftereffects.html), [Motion Graphics](/2019/05/30/2015-motion-graphics-software-market-share/)
@@ -28,3 +26,6 @@ One of the great things about the DAW market is how fractured it is. The market 
 
 I'm also really curious if Logic Pro X has more users across the whole market than GarageBand.
 
+* * *
+
+[^daweverythingelse]: Everything else combined got 8.70%.
