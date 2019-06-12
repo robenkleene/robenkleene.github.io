@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "Local Data & the Cloud"
-categories: Web
+categories: Web, Collaboration
 ---
 
 [Dr. Martin Kleppmann](https://twitter.com/martinkl) has an extensive comparison of different application architectures called ["Local-First Software"](https://www.inkandswitch.com/local-first.html). He makes some important points about the flaws of web applications with respect to data ownership that are [near and dear to my heart](/2019/04/09/own-your-data/):
