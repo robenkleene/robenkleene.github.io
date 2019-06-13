@@ -4,7 +4,7 @@ title: "2013 Photography Post-Production Software Market Share"
 categories: Market-Share, Photography, Professional
 ---
 
-In 2013, [Digital Photography School polled](https://digital-photography-school.com/post-processing-poll-results/) their readers about which post-production software they use, 22,000 people responded. Here are the results:
+In 2013, [Digital Photography School polled their readers](https://digital-photography-school.com/post-processing-poll-results/) about which post-production software they use. 22,000 people responded, here are the results:
 
 1. 32% [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom-classic.html)
 2. 21% [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
@@ -16,4 +16,4 @@ In 2013, [Digital Photography School polled](https://digital-photography-school.
 8. 3% [PaintShop Pro](https://en.wikipedia.org/wiki/PaintShop_Pro)
 9. 5% Other
 
-This is long before Adobe introduced subscription pricing, and Aperture, iPhoto, and Picasa were still around. Adobe [again](/2019/05/30/2015-motion-graphics-software-market-share/) (and [again](/2019/04/05/video-editor-market-share-numbers-from-2014/)) comes out incredibly dominate.
+This is long before Adobe introduced subscription pricing, and Aperture, iPhoto, and Picasa were still around. Adobe [again](/2019/05/30/2015-motion-graphics-software-market-share/) (and [again](/2019/04/05/video-editor-market-share-numbers-from-2014/)) comes out dominate.
