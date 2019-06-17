@@ -26,7 +26,7 @@ This is where another feature of the 1.1.1.1 app comes in: It supports [DNS over
 
 Once the VPN is turned on, your DNS queries go to Cloudflare, not your ISP, and they are encrypted.
 
-What if you're using the Cloudflare app, so your DNS requests are hidden, does that then hide the domains your visiting from your ISP? No. Because of [Server Name Indication (SNI)](https://en.wikipedia.org/wiki/Server_Name_Indication). SNI is an extension to [Transport Layer Security (TLS)](https://en.wikipedia.org/wiki/Transport_Layer_Security) that sends the domain to the server in plain text as part of the TLS handshake. This is done to support multiple domains (with multiple SSL certificates) at the same IP address.
+So if you use the Cloudflare app, does that mean your ISP no longer can see which domains you're visiting? Unfortunately the answer is no, because of [Server Name Indication (SNI)](https://en.wikipedia.org/wiki/Server_Name_Indication). SNI is an extension to [Transport Layer Security (TLS)](https://en.wikipedia.org/wiki/Transport_Layer_Security) that sends the domain to the server in plain text (as part of the TLS handshake). This is done to support multiple domains at the same IP address (these domains may have different SSL certificates, so it has to be done before the encrypted connection is established).
 
 Your first priority for making your use of the internet private is to use encrypted protocols, in particular, HTTPS (the lock icon in your browser indicates that you are connecting to a website via HTTPS). With HTTPS enabled, all communication is hidden from any intermediary (such as your ISP), everything is hidden except for the IP address and the domain itself (note that this only applies to the HTTPS request itself).
 
