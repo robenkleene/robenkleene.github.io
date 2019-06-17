@@ -18,7 +18,7 @@ Until Warp arrives, the 1.1.1.1 app just configures your device to use their [DN
 
 The name 1.1.1.1 refers to two things: [A DNS service](https://1.1.1.1/dns/) that can be configured manually[^manualconfiguration], and [an app in the App Store](https://1.1.1.1), that automatically configures your device to use their DNS provider via a [VPN](https://en.wikipedia.org/wiki/Virtual_private_network).
 
-If you haven't done anything to special to configure your DNS, then you're probably using your ISPs DNS provider. This means your DNS requests are going directly to your ISP and they can see (and potentially store) the domain of every website that you visit (note that as long as you're connecting to the website over HTTPS, this applies *only* to the domain, not the path, so `https://blog.robenkleene.com` would be visible but `/2019/06/16/on-cloudflare-warp-privacy/` would not). In fact, even if you've manually setup the 1.1.1.1 provider, e.g., without using the app, then your ISP can still see all of your DNS requests because DNS is in unencrypted protocol.
+If you haven't done anything to special to configure your DNS, then you're probably using your ISPs DNS provider. This means your DNS requests are going directly to your ISP and they can see (and potentially store) the domain of every website that you visit (note that as long as you're connecting to the website over HTTPS[^httpisfirstpriority], this applies *only* to the domain, not the path, so `https://blog.robenkleene.com` would be visible but `/2019/06/16/on-cloudflare-warp-privacy/` would not). In fact, even if you've manually setup the 1.1.1.1 provider, e.g., without using the app, then your ISP can still see all of your DNS requests because DNS is in unencrypted protocol.
 
 This is where another feature of the 1.1.1.1 app comes in: It supports [DNS over HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS) and [DNS over TLS](https://en.wikipedia.org/wiki/DNS_over_TLS). Neither of these protocols are supported by iOS (or macOS) by default, so this is done by setting up a local VPN. [In a comment on the 1.1.1.1 app announcement](https://blog.cloudflare.com/1-thing-you-can-do-to-make-your-internet-safer-and-faster/#comment-4190526220), Cloudflare CEO Matthew Prince shared the reasoning behind the VPN:
 
@@ -28,11 +28,9 @@ Once the VPN is turned on, your DNS queries go to Cloudflare, not your ISP, and 
 
 So if you use the Cloudflare app, does that mean your ISP no longer can see which domains you're visiting? Unfortunately the answer is no, because of [Server Name Indication (SNI)](https://en.wikipedia.org/wiki/Server_Name_Indication). SNI is an extension to [Transport Layer Security (TLS)](https://en.wikipedia.org/wiki/Transport_Layer_Security) that sends the domain to the server in plain text (as part of the TLS handshake). This is done to support multiple domains at the same IP address (these domains may have different SSL certificates, so it has to be done before the encrypted connection is established).
 
-Your first priority for making your use of the internet private is to use encrypted protocols, in particular, HTTPS (the lock icon in your browser indicates that you are connecting to a website via HTTPS). With HTTPS enabled, all communication is hidden from any intermediary (such as your ISP), everything is hidden except for the IP address and the domain itself (note that this only applies to the HTTPS request itself).
+So while the 1.1.1.1 app without Warp, does block of one way your ISP can see which domains you're visiting, it still leaves another one open, namely SNI. It's more of a piece of a puzzle moving towards a more private internet than a complete solution.
 
 ### Cloudflare Warp
-
-As we've illustrated, the 1.1.1.1 app without Warp, doesn't really increase your privacy at all, because of SNI. It's more like a piece of a puzzle moving towards a more private internet.
 
 Enter Cloudflare Warp. With a VPN, your connection to the VPN is encrypted, and then the VPN handles the connection to the ISP itself. So your HTTPS requests, which domains you're visiting, are sent from the VPN server's IP address and not from your home network's IP address. 
 
@@ -53,3 +51,5 @@ I wrote this piece because I wanted to figures out for myself whether using 1.1.
 * * *
 
 [^manualconfiguration]: 1.1.1.1 can also be configured manually as a DNS server on [macOS](https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1/mac/), [iOS](https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1/iphone/), or your [router](https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1/router/), but then note that *DNS traffic will not be encrypted*, which means the domains of the websites you visit will be entirely visible to your ISP (and anyone else potentially sniffing your traffic).
+
+[^httpisfirstpriority]: Your first priority for making your use of the internet private is to use encrypted protocols, in particular, HTTPS (the lock icon in your browser indicates that you are connecting to a website via HTTPS). With HTTPS enabled, all communication is hidden from any intermediary (such as your ISP), everything is hidden except for the IP address and the domain itself (note that this only applies to the HTTPS request itself).
