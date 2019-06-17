@@ -4,15 +4,15 @@ title: "On Cloudflare Warp & Privacy"
 categories: 
 ---
 
-Last month, [Cloudflare announced Warp](https://blog.cloudflare.com/1111-warp-better-vpn/), their performance and security focused [VPN](https://en.wikipedia.org/wiki/Virtual_private_network). The feature is an addition to the [1.1.1.1 app](https://itunes.apple.com/us/app/1-1-1-1-faster-internet/id1423538627?mt=8), their ["privacy-first consumer DNS service"](https://blog.cloudflare.com/announcing-1111/):
+[Cloudflare](https://www.cloudflare.com/) recently [announced Warp](https://blog.cloudflare.com/1111-warp-better-vpn/), their performance and security focused [VPN](https://en.wikipedia.org/wiki/Virtual_private_network). Warp will be added to the [1.1.1.1 app](https://1.1.1.1/), which, as of now, acts as an easy way to setup their ["privacy-first consumer DNS service"](https://blog.cloudflare.com/announcing-1111/), also called [1.1.1.1](https://1.1.1.1/dns/):
 
 > Truth be told, the 1.1.1.1 App was really just a lead up to today. We had a plan on how we could radically improve the performance, security, and privacy of the mobile Internet well beyond just DNS. To pull it off, we needed to understand the failure conditions when a VPN app switched between cellular and WiFi, when it suffered signal degradation, tried to register with a captive portal, or otherwise ran into the different conditions that mobile phones experience in the field.
 
-If you're interested in trying it out, you can claim your place in line by opening the 1.1.1.1 app:
+If you're interested in trying it out, you can claim your place in line in the 1.1.1.1 app:
 
 > So, beginning today, what you can do is claim your place in line to be among the first to get Warp. If you already have the 1.1.1.1 App on your phone, you can update it through the Apple App Store or the Google Play Store. If you don’t yet have the 1.1.1.1 App you can download it free from Apple or Google. Once you’ve done that you’ll see an option to claim your place in line for Warp.
 
-Today the 1.1.1.1 app just works as a [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) provider that [Cloudflare touts as having a couple of advantages](https://1.1.1.1). The first is speed, Cloudflare is a  [CDN](https://en.wikipedia.org/wiki/Content_delivery_network) provider, and therefore already has the infrastructure in place to make a fast DNS service. [DNSPerf](https://www.dnsperf.com/#!dns-resolvers) currently lists them as the fastest DNS provider in the world. The second advantage, that's much more subtle and interesting, is privacy.
+Until Warp arrives, the 1.1.1.1 app will work as a [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) provider that Cloudflare touts as having a couple of advantages: The first is speed, Cloudflare is a [CDN](https://en.wikipedia.org/wiki/Content_delivery_network) provider, and therefore has the infrastructure to make a fast DNS service ([DNSPerf](https://www.dnsperf.com/#!dns-resolvers) currently lists them as the fastest DNS provider). The second advantage, one that's much more subtle and interesting, is privacy.
 
 ### HTTPS, DNS, SNI & Privacy
 
