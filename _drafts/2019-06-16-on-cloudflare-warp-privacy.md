@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Cloudflare Warp & Privacy"
-categories: 
+categories: Privacy
 ---
 
 [Cloudflare](https://www.cloudflare.com/) recently [announced Warp](https://blog.cloudflare.com/1111-warp-better-vpn/), their performance and security focused [VPN](https://en.wikipedia.org/wiki/Virtual_private_network). Warp will be added to the [1.1.1.1 app](https://1.1.1.1/), which, as of now, acts as an easy way to setup their ["privacy-first consumer DNS service"](https://blog.cloudflare.com/announcing-1111/), also called [1.1.1.1](https://1.1.1.1/dns/), on your mobile device:
