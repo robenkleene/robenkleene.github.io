@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Preference That Ruined Spaces"
+title: "The Preference That Ruined macOS Spaces Feature"
 categories: macOS, Productivity
 ---
 
