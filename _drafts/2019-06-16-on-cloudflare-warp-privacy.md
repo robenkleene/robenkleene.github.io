@@ -48,9 +48,9 @@ Given all the benefits of using a VPN for privacy, why aren't they already more 
 
 > VPNs suck, especially on mobile. They add latency, drain your battery, and, in many cases, are run by companies with motivations that are opposite to actually keeping your data private and secure.
 
-He goes on to explain some details of how they've improved the experience of using a VPN, suffice to say Cloudflare is uniquely positioned to offer a performant VPN, because they can leverage the infrastructure of their CDN service.
+He goes into some more details of how they're planning to improve performance, suffice to say Cloudflare is in a great position to offer a performant VPN, because they can leverage the infrastructure of their CDN service.
 
-I wrote this piece to figure out whether I want to use 1.1.1.1 and Warp myself, and I've decided that it is. Hiding which domains you are visiting (and the rest of your unencrypted traffic) from your ISP, who already knows who you are, seems like a privacy improvement. Of course hinges on it being performant, it's simply not practical to say slow down your network performance when you're trying to get map directions for example. But I expect Cloudflare is going to be able to deliver on the performance end, because since that's one of their core competencies as a business. The only downside is that Cloudflare is a machine (but this isn't part of their business model compared to say Google), and it makes the internet more centralized.
+I wrote this piece to figure out for myself whether using 1.1.1.1 and Warp is worth it, and I've concluded that it is. Hiding which domains you're visiting (and any other unencrypted traffic) from your ISP, who already knows who you are, is privacy improvement. Whether I continue using it will hinge on it being performant, it's simply not practical to have a slower connection when say, you're on a street corner waiting for directions for example. But it seems reasonable to expect Cloudflare to be able to deliver the performance, given it's one of their core competencies. The only downside I can see to this is that Cloudflare is more proficient company than your ISP[^cloudflareismassive], this means Cloudflare has the technical competence to use your data in more sophisticated ways than most other companies. But the great thing about Cloudflare is they aren't an advertising company, it's really the advertising industry that drives much of the data collection and analysis. So in the end 1.1.1.1 and Warp look like a good choice if you're interested in improving your privacy.
 
 * * *
 
@@ -59,3 +59,6 @@ I wrote this piece to figure out whether I want to use 1.1.1.1 and Warp myself, 
 [^httpisfirstpriority]: Your first priority for making your use of the internet private is to use encrypted protocols, in particular, HTTPS (the lock icon in your browser indicates that you are connecting to a website via HTTPS). With HTTPS enabled, all communication is hidden from any intermediary (such as your ISP), everything is hidden except for the IP address and the domain itself (note that this only applies to the HTTPS request itself).
 
 [^identifiedthroughtraffic]: In reality, a VPN provider could probably identify you by watching at your traffic, so [trusting your VPN provider](https://drewdevault.com/2019/04/19/Your-VPN-is-a-serious-choice.html) is very important, but no more so than trusting your ISP already is.
+
+[^cloudflareismassive]: Since their products are less consumer orientated and more business-to-business, many people aren't aware how massive Cloudflare actually is. For example, [according to W3Techs](https://w3techs.com/technologies/details/cn-cloudflare/all/all) 9.2% of all websites use Cloudflare.
+
