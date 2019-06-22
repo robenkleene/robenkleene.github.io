@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "Scott Hanselman on Visual Studio Code Remote Development"
-categories: iOS Development
+categories: iOS, Development
 ---
 
 Scott Hanselman [on the advantages of Visual Studio Code Remote Development](https://www.hanselman.com/blog/VisualStudioCodeRemoteDevelopmentMayChangeEverything.aspx):
