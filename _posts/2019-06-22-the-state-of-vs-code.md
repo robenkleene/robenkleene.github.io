@@ -8,17 +8,17 @@ categories: Market-Share, Development
 
 ## The State of JavaScript
 
-1. 72% Visual Studio Code
-2. 22% Sublime Text
-3. 22% Vim
-4. 21% WebStorm
-5. 17% Atom
+1. 72% [Visual Studio Code](https://code.visualstudio.com/)
+2. 22% [Sublime Text](https://www.sublimetext.com/)
+3. 22% [Vim](https://www.vim.org/)
+4. 21% [WebStorm](https://www.jetbrains.com/webstorm/)
+5. 17% [Atom](https://atom.io/)
 
 ## The State of CSS
 
-1. 71% VS Code
-2. 34% Sublime Text
-3. 22% Atom
+1. 71% [Visual Studio Code](https://code.visualstudio.com/)
+2. 34% [Sublime Text](https://www.sublimetext.com/)
+3. 22% [Atom](https://atom.io/)
 
-For each of the surveys I included all of the entries down to Atom, to also get a general sense of where the [Electron](https://electronjs.org/) editors stand
+For each of the surveys I included all of the entries down to Atom, to get a general sense of where the [Electron](https://electronjs.org/) editors stand
 
