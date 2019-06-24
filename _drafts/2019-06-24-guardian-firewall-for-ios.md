@@ -20,5 +20,7 @@ Guardian is implemented using a VPN, so assuming the VPN traffic is encrypted, i
 
 This approach has the same downside as Cloudflare Warp, namely, all of your traffic has to be routed through Guardian's VPN servers. Here's how Guardian approaches that responsibility:
 
-> Due to the nature of this design, it is important for you to understand that this process involves sending your internet data through our secure firewall servers. In order to mitigate any privacy concerns associated with handling potentially personal internet data, Guardian Firewall is designed with no sign-up process, and no information entry about yourself whatsoever.
+> Due to the nature of this design, it is important for you to understand that this process involves sending your internet data through our secure firewall servers. In order to mitigate any privacy concerns associated with handling potentially personal internet data, Guardian Firewall is designed with no sign-up process, and no information entry about yourself whatsoever. [...]
+
+> Our lack of information collection may raise an important question: How are we are able to differentiate between a free and a paying user? Well, the only information we need to know is if the user sent us a payment. This allows us to simply use a digital receipt, which is generated on your phone when you make a purchase in the app, as your “all access pass” to our VPN servers and their corresponding APIs. Therefore, Guardian Firewall has no need to ask for any personal information or keep any kind of record about you at all.
 
