@@ -14,7 +14,7 @@ Guardian Firewall seems to go farther than Little Snitch by doing an analysis of
 
 > In order to effectively keep track of all known trackers being used on iOS, we periodically scan the App Store and use custom automated tooling to decompile, disassemble, and index the contents of iOS apps. Over the course of the last four years, we have developed this custom toolset which now gives us an unprecedented level of insight into network connections, security/privacy issues, and any other information we need from iOS apps.
 
-Guardian is implemented using a VPN, so assuming the VPN traffic is encrypted, it will also cover some of the same territory as [Cloudflare Warp](/2019/06/24/on-cloudflare-warp-privacy/):
+Guardian is implemented using an [encrypted VPN](https://twitter.com/guardianiosapp/status/1143168911732383746), so it will also cover some of the same territory as [Cloudflare Warp](/2019/06/24/on-cloudflare-warp-privacy/):
 
 > The Guardian Firewall app has been designed to simply act as a client for remotely hosted VPN servers running custom fully-featured firewall software with a configurable JSON API which the device can use to generate pseudonymous EAP access credentials, pull in alerts for recently blocked traffic, and automatically check for physically proximate servers to connect to (in order to reduce latency and improve speeds)
 
