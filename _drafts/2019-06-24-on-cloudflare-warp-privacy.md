@@ -50,9 +50,7 @@ Given all the benefits of using a VPN for privacy, why aren't they already more 
 
 He goes into some more details of how they're planning to improve performance, suffice to say Cloudflare is in a great position to offer a performant VPN, because they can leverage the infrastructure of their CDN service.
 
-I wrote this piece to try and figure out for myself whether 1.1.1.1 and Warp are worth using, and I've come to the conclusion that they are[^cloudflarecentralized]. Hiding the domains you're visiting, not to mention the rest of your unencrypted traffic, from your ISP is privacy improvement---even if it means sharing them with Cloudflare. Cloudflare doesn't already know who you are, like your ISP does, and Cloudflare has at least has made a promise not to store your information, unlike the ISPs who not only have made no such promises, but [lobbied for the right *share* your browsing history for profit](https://www.theverge.com/2017/3/29/15100620/congress-fcc-isp-web-browsing-privacy-fire-sale).
-
-The final remain concern is bit more abstract: 
+I wrote this piece to try and figure out whether 1.1.1.1 and Warp are worth using for myself. I've concluded that they are[^cloudflarecentralized]. Hiding the domains you're visiting from your ISP (not to mention the rest of your unencrypted traffic) is a privacy improvement---even if it means now Cloudflare can see them. Cloudflare doesn't know who you are[^unlesscloudflareaccount], like your ISP does, and Cloudflare has at least made a promise not to store your information, unlike the ISPs, who not only have made no such promise, but they've [lobbied for the right *share* your browsing history for profit](https://www.theverge.com/2017/3/29/15100620/congress-fcc-isp-web-browsing-privacy-fire-sale). The less they know the better.
 
 * * *
 
@@ -61,3 +59,5 @@ The final remain concern is bit more abstract:
 [^identifiedthroughtraffic]: In reality a VPN provider could probably uniquely identify you by analyzing your traffic, so [trusting your VPN provider](https://drewdevault.com/2019/04/19/Your-VPN-is-a-serious-choice.html) is very important (but no more so than trusting your ISP already is).
 
 [^cloudflarecentralized]: There is one other reason not to use Cloudflare Warp, that's a bit more subtle. In general the internet is becoming more centralized, and at the infrastructure level, one of the companies that it is centralizing around is Cloudflare. Since their products are less consumer orientated and more business-to-business, many people aren't aware how massive Cloudflare actually is. For example, [according to W3Techs](https://w3techs.com/technologies/details/cn-cloudflare/all/all) 9.2% of all websites use Cloudflare. In some ways, using a product like Cloudflare Warp is contributing to this centralization.
+
+[^unlesscloudflareaccount]: Unless you have a Cloudflare account... privacy and security online is like trying to get Swiss cheese to float.
