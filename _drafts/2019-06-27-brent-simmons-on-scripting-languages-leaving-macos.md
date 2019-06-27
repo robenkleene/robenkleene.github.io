@@ -8,7 +8,7 @@ Per the [Xcode 11 Beta 2 release notes](https://developer.apple.com/documentatio
 
 > Scripting language runtimes such as Python, Ruby, and Perl are included in macOS for compatibility with legacy software. In future versions of macOS, scripting language runtimes won’t be available by default, and may require you to install an additional package. If your software depends on scripting languages, it’s recommended that you bundle the runtime within the app. 
 
-Brent Simmons is concerned about how this will impact new developers starting out:
+Brent Simmons is concerned that this will [impact new developers](https://inessential.com/2019/06/26/i_cant_help_but_picture_the_15_year_old_) starting out:
 
 > Are we going to ask that person to figure out how to install Ruby? If there are one-click installers out there, are we going to ask them to figure out which one is actually reputable and safe?
 
