@@ -12,6 +12,6 @@ This highlights issues with the Mac App Store; Programming is an ideal task for 
 
 Whether intentionally or not, this strategy ends up communicating two sentiments:
 
-1. Don't use a Mac (because a Mac can't do anything that iOS can't)
-2. Don't write programs (because you can't write programs on iOS)
+1. Don't use a Mac (because a Mac can't do anything that iOS can't).
+2. Don't write programs (because you can't write programs on iOS).
 
