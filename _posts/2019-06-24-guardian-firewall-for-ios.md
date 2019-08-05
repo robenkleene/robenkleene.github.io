@@ -4,7 +4,7 @@ title: "Guardian Firewall for iOS"
 categories: Privacy, News
 ---
 
-Speaking of privacy software, [Guardian Firewall for iOS](https://guardianapp.com/blog/2019/06/introducing-guardian-firewall-for-ios/) was just announced. It's available to those who pre-ordered now, and everyone else in July:
+[Speaking of privacy software](https://blog.robenkleene.com/2019/06/24/on-cloudflare-warp-privacy/), [Guardian Firewall for iOS](https://guardianapp.com/blog/2019/06/introducing-guardian-firewall-for-ios/) was just announced. It's available to those who pre-ordered now, and everyone else in July:
 
 > The initial 1.0 release of Guardian Firewall primarily does one thing, and it does it well: Block those trying to track you, and tell you who they are as well as what types of data they likely tried to collect.
 
