@@ -10,7 +10,7 @@ Until the iPhone, Apple's priorities were aligned with creators. Most of their r
 
 But that all changed with the iPhone. Since the success of the iPhone, the majority of Apple's revenue now comes from iOS, a platform that's not often used to run creative apps. Whether intentionally or not, this has shifted Apple's strategy to one that no longer facilitates creative apps, on either of its platforms, iOS or macOS.
 
-## Apple Policies That Conflict With Creative Apps
+## Apple's Policies That Conflict With Creative Apps
 
 The root of the problem is priorities, but the result is policies that impede creative apps. The most problematic policies are the following:
 
