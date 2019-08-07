@@ -53,10 +53,10 @@ Apple was once a company whose image was synonymous with creative professionals.
 
 * * *
 
-[^lightroomintheappstore]: Lightroom now has a [new version](https://www.adobe.com/products/photoshop-lightroom.html) that's sandboxed and in both the iOS and Mac app stores, but that's a separate version from the app in the survey, [Lightroom Classic](https://www.adobe.com/products/photoshop-lightroom-classic.html), which isn't sandboxed or in the Mac App Store.
+[^lightroomintheappstore]: Lightroom has a [new version](https://www.adobe.com/products/photoshop-lightroom.html), that's sandboxed and in both the iOS and Mac app stores, but that's a separate version from the one that appears in the survey, [Lightroom Classic](https://www.adobe.com/products/photoshop-lightroom-classic.html), which isn't sandboxed or in the Mac App Store.
 
 [^affinitydesignerpricecalculation]: Adobe's Creative Cloud "Single App" [plan](https://www.adobe.com/creativecloud/plans.html) is $21 per month, Affinity Designer is a one-time cost of $50. I assumed a three year update cycle for Designer in my price comparison.
 
-[^sketchbuiltonappletechnologies]: Not only is Sketch built using [AppKit](https://developer.apple.com/documentation/appkit?language=objc), it also uses [Core Graphics](https://developer.apple.com/documentation/coregraphics?language=objc) for its graphics engine. The Adobe and Affinity's apps both use custom engines written in C++.
+[^sketchbuiltonappletechnologies]: Not only is Sketch built using [AppKit](https://developer.apple.com/documentation/appkit?language=objc), it also uses [Core Graphics](https://developer.apple.com/documentation/coregraphics?language=objc) for its graphics engine. The Adobe and Affinity's apps both have custom engines written in C++.
 
 [^sketchstartedbeforesandboxing]: Notably, Sketch was launched in 2010, and was in the Mac App Store until sandboxing was introduced in 2011.
