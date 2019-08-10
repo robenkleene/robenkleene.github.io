@@ -59,4 +59,4 @@ Apple was once a company whose image was synonymous with creative professionals.
 
 [^sketchbuiltonappletechnologies]: Not only is Sketch built using [AppKit](https://developer.apple.com/documentation/appkit?language=objc), it also uses [Core Graphics](https://developer.apple.com/documentation/coregraphics?language=objc) for its graphics engine. The Adobe and Affinity's apps both have custom engines written in C++.
 
-[^sketchstartedbeforesandboxing]: Notably, Sketch was launched in 2010, and was in the Mac App Store until sandboxing was introduced in 2011.
+[^sketchstartedbeforesandboxing]: Notably, Sketch was launched in 2010, and was in the Mac App Store before sandboxing was introduced in 2011. It was removed from the store in 2015, as far as I know it was never sandboxed.
