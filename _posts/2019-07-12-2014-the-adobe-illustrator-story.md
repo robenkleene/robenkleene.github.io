@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "2014 The Adobe Illustrator Story"
+title: "2014 'the Adobe Illustrator Story'"
 categories: Old, Adobe, Video
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "Interview With Ivan Zhao Co-Founder of Notion"
+title: "Interview With Co-Founder of Notion Ivan Zhao"
 categories: Web-App
 ---
 
