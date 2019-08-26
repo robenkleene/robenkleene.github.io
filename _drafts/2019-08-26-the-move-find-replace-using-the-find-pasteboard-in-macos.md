@@ -4,7 +4,7 @@ title: "The Move: Find & Replace Using the 'Find Pasteboard' in macOS"
 categories: macOS, Text-Editor
 ---
 
-The ["find pasteboard"](https://developer.apple.com/documentation/appkit/nstextview/find_panel_search_metadata?language=objc)[^findclipboard] is an under-utilized feature in macOS. Many users are probably at least partially familiar with it, because it powers several menu items under `"Edit" -> "Find"`, but it's also obscure enough to not appear on any of Apple's marketing pages.
+The ["find pasteboard"](https://developer.apple.com/documentation/appkit/nstextview/find_panel_search_metadata?language=objc)[^findclipboard] is an under-utilized feature in macOS. Many users are probably at least partially familiar with it, because it powers several menu items under `"Edit" -> "Find"`, but it's obscure enough to not appear on any of Apple's marketing pages.
 
 The find pasteboard is like the clipboard, in that it stores a bit of data, but it's unlike the clipboard in that you can't paste *from* it. Instead it's used for some find-related features. One of these features is sharing the search term between apps: When you perform a search in a macOS app[^pasteboardavailability], the search term is also automatically added to the find pasteboard, if you then go to another app and initiate a search, the search box will be pre-populated with the search term from the first app[^demonstratingfindpasteboard].
 
