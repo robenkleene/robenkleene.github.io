@@ -34,11 +34,11 @@ There you have it. A practical example using the find pasteboard to accomplish a
 
 * * *
 
-[^findclipboard]: In Apple developer terminology, a clipboard is called a "pasteboard", a term that comes from [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP), a better colloquial name for the feature would probably be the "find clipboard".
+[^findclipboard]: In Apple developer terminology, a clipboard is called a "pasteboard", a term that originated in [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP). A better colloquial name for the feature is probably the "find clipboard".
 
-[^pasteboardavailability]: Not every app implements the find pasteboard. It's implemented automatically by all [Cocoa app](https://en.wikipedia.org/wiki/Cocoa_(API)) that use Apple's native user-interface elements. But, [Electron](https://electronjs.org/) apps, for example, usually don't implement it. When an app does implement it, it cannot normally be turned off.
+[^pasteboardavailability]: Most, but not all, apps implement the find pasteboard. It's implemented automatically by all [Cocoa app](https://en.wikipedia.org/wiki/Cocoa_(API)) using Apple's built-in user-interface elements. But [Electron](https://electronjs.org/) apps for example, usually don't implement it. When an app does implement it, it usually cannot be turned off.
 
-[^demonstratingfindpasteboard]: You can demonstrate this by opening a document in TextEdit and searching for a term with `⌘F`, and then going to Safari and hitting `⌘F`, you should see the same search term from TextEdit auto-populated in Safari.
+[^demonstratingfindpasteboard]: You can demonstrate this by opening a document in TextEdit and searching for a term with `⌘F`, and then going to Safari and hitting `⌘F`. You should see the same search term from TextEdit auto-populated in Safari.
 
-[^onemoveoneexecute]: In his masterful book on Vim, [*Practical Vim*](https://pragprog.com/book/dnvim2/practical-vim-second-edition), [Drew Neil](https://twitter.com/nelstrom) uses the phrase "one keystroke to move, another to execute" to describe this common pattern in text editing of hitting one keyboard shortcut to move, and another to replace.
+[^onemoveoneexecute]: In his masterful book on Vim, [*Practical Vim*](https://pragprog.com/book/dnvim2/practical-vim-second-edition), [Drew Neil](https://twitter.com/nelstrom) uses the phrase "one keystroke to move, another to execute" to describe this common pattern in text editing: Hitting one keyboard shortcut to move, and another to replace.
 
