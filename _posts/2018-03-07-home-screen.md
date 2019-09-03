@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: link
 title: "Home Screen"
 categories: Home-Screen, iOS
 ---
