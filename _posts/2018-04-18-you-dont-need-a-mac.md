@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: link
 title: "You Don't Need a Mac"
 categories: iOS, Development
 ---

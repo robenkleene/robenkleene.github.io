@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: link
 title: "Apple & Cloud-First Workflows"
 categories: Professional, Collaboration
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: link
 title: "Lessons From Software Rewrites"
 categories: Software, Development
 ---
