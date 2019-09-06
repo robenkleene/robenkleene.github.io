@@ -4,11 +4,11 @@ title: "John Gruber on macOS Inconsistencies"
 categories: macOS
 ---
 
-[Gruber's piece](https://daringfireball.net/linked/2019/09/05/fleishman-command-key-spotlight) is ostensibly about macOS shortcuts involving the command key, but this bit about the growing number inconsistencies in macOS resonated with me:
+[Gruber's piece](https://daringfireball.net/linked/2019/09/05/fleishman-command-key-spotlight) is ostensibly about some macOS shortcuts involving the command key, but this bit about the growing number inconsistencies in macOS resonated with me:
 
 > And to top this all off — truly, this is genuinely hard to believe — these ⌘R and ⌘L shortcuts not only break 27-year-old Finder shortcuts, but they aren’t even consistent with Photos, which uses ⌘R for “Rotate Counterclockwise” and ⌥⌘R for “Rotate Clockwise”. So in Photos the R maps to Rotate not Right, and the direction for an image rotated using ⌘R is left/counterclockwise.
 
-His frustration is understandable. The people working on macOS today seem to genuinely not understand the platform, or at least are indifferent to it. Which I find incredibly bizarre since presumably their jobs necessitate using macOS all day, every day. How can you spend that much time sitting in front of the platform and yet still resist understanding it?
+His frustration is understandable. The people working on macOS today seem to genuinely not understand the platform, or at least are indifferent to it. Which I find incredibly bizarre since presumably their jobs necessitate using macOS all day, every day. How can you spend that much time sitting in front of the platform and not understanding it?
 
 Back to the original point of Gruber's piece about the command key, he does have some great tips, some of which are new to me:
 
