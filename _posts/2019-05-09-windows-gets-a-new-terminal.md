@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "Windows Gets a New Terminal"
-categories: News, Development, Windows
+categories: News, Development, Windows, Microsoft
 ---
 
 Frederic Lardinois [writing for *TechCrunch* about a new terminal emulator for Windows](https://techcrunch.com/2019/05/06/windows-gets-a-new-terminal/) launching in June:

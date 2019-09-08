@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Future of Development on Apple Platforms Is Microsoft"
-categories: News, Development, iOS, macOS
+categories: News, Development, iOS, macOS, Microsoft
 ---
 
 What's the future of programming on Apple devices? Apple has neglected [AppKit](https://en.wikipedia.org/wiki/Application_Kit), the only platform with any success in making native development tools. Not only that, but sandboxing makes distributing programming tools through the Mac App Store all but impossible[^rule252]. The only approach that's even remotely compatible with Apple's platforms are self-contained IDEs, like [Pythonista](https://omz-software.com/pythonista/). But the [astonishing success of Visual Studio Code](/2019/04/10/2019-stackoverflow-developer-survey-results/), whose primary feature is extensibility, has shattered any possibility of self-contained IDEs having a future outside of specialized use cases. But Visual Studio Code can never be compatible with sandboxing on iOS. That means the only viable strategy for development on iOS devices is cloud-based on a remote server.

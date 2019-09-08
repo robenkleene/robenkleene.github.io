@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "Microsoft to Ship a Linux Kernel With Windows"
-categories: News, Development, Linux, Windows
+categories: News, Development, Linux, Windows, Microsoft
 ---
 
 Completing [the](/2019/05/08/the-future-of-development-on-apple-platforms-is-microsoft/) [trifecta](/2019/05/09/windows-gets-a-new-terminal/) of recent Microsoft news for developers, Linux Systems Group program manager Jack Hammons writes about [shipping a full Linux kernel with Windows](https://devblogs.microsoft.com/commandline/shipping-a-linux-kernel-with-windows/) this summer:
