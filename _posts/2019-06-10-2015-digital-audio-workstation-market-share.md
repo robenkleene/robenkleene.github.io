@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "2015 Digital Audio Workstation Market Share"
-categories: Market-Share, DAW, Professional
+categories: Market-Share, DAW, Professional, Audio
 ---
 
 [Ask.Audio polled their readers](https://www.macprovideo.com/article/news/the-top-11-most-popular-daws-you-voted-for) about which digital audio workstation (DAW) they preferred in 2015. They received an impressive 25,000 responses, here's a summary of the results:
