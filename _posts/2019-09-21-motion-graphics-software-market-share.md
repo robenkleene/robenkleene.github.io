@@ -4,7 +4,7 @@ title: "Motion Graphics Software Market Share"
 categories: Market-Share, Motion-Graphics, Adobe
 ---
 
-[School of Motion polled their community](https://www.schoolofmotion.com/blog/2019-motion-design-survey) and received over 1,000 responses. The survey included a two questions about software, asking what their most and second most used software were.
+[School of Motion polled their community](https://www.schoolofmotion.com/blog/2019-motion-design-survey) and received over 1,000 responses. The survey included two questions about software, asking what their most, and second most, used software were.
 
 ## Most Used Software
 
@@ -22,5 +22,5 @@ categories: Market-Share, Motion-Graphics, Adobe
 4. 17% [Cinema 4D](https://www.maxon.net/en-us/)
 5. 15% [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
 
-Just like when [I looked at](https://blog.robenkleene.com/2019/05/30/2015-motion-graphics-software-market-share/) [Motiongrapher's motion graphics survey from 2015](http://motionographer.com/2016/01/25/2015-hardware-survey-results/), my biggest surprise was that [Apple's Motion](https://en.wikipedia.org/wiki/Motion_(software)) doesn't even show up on these lists. This is an industry that is completely owned by Adobe (albeit a smaller one than some of the other industries Adobe competes in like photography and video editing).
+Just like when [I looked at](https://blog.robenkleene.com/2019/05/30/2015-motion-graphics-software-market-share/) [Motiongrapher's survey from 2015](http://motionographer.com/2016/01/25/2015-hardware-survey-results/), my biggest surprise is that [Apple's Motion](https://en.wikipedia.org/wiki/Motion_(software)) doesn't show up anywhere on these lists. This is an industry that's completely controlled by Adobe, albeit a smaller one than other areas where Adobe competes like photography and video editing.
 
