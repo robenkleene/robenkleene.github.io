@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "Own Your Data"
-categories: Software, Productivity
+categories: Software, Productivity, Data
 ---
 
 Jared Sinclair details [how Tumblr spontaneously terminated](https://jaredsinclair.com/2019/04/07/jekyll-and-hyde.html) his account without warning:
