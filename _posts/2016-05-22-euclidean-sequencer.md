@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Euclidean Sequencer"
-categories: Music-Production
+categories: Music-Production, Personal, Project
 ---
 
 ![Euclidean Sequencer](/assets/2016-05-22-euclidean-sequencer.png)

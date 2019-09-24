@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Windowpane: Window Management in JavaScript for OS X"
-categories: OS-X
+categories: OS-X, Personal, Project
 ---
 
 <img src="/assets/2016-04-16-windowpane.gif" alt="Windowpane" height="495">
