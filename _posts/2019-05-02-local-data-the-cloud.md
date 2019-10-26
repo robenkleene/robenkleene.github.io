@@ -14,5 +14,4 @@ He also neatly summarizes the advantages of web applications for collaboration:
 
 > We experimented with a number of mechanisms for sharing documents with other users, and found that a URL model, inspired by the web, makes the most sense to users and developers. URLs can be copied and pasted, and shared via communication channels such as email or chat. Access permissions for documents beyond secret URLs remain an open research question.
 
-
 The differentiator between web and native applications is becoming collaboration versus data ownership. I prefer native apps, I still think they have performance and usability advantages, but those gaps are shrinking. The next most important advantage is that native apps provide full control over your data. But you lose the ease of collaboration that comes with web applications. The best way to share is a URL; if you can't share a URL to collaborate in your application, then it will be replaced by an application where you can.
