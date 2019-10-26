@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "Figma Marketing Video"
+title: "New Figma Marketing Video"
 categories: Professional, Desktop
 ---
 
