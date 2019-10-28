@@ -16,7 +16,7 @@ Back to Mori's piece, what we should expect from Apple going forward is that the
 
 * * *
 
-[^whyistheipadstillsobadatwork]: It's hypocritical for Apple to promote the iPad as the future ("what’s a computer?") when everything the company makes it built with Macs. Carts can't pull horses; what Apple should be doing is improving the iPad to the point those employees are using iPads for their work *then* start pitching it as the future.
+[^whyistheipadstillsobadatwork]: It's hypocritical for Apple to promote the iPad as the future ("what’s a computer?") when everything the company makes is built with Macs. Carts can't pull horses; what Apple should be doing is improving the iPad to the point those employees are using iPads for their work *then* start pitching it as the future.
 
 [^thethirdpartylistislonger]: The list of third-party software is surely a lot longer, and most likely includes many media production apps like [Ableton Live](https://www.ableton.com/) and [Cinema 4D](https://www.maxon.net/). Notably, it probably doesn't include any indie Mac apps (although any apps that already also run on iOS are probably fine).
 
