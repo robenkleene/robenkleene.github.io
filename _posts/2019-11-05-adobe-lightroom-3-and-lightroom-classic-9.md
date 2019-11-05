@@ -10,7 +10,7 @@ Lightroom 3 is the same version that's [available in the app store](https://apps
 
 * * *
 
-[^lightroomtutorials]: I've played around with Lightroom's built-in tutorials, but the technology only plays nicely with sliders that affect the whole image, and not the more specialized tools like [brushes](https://helpx.adobe.com/lightroom-cc/how-to/brighten-up-a-face.html) and the [guided upright tool](http://blogs.adobe.com/jkost/2016/06/adobe-announces-guided-upright-in-lightroom-cc.html). This limits how helpful they can be because the sliders aren't exactly difficult to use.
+[^lightroomtutorials]: I've played around with Lightroom's built-in tutorials, but the technology only plays nicely with the sliders that affect the whole image, and not the more specialized tools like [brushes](https://helpx.adobe.com/lightroom-cc/how-to/brighten-up-a-face.html) and the [guided upright tool](http://blogs.adobe.com/jkost/2016/06/adobe-announces-guided-upright-in-lightroom-cc.html). This limits how helpful they can be because the sliders themselves aren't exactly difficult to use.
 
-[^nophotoshoots]: Hosting all of the images in the cloud is more problematic than it appears at first. For example it means if you're doing a large photo shoot, you have to upload all of the photos to work with them in Lightroom (and pay Adobe's [cloud storage fees](https://www.adobe.com/products/photoshop-lightroom/store-manage-photos.html)).
+[^nophotoshoots]: Uploading all of the images to the cloud is more problematic than it at first appears. For example it means if you're doing a large photo shoot, you have to upload all of the photos to work with them in Lightroom (and pay Adobe's [cloud storage fees](https://www.adobe.com/products/photoshop-lightroom/store-manage-photos.html)).
 
