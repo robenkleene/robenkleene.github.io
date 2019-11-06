@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "2017 Red Giant Interview With Sandwich"
+title: "Red Giant Interview With Sandwich, 2017"
 categories: Video-Editing, Old
 ---
 

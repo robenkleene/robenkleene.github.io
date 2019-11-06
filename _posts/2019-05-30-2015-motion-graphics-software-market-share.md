@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2015 Motion Graphics Software Market Share"
+title: "Motion Graphics Software Market Share, 2015"
 categories: Market-Share, Motion-Graphics, Adobe, Old
 ---
 

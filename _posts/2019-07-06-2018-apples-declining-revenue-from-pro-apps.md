@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "2018 Apple's Declining Revenue From 'Pro Apps'"
+title: "Apple's Declining Revenue From 'Pro Apps', 2018"
 categories: Old, News, Professional
 ---
 

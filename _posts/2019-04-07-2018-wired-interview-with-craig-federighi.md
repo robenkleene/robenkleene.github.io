@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "2018 Wired Interview With Craig Federighi"
+title: "Wired Interview With Craig Federighi, 2018"
 categories: macOS, Old
 ---
 

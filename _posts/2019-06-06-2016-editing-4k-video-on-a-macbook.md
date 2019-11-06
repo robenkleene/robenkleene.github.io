@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "2016 Editing 4K Video on a MacBook"
+title: "Editing 4K Video on a MacBook, 2016"
 categories: Old, Video-Editing, Professional
 ---
 

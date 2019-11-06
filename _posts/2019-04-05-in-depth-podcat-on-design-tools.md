@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "2017 In Depth Podcast on Design Tools"
+title: "In Depth Podcast on Design Tools, 2017"
 categories: Professional, Design
 ---
 

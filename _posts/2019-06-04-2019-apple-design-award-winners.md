@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "2019 Apple Design Award Winners"
+title: "Apple Design Award Winners, 2019"
 categories: Design, Apple, Software
 ---
 

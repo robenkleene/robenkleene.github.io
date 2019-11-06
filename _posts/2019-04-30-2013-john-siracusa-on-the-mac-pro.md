@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "2013 John Siracusa on the Mac Pro"
+title: "John Siracusa on the Mac Pro, 2013"
 categories: Old, Professional, Mac
 ---
 

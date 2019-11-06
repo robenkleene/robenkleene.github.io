@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "2016 Alex Payne's Vision for a Pro Computer"
+title: "Alex Payne's Vision for a Pro Computer, 2016"
 categories: Professional
 ---
 

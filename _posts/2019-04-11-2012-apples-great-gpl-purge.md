@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "2012 Apple's Great GPL Purge"
+title: "Apple's Great GPL Purge, 2012"
 categories: Open-Source, macOS, Old
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "2000 Joe Clark on Plain Text Email"
+title: "Joe Clark on Plain Text Email, 2000"
 categories: Email, Old
 ---
 

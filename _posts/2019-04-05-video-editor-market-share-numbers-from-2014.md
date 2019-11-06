@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "2014 Video Editor Market Share Numbers"
+title: "Video Editor Market Share Numbers, 2014"
 categories: Professional, Video-Editor, Old, Market-Share
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "2015 Behind the Scenes on Building 3D Touch"
+title: "Behind the Scenes on Building 3D Touch, 2015"
 categories: Old, Apple, Design
 ---
 

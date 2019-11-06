@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "2015 Digital Audio Workstation Market Share"
+title: "Digital Audio Workstation Market Share, 2015"
 categories: Market-Share, DAW, Professional, Audio
 ---
 

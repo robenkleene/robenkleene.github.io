@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "2013 Photography Post-Production Software Market Share"
+title: "Photography Post-Production Software Market Share, 2013"
 categories: Market-Share, Photography, Professional
 ---
 
