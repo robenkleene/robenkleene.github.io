@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "Web & Mobile Apps Are About Specialization"
+title: "The Specialization of Web & Mobile Apps"
 categories: Data, Web, Mobile
 ---
 
