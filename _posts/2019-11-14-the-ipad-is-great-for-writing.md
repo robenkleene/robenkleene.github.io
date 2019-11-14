@@ -4,7 +4,7 @@ title: "Opinion Columnist Momentarily Mistakes Self for Entire Market"
 categories: iPadOS, iOS, Mac
 ---
 
-[Farhad Manjoo](https://twitter.com/fmanjoo) pens an opinion column with the bold title ["Steve Jobs Was Right: Smartphones and Tablets Killed the P.C."](https://www.nytimes.com/2019/11/13/opinion/apple-macbook-pro-ipad.html). With a title like that, I was hoping to see evidence of shifting behaviors in a broad spectrum of consumers, towards iPads and away from Macs. But alas the only shift seems to have been Manjoo himself, who now prefers to use an iPad:
+[Farhad Manjoo](https://twitter.com/fmanjoo) pens an opinion column with the bold title ["Steve Jobs Was Right: Smartphones and Tablets Killed the P.C."](https://www.nytimes.com/2019/11/13/opinion/apple-macbook-pro-ipad.html). With a title like that, I was hoping to see evidence of shifting behaviors in a broad spectrum of consumers, towards iPads and away from Macs. But, alas, the only shift seems to have been Manjoo himself, who now prefers to use an iPad:
 
 > Ultimately, it’s the ecosystem that explains why I can’t stop raving about the iPad. When it came out, the big knock on the iPad was that it was just a big phone; today, that’s what I love about it — like the Watch or AirPods, the iPad feels intuitive and natural to me because it works just like the device I use most often, my phone.
 
