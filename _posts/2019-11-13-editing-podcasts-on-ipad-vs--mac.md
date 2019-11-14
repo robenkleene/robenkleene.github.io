@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "Podcast Eidting on iOS vs. macOS"
+title: "Podcast Editing on iOS vs. macOS"
 categories: Audio, Professional, iOS, Mac, macOS
 ---
 
