@@ -16,7 +16,7 @@ GEM
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.5)
-    cyclist (0.7.5)
+    cyclist (0.7.6)
       jekyll (~> 3.7)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
