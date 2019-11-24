@@ -4,18 +4,18 @@ title: "The Touch Bar"
 categories: macOS, MacBook, Desktop
 ---
 
-The [new 16" MacBook Pro](https://www.apple.com/newsroom/2019/11/apple-introduces-16-inch-macbook-pro-the-worlds-best-pro-notebook/) still has a Touch Bar, but with a physical Esc key now. I think most of the complaints about the Touch Bar will die down now. A touch button was a particularly lousy replacement for the Esc key for a couple reasons:
+The [new 16" MacBook Pro](https://www.apple.com/newsroom/2019/11/apple-introduces-16-inch-macbook-pro-the-worlds-best-pro-notebook/) still has a Touch Bar, but it now has a physical Esc key. I think this will quell most of the complaints about the Touch Bar, the touch button made a particularly lousy Esc replacement for a couple reasons:
 
-1. Esc is a commonly used key, especially to dismiss dialogs.
-2. It's easy to type Esc without looking because it's in the upper left corner.
+1. Esc is a commonly used key, especially for dismissing dialogs.
+2. With a physical key, it's easy to type without looking at the keyboard because it's in the upper left corner.
 
-The remaining keys in the function row are also commonly used, but they were never easy to type without looking: Brightness, Mission Control, Launchpad, rewind, play/pause, fast forward, mute, and volume. For these keys the Touch Bar feels like a wash, the physical keys were slightly easier to type, but the Touch Bar is significantly cooler. So now that there's a physical Esc key, I suspect the complaints will die down, but why wasn't the Touch Bar more successful?
+The remaining keys in the function row are also commonly used, but they were never easy to type without looking: Brightness, Mission Control, Launchpad, rewind, play/pause, fast forward, mute, and volume. For those keys the Touch Bar feels like a wash: The physical keys were slightly easier to type, but the Touch Bar is significantly cooler. So with the physical Esc key, I suspect the complaints will die down, but that leaves the question of why isn't the Touch Bar a better replacement for the remaining keys?
 
 ## Buttons
 
-[Function keys](https://en.wikipedia.org/wiki/Function_key)  have their proponents, but they're rarely used on the Mac. Most of their proponents probably have significant experience on Windows. The function keys are used much more on Windows because, unlike the macOS [command key](https://en.wikipedia.org/wiki/Command_key), the [Windows key](https://en.wikipedia.org/wiki/Windows_key) isn't a modifier[^commandpromptcopyandpaste]. As a result, application shortcuts and user-defined shortcuts[^functionkeysinexcel] commonly end up in the function row. But the function keys seem just plain worse than modifier-based keyboard shortcuts to me, because they aren't mnemonic and, they're so far from the home row that they're difficult to type without looking[^dedicatedfunctionkeys].
+[Function keys](https://en.wikipedia.org/wiki/Function_key)  have their proponents, but in general they're rarely used on the Mac. They're used much more on Windows because, unlike the macOS [command key](https://en.wikipedia.org/wiki/Command_key), the [Windows key](https://en.wikipedia.org/wiki/Windows_key) isn't a modifier[^commandpromptcopyandpaste]. As a result, application shortcuts and user-defined shortcuts[^functionkeysinexcel] often end up in the function row. But function keys seem just plain worse than modifier-based keyboard shortcuts: They aren't mnemonic and, they're far enough from the home row that they're difficult to type without looking[^dedicatedfunctionkeys].
 
-The Touch Bar is usually just used to add buttons, which effectively means it's being used as function keys, but with visual indication of the buttons purpose. Here the Touch Bar ends up stuck between the mouse and the keyboard, if you know the modifier-based keyboard shortcut, that's going to be easier to type because you don't have to look down, and, if you don't know the keyboard shortcut, using the mouse to click something is going to be easier because you're already looking at the screen.
+The Touch Bar is unfortunately usually just used to add buttons, which effectively means it's used as function keys, but with visual indication of each buttons purpose. Here the Touch Bar ends up stuck between the mouse and the keyboard, if you know the modifier-based keyboard shortcut, than that's going to be easier to type without looking, and, if you don't, using the mouse to click something is going to be easier because you're already looking at the screen.
 
 ## Spectrums
 
@@ -56,4 +56,3 @@ It's hard not to wonder what Apple themselves think is better about the Touch Ba
 [^drawingisgreatonipad]: [As I've written before](https://blog.robenkleene.com/#fnref:ipadisalsogreatforillustration), illustration is also a great use case for the integrated display and input method.
 
 [^lemuriosapp]: Lemur is [available as an iOS app](https://liine.net/en/products/lemur/) from Liine.
-
