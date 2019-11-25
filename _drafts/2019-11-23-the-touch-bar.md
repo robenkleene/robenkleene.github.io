@@ -4,12 +4,12 @@ title: "The Touch Bar"
 categories: macOS, MacBook, Desktop
 ---
 
-The [new 16" MacBook Pro](https://www.apple.com/newsroom/2019/11/apple-introduces-16-inch-macbook-pro-the-worlds-best-pro-notebook/) still has a Touch Bar, but it now has a physical Esc key. I think this will quell most of the complaints about the Touch Bar, the touch button made a particularly lousy Esc replacement for a couple reasons:
+The [new 16" MacBook Pro](https://www.apple.com/newsroom/2019/11/apple-introduces-16-inch-macbook-pro-the-worlds-best-pro-notebook/) still has a Touch Bar, but it now has a physical Esc key. I think this will quell most of the complaints about the Touch Bar, the touch Esc button was a particularly lousy replacement for a couple of reasons:
 
 1. Esc is a commonly used key, especially for dismissing dialogs.
-2. With a physical key, it's easy to type without looking at the keyboard because it's in the upper left corner.
+2. As a physical key, Esc is easy to type without looking because it's in the upper left corner.
 
-The remaining keys in the function row are also commonly used, but they were never easy to type without looking: Brightness, Mission Control, Launchpad, rewind, play/pause, fast forward, mute, and volume. For those keys the Touch Bar feels like a wash: The physical keys were slightly easier to type, but the Touch Bar is significantly cooler. So with the physical Esc key, I suspect the complaints will die down, but that leaves the question of why isn't the Touch Bar a better replacement for the remaining keys?
+The remaining keys in the function row are also commonly used, but they were never easy to type without looking: Brightness, Mission Control, Launchpad, rewind, play/pause, fast forward, mute, and volume. For those keys the Touch Bar feels like a wash: The physical keys were slightly easier to type, but the Touch Bar is significantly cooler. So with the physical Esc key, I suspect the complaints will die down, but why wasn't the Touch Bar more successful?
 
 ## Buttons
 
