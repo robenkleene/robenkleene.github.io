@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "Avid Sales Numbers"
+title: "Avid's Sales Numbers"
 categories: Market-Share, Software, Professional
 ---
 
