@@ -4,7 +4,7 @@ title: "Jumping Directly to Folders on iOS"
 categories: 
 ---
 
-[Federico Viticci](https://twitter.com/viticci) shares [FS Bookmarks](https://www.macstories.net/ios/fs-bookmarks-a-shortcut-to-reopen-files-and-folders-directly-in-the-files-app/), his tool for using URL schemes to jump to folders on iOS:
+[Federico Viticci](https://twitter.com/viticci) shares [FS Bookmarks](https://www.macstories.net/ios/fs-bookmarks-a-shortcut-to-reopen-files-and-folders-directly-in-the-files-app/), his tool for using URL schemes to jump to specific folders on iOS:
 
 > I’m happy to introduce FS Bookmarks, a shortcut that lets you create direct launchers for files and folders stored in the Files app. FS Bookmarks is a hybrid Shortcuts-Scriptable tool that takes advantage of a native Files API (which I will call “bookmarks”) to expose the filesystem path of any file or folder stored in the Files app.
 
