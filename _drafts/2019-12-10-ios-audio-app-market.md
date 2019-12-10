@@ -50,15 +50,13 @@ The fourth developer shared their data after adding [AUv3](https://developer.app
 
 The final developer had one music app app that was initially released for iPad, that was then expanded to iPhone and Mac. Their sales breakdown on each platform is as follows:
 
-- 25% iPhone
-- 35% iPad
-- 40% Mac
-- $500,000 in sales over the past three years
-- 2x pricing in the Mac store
+- 25% of sales come from iPhone, 35% from iPad, and 40% from Mac.
+- $500,000 in total sales over the last three years.
+- The iOS version is priced 1/2 the price of the Mac version.
 
 ## There's Something Happening Here
 
-There's undoubtably something happening with iOS music apps. It seems to me to be the healthiest creative app markets, the [Audiobus Forum](https://forum.audiob.us/) is extremely active, it's undoubtably the most active forum for iOS music making, but it may be the most active community around music making there is, mostly fueled by a continuous stream of new audio apps being released.
+There's undoubtably something happening with iOS music apps. It appears to be one of the most active creative app markets, the [Audiobus Forum](https://forum.audiob.us/) is an extremely active community. It's easily the most active forum for iOS music making, but it also may be the most active music making community there is period. And it's mostly fueled by a continuous stream of new audio apps being released.
 
 There are some unique characteristics this market relative to other creative app markets. Unlike the drawing app market for example, where there's a clear market winner, [Procreate](https://procreate.art/) is the #1 paid iPad app in the store, the market is much more fragmented. The closest to an overall winner is probably [BeatMaker 3](https://intua.net/) which is currently the #3 paid Music app and #19 overall. Instead of consolidating 
 
