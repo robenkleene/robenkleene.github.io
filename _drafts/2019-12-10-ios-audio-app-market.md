@@ -58,9 +58,9 @@ The final developer had one music app app that was initially released for iPad, 
 
 There's undoubtably something happening with iOS music apps. It appears to be one of the most active creative app markets, the [Audiobus Forum](https://forum.audiob.us/) is an extremely active community. It's easily the most active forum for iOS music making, but it also may be the most active music making community there is period. And it's mostly fueled by a continuous stream of new audio apps being released.
 
-There are some unique characteristics this market relative to other creative app markets. Unlike the drawing app market for example, where there's a clear market winner, [Procreate](https://procreate.art/) is the #1 paid iPad app in the store, the market is much more fragmented. The closest to an overall winner is probably [BeatMaker 3](https://intua.net/) which is currently the #3 paid Music app and #19 overall. Instead of consolidating 
+There are some unique characteristics of this market relative to other creative app markets. Unlike the drawing app market for example, where there's a clear market winner, [Procreate](https://procreate.art/) is the #1 paid iPad app in the store, the market is much more fragmented. The closest to an overall winner is probably [BeatMaker 3](https://intua.net/) which is currently the #3 paid Music app and #19 overall.
 
-In [a recent iOS DAW poll at the Audiobus forum](https://forum.audiob.us/discussion/32436/ios-daw-and-workflow-poll-2019), the overwhelming winner was the [AUM mixer app](https://kymatica.com/apps/aum), which is primarily an AudioUnit host for other apps, here's what its interface looks like:
+Instead of consolidating on big overall winners, the market seems to have doubled-down on modularity. In [a recent iOS DAW poll at the Audiobus forum](https://forum.audiob.us/discussion/32436/ios-daw-and-workflow-poll-2019), the overwhelming winner was the [AUM mixer app](https://kymatica.com/apps/aum), which is primarily an AudioUnit host for other apps, here's what its interface looks like:
 
 ![AUM](/assets/2019-12-06-aum.png)
 
