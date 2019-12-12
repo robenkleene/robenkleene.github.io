@@ -1,7 +1,7 @@
 ---
 layout: link
-title: "iOS Audio App Market"
-categories: 
+title: "The iOS Audio App Market"
+categories: iOS, Professional, Audio
 ---
 
 The [2019 Audio Developer Conference](https://adc19.sched.com/) has a video of a panel titled ["Mobile vs. Desktop Software: Fragmented or Converging Practices?"](https://www.youtube.com/watch?v=XAKQvcqxFbo). It's moderated by [AudioKit Pro](https://audiokitpro.com) co-founder [Matthew Fecher](https://twitter.com/analogMatthew), and the list of panelists are:
