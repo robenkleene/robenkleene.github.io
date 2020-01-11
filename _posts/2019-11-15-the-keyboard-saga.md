@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: linkpost
 title: "The Keyboard Saga"
 categories: Mac
 ---
