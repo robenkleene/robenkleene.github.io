@@ -20,7 +20,7 @@ categories: Market-Share, Motion-Graphics, Adobe, Old
 12. 2% [Blender](https://www.blender.org/)
 13. 1% [Unity](https://unity.com/)
 
-After seeing these results, I went back and added Adobe's products to the [previous numbers I'd looked at](/2019/04/02/sketch-figmas-market-share/) from the user interface question from [Uxtools.co 2018 design tools survey](https://uxtools.co/survey-2018):
+After seeing these results, I went back and added Adobe's products to the [previous numbers I'd looked at](https://blog.robenkleene.com/2019/04/02/sketch-figmas-market-share/) from the user interface question from [Uxtools.co 2018 design tools survey](https://uxtools.co/survey-2018):
 
 1. 70% [Sketch](https://www.sketch.com/)
 2. 21% [Figma](https://www.figma.com/)
@@ -34,7 +34,7 @@ Or, with all the Adobe products combined:
 2. 56% Adobe Products
 3. 21% Figma
 
-56% puts Adobe solidly in second place after Sketch[^adobeproductscombined]. Taken with [previous market share numbers I looked at with video editors](/2019/04/05/video-editor-market-share-numbers-from-2014/), where Adobe Premiere Pro came out ahead at 63%, it paints quite a picture of Adobe's dominance in creative fields. Adobe is also almost certainly dominate in photography, with [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) and print publishing, with [Adobe InDesign](https://en.wikipedia.org/wiki/Adobe_InDesign), neither of which have any serious competitors. This means Adobe is dominate in photography, video editing, motion graphics, and print publishing, and second place in user-interface design. Not a bad showing.
+56% puts Adobe solidly in second place after Sketch[^adobeproductscombined]. Taken with [previous market share numbers I looked at with video editors](https://blog.robenkleene.com/2019/04/05/video-editor-market-share-numbers-from-2014/), where Adobe Premiere Pro came out ahead at 63%, it paints quite a picture of Adobe's dominance in creative fields. Adobe is also almost certainly dominate in photography, with [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) and print publishing, with [Adobe InDesign](https://en.wikipedia.org/wiki/Adobe_InDesign), neither of which have any serious competitors. This means Adobe is dominate in photography, video editing, motion graphics, and print publishing, and second place in user-interface design. Not a bad showing.
 
 * * *
 

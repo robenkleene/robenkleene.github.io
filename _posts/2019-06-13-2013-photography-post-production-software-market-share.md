@@ -17,4 +17,4 @@ In 2013, [Digital Photography School polled their readers](https://digital-photo
 9. 5% Other
 
 
-This is shortly after [Adobe introduced subscription pricing](https://www.theverge.com/apps/2011/10/3/2466937/adobe-creative-cloud-photoshop-touch-subscription-service), and Aperture, iPhoto, and Picasa were still around. Adobe [again](/2019/05/30/2015-motion-graphics-software-market-share/) (and [again](/2019/04/05/video-editor-market-share-numbers-from-2014/)) comes out dominate.
+This is shortly after [Adobe introduced subscription pricing](https://www.theverge.com/apps/2011/10/3/2466937/adobe-creative-cloud-photoshop-touch-subscription-service), and Aperture, iPhoto, and Picasa were still around. Adobe [again](https://blog.robenkleene.com/2019/05/30/2015-motion-graphics-software-market-share/) (and [again](https://blog.robenkleene.com/2019/04/05/video-editor-market-share-numbers-from-2014/)) comes out dominate.

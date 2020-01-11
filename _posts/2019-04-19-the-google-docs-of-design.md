@@ -4,7 +4,7 @@ title: "The Google Docs of Design"
 categories: Professional, Software
 ---
 
-Inc. has a feature on Figma's founders for their 30 Under 30 list by Michelle Cheng called ["Figma Wants to Be the Google Docs of Digital Design"](https://www.inc.com/michelle-cheng/figma-design-cloud-collaboration-google-docs-30-under-30-2019.html?utm_content=buffer45db6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer). I'm not sure people realize how big a deal [Figma](https://www.figma.com/) is; Figma could be the tipping point that ends native desktop apps for creative professionals. Figma is a web-based design tool, and [according to Uxtools.co's data](/2019/04/02/sketch-figmas-market-share/), it's the second most popular design tool after the fully native (and Mac-only) [Sketch](https://www.sketch.com/).
+Inc. has a feature on Figma's founders for their 30 Under 30 list by Michelle Cheng called ["Figma Wants to Be the Google Docs of Digital Design"](https://www.inc.com/michelle-cheng/figma-design-cloud-collaboration-google-docs-30-under-30-2019.html?utm_content=buffer45db6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer). I'm not sure people realize how big a deal [Figma](https://www.figma.com/) is; Figma could be the tipping point that ends native desktop apps for creative professionals. Figma is a web-based design tool, and [according to Uxtools.co's data](https://blog.robenkleene.com/2019/04/02/sketch-figmas-market-share/), it's the second most popular design tool after the fully native (and Mac-only) [Sketch](https://www.sketch.com/).
 
 The title "the Google Docs of Digital Design", captures Figma's potential impact: The Google Docs approach, of having a document anyone can view and edit at anytime, has huge benefits.
 

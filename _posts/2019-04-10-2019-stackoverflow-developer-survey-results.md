@@ -4,7 +4,7 @@ title: "2019 Stackoverflow Developer Survey Results"
 categories: Software, Development, Text-Editor, News
 ---
 
-The [2019 Stackoverflow developer survey results](https://insights.stackoverflow.com/survey/2019#development-environments-and-tools) are out, which means I can update the data I collected for [another post](/2019/04/01/professional-work-on-the-ipad-in-context/) illustrating the industry-wide takeover by the Electron-based text editors:
+The [2019 Stackoverflow developer survey results](https://insights.stackoverflow.com/survey/2019#development-environments-and-tools) are out, which means I can update the data I collected for [another post](https://blog.robenkleene.com/2019/04/01/professional-work-on-the-ipad-in-context/) illustrating the industry-wide takeover by the Electron-based text editors:
 
 1. [2015](https://insights.stackoverflow.com/survey/2015#tech-editor): 2.8% combined, 2.8% Atom
 2. [2016](https://insights.stackoverflow.com/survey/2016#technology-development-environments): 19.7% combined, 12.5% Atom, 7.2% Visual Studio Code

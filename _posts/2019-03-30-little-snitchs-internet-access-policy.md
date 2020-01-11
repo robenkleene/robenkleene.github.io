@@ -10,6 +10,6 @@ categories: macOS, Software, Privacy
 
 Here's what it looks like in an application that supports it:
 
-![Internet Access Policy](/assets/2019-03-30-internet-access-policy.png)
+![Internet Access Policy](https://blog.robenkleene.com/assets/2019-03-30-internet-access-policy.png)
 
 The [list of applications](https://help.obdev.at/littlesnitch/ra-iap) that support it is impressive, including [1Password](https://1password.com), [BBEdit](https://www.barebones.com/products/bbedit/), [Bear](https://bear.app), [iStat Menus](https://bjango.com/mac/istatmenus/), [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html), and [Ulysses](https://ulysses.app).

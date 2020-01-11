@@ -8,11 +8,11 @@ For a long time I've had a [splinter in my mind](https://www.youtube.com/watch?v
 
 The confusion begins because I clearly have "Plain Text" set as the "Message Format" in Mail's preferences. But, if I quote a message I'm replying to, Mail uses a graphical bar to indicate the quoted portion of a message instead using plain text convention of preceding each quoted line with a `>` character:
 
-![Top Post Reply](/assets/2019-04-14-top-post-reply.png)
+![Top Post Reply](https://blog.robenkleene.com/assets/2019-04-14-top-post-reply.png)
 
 This is frustrating for a few reasons. Since the cursor is also placed in the wrong position for replying to a quoted portion of an email (positioned ready to commit [top posting](https://daringfireball.net/2007/07/on_top)), if I then do what's natural, and remove the top empty line, and move the cursor to the bottom of the post, here's the result:
 
-![Broken Reply](/assets/2019-04-14-broken-reply.png)
+![Broken Reply](https://blog.robenkleene.com/assets/2019-04-14-broken-reply.png)
 
 Deleting the top line breaks the quote formatting[^invisiblecharacters]. The workaround is simple, but unfortunate: Leave a blank line at the top of the message[^cutandpaste]. But this cuts right to the heart of why some people greatly prefer plain text: Rich text is *unpredictable* and therefore *unreliable*.
 

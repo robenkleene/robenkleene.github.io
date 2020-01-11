@@ -4,7 +4,7 @@ title: "The Deal That Made the iPhone"
 categories: Innovation
 ---
 
-The iPhone might seem like a counterargument to my [piece on innovation being easier than people think](/2019/04/11/a-few-smart-people-in-a-room/). If all it takes is a few smart people in a room, what happened with the iPhone? Why was one device so impactful?
+The iPhone might seem like a counterargument to my [piece on innovation being easier than people think](https://blog.robenkleene.com/2019/04/11/a-few-smart-people-in-a-room/). If all it takes is a few smart people in a room, what happened with the iPhone? Why was one device so impactful?
 
 The answer comes from what we already understand about markets. Before the iPhone, cell phones were an artificial market, because the carriers determined which hardware was made. Here's how Fred Vogelstein described the situation [in a 2008 piece for Wired](https://www.wired.com/2008/01/ff-iphone/):
 

@@ -4,7 +4,7 @@ title: "Joe Clark on Plain Text Email, 2000"
 categories: Email, Old
 ---
 
-Joe Clark's piece ["The format=flowed FAQ"](https://joeclark.org/ffaq.html) acts as an interesting counterargument to my piece on [Apple Mail's lack of a true plain text mode](/2019/04/14/apple-mail-doesnt-support-plain-text/). Joe is advocating for the [Format=Flowed email standard](https://www.ietf.org/rfc/rfc2646.txt), which is similar to how Apple Mail handles [email quoting](https://en.wikipedia.org/wiki/Posting_style)[^noformatflowed]:
+Joe Clark's piece ["The format=flowed FAQ"](https://joeclark.org/ffaq.html) acts as an interesting counterargument to my piece on [Apple Mail's lack of a true plain text mode](https://blog.robenkleene.com/2019/04/14/apple-mail-doesnt-support-plain-text/). Joe is advocating for the [Format=Flowed email standard](https://www.ietf.org/rfc/rfc2646.txt), which is similar to how Apple Mail handles [email quoting](https://en.wikipedia.org/wiki/Posting_style)[^noformatflowed]:
 
 > A mailer program that understands f=f suppresses the display of > characters. They’re still there, only hidden.
 

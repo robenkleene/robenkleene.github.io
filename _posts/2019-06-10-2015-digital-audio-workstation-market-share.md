@@ -22,8 +22,8 @@ categories: Market-Share, DAW, Professional, Audio
 
 One of the great things about the DAW market is how fragmented it is. The market leader, Ableton Live, only has 23.14%. Compare that with the leaders in other markets:
 
-- 96% [Adobe After Effects](https://www.adobe.com/products/aftereffects.html), [Motion Graphics](/2019/05/30/2015-motion-graphics-software-market-share/)
-- 70% [Sketch](https://www.sketch.com/), [User Interface Design](/2019/04/02/sketch-figmas-market-share/)
-- 65% [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html), [Video Editing (NLE)](/2019/04/05/video-editor-market-share-numbers-from-2014/)
+- 96% [Adobe After Effects](https://www.adobe.com/products/aftereffects.html), [Motion Graphics](https://blog.robenkleene.com/2019/05/30/2015-motion-graphics-software-market-share/)
+- 70% [Sketch](https://www.sketch.com/), [User Interface Design](https://blog.robenkleene.com/2019/04/02/sketch-figmas-market-share/)
+- 65% [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html), [Video Editing (NLE)](https://blog.robenkleene.com/2019/04/05/video-editor-market-share-numbers-from-2014/)
 
 I'm also really curious if Logic Pro X actually has more users than GarageBand.

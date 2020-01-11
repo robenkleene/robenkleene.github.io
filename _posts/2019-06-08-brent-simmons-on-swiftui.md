@@ -14,5 +14,5 @@ Brent Simmon's piece, [The NeXT Era Ends, the Swift Era Begins](https://inessent
 
 > It may be a while before you’re running apps that use SwiftUI and Combine (and who knows what else still to come). We’re in a transition, and transitions take years. But we’ve all just had a glimpse of the next 20 years.
 
-Leading up to WWDC, I [wrote](/2019/06/03/the-reaper/): "Developers got more functionality for free when they used Cocoa." It's no coincidence that Craig Federighi introduced SwiftUI by [emphasizing that it means writing less code](https://www.youtube.com/watch?v=psL_5RIBqnY&t=128m32s). If you want to try to introduce something revolutionary, it's good a good idea to have an objective reason that it's better; less code is always objectively better.
+Leading up to WWDC, I [wrote](https://blog.robenkleene.com/2019/06/03/the-reaper/): "Developers got more functionality for free when they used Cocoa." It's no coincidence that Craig Federighi introduced SwiftUI by [emphasizing that it means writing less code](https://www.youtube.com/watch?v=psL_5RIBqnY&t=128m32s). If you want to try to introduce something revolutionary, it's good a good idea to have an objective reason that it's better; less code is always objectively better.
 

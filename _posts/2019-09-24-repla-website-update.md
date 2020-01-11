@@ -8,4 +8,4 @@ The website for my own app coming soon, [Repla](https://repla.app/), has been up
 
 Repla Server solves this problem perfectly. I'm using it right now to preview the draft of this post in the local version of this blog running Jekyll. I can make an edit in BBEdit on the left, and Repla automatically refreshes on the right.
 
-![Repla Server & BBEdit](/assets/2019-09-24-repla-server-bbedit.png)
+![Repla Server & BBEdit](https://blog.robenkleene.com/assets/2019-09-24-repla-server-bbedit.png)

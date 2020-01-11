@@ -4,7 +4,7 @@ title: "Sketch & Figma's Market Share"
 categories: Design, Software, Professional, Market-Share
 ---
 
-[Sketch](https://www.sketch.com/), released in 2010, is the elephant in the room for interface design. [Figma](https://www.figma.com/), released in 2016, is the up-and-comer in this space[^venture]. Sketch is a Mac-only native app, Figma is a browser-based tool with a desktop [Electron](https://electronjs.org) app. After the rise of [Electron-based editors](/2019/04/01/professional-work-on-the-ipad-in-context/), this is the next battleground for the soul of desktop apps.
+[Sketch](https://www.sketch.com/), released in 2010, is the elephant in the room for interface design. [Figma](https://www.figma.com/), released in 2016, is the up-and-comer in this space[^venture]. Sketch is a Mac-only native app, Figma is a browser-based tool with a desktop [Electron](https://electronjs.org) app. After the rise of [Electron-based editors](https://blog.robenkleene.com/2019/04/01/professional-work-on-the-ipad-in-context/), this is the next battleground for the soul of desktop apps.
 
 [Uxtools.co](http://uxtools.co/) surveys designers about which tools they use (much like [Stackoverflow Insights](https://insights.stackoverflow.com) does with developers). They have two years of data so far, here's what their market-share numbers look like for these tools[^interface]:
 

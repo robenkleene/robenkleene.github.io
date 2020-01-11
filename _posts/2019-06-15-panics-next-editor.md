@@ -14,5 +14,5 @@ Panic is working on a [new text editor](https://panic.com/next/) to replace [Cod
 
 They've shared a [couple](https://twitter.com/panic/status/1123651547924033538) ([fullsize](https://pbs.twimg.com/media/D5gDH8rVUAEzCje.jpg:large)) of [screenshots](https://twitter.com/panic/status/1138186299607724032) ([fullsize](https://pbs.twimg.com/media/D8umZ2wVUAApcO0.jpg:large)) on Twitter.
 
-I'm extremely excited about a new native text editor to [compete with Visual Studio Code](/2019/04/10/2019-stackoverflow-developer-survey-results/).
+I'm extremely excited about a new native text editor to [compete with Visual Studio Code](https://blog.robenkleene.com/2019/04/10/2019-stackoverflow-developer-survey-results/).
 

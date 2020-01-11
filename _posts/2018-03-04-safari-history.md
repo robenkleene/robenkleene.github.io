@@ -39,4 +39,4 @@ fzf-safari-history-open() {
 
 Here's what it looks like:
 
-![safari-history](/assets/2018-03-04-safari-history.gif)
+![safari-history](https://blog.robenkleene.com/assets/2018-03-04-safari-history.gif)
