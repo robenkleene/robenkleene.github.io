@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: linkpost
 title: "The Specialization of Web & Mobile Apps"
 categories: Data, Web, Mobile
 ---

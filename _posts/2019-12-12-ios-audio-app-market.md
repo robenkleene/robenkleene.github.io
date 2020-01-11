@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: linkpost
 title: "The iOS Audio App Market"
 categories: iOS, Professional, Audio
 ---

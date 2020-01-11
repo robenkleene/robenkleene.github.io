@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: linkpost
 title: "Web Development on iPad"
 categories: iPad, iOS, Web, Development
 ---

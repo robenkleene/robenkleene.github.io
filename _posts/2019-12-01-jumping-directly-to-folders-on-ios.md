@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: linkpost
 title: "Jumping Directly to Folders on iOS"
 categories: 
 ---

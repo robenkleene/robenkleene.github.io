@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: linkpost
 title: "Pitchfork on GarageBand, 2015"
 categories: Apple, Professional, Software, iPadOS, iOS
 ---

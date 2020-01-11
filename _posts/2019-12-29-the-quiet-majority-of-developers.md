@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: linkpost
 title: "'The Quiet Majority of Developers'"
 categories: Professional, Creative
 ---

@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: linkpost
 title: "Opinion Columnist Momentarily Mistakes Self for Entire Market"
 categories: iPadOS, iOS, Mac
 ---

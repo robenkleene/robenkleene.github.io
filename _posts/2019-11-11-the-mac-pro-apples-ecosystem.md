@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: linkpost
 title: "The Mac Pro & Apple's Ecosystem"
 categories: Professional, Mac, iOS
 ---
