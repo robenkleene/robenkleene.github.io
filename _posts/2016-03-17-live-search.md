@@ -14,7 +14,7 @@ There are a couple of ways to search source code files live today; one day I hop
 
 Emacs can do live search using the `helm-do-ag` command from the [`helm-ag` ](https://github.com/syohex/emacs-helm-ag) package[^helm]. Here's what it looks like searching for the string "`toggledebugmode`" in [Web Console](https://github.com/robenkleene/webconsole)'s source code, followed by hitting enter to go to that [line of code](https://github.com/robenkleene/webconsole/blob/6373e62508fd9e9f41b46910e7460833af6b855f/Web%20Console/Web%20Console/WCLAppDelegate.m#L65):
 
-![helm-do-ag](https://blog.robenkleene.com/assets/2016-03-17-helm-do-ag.gif)
+![helm-do-ag](/assets/2016-03-17-helm-do-ag.gif)
 
 ## `fzf`
 
@@ -27,7 +27,7 @@ ag --nobreak --nonumbers --noheading . | fzf
 
 That's not useful on it's own, because all it does is print the selected line to the console. So I wrote a [fish shell function](https://github.com/robenkleene/Dotfiles/blob/a32996fa1d7af58f929a94db5fc4c05f36d42b47/config/fish/config.fish#L102-L108) that opens the selected line in Vim. Here's what that looks like, using the same search term as before:
 
-![`fzf` Vim Lines](https://blog.robenkleene.com/assets/2016-03-17-fzf-vim-lines.gif)
+![`fzf` Vim Lines](/assets/2016-03-17-fzf-vim-lines.gif)
 
 This is piping all the lines of all the files being searched into `fzf`, which then hides the lines that *don't* match your search term. That makes this a filter, not a search, and it means *all* the lines of *all* the files being searched need to be stored in memory while the command is running (in other words, it'll use a lot of RAM). In practice, `fzf` handles this extremely well[^filtering]. The `helm-do-ag` command, on the other hand, performs a real search, which is preferable since only the *matchings lines* are stored in memory.
 

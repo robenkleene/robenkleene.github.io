@@ -62,7 +62,7 @@ There are some unique characteristics of this market relative to other creative 
 
 Instead of consolidating around big winners, instead the market seems to have embraced variety. In [a recent iOS DAW poll at the Audiobus forum](https://forum.audiob.us/discussion/32436/ios-daw-and-workflow-poll-2019), the overwhelming winner was the [AUM mixer app](https://kymatica.com/apps/aum), which is primarily an [AudioUnit](https://developer.apple.com/documentation/audiounit) host for other apps. It looks like this:
 
-![AUM](https://blog.robenkleene.com/assets/2019-12-06-aum.png)
+![AUM](/assets/2019-12-06-aum.png)
 
 It's fascinating to see an app like this come out on top for iOS, because the platform itself goes so far to emphasize the single app experience. That instead we have many small apps working together is likely the result of the App Store's [many restrictions](https://developer.apple.com/app-store/review/guidelines/) making it difficult for a big winner to emerge[^appstorepreventsbigwinners]. Big winners thrive on creating their own ecosystem, and that's hard to do when Apple has so many restrictions about what and how items can be sold, and how apps can be extended.
 

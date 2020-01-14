@@ -12,4 +12,4 @@ So I was delighted when I followed the `ripgrep` [GitHub issue](https://github.c
 
 Here's an example of my favorite use of this, replacing the built-in `fzf` `zsh` widget's [`FZF_ALT_C_COMMAND`](https://github.com/junegunn/fzf/blob/24236860c89242ac0a341ff911c93f25032dc051/README.md#key-bindings-for-command-line), which enables a key command to fuzzy filter a directory to `cd` to recursively.
 
-![fd](https://blog.robenkleene.com/assets/2018-03-08-fd.gif)
+![fd](/assets/2018-03-08-fd.gif)

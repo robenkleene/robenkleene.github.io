@@ -14,11 +14,11 @@ There's a general feeling that GarageBand 10 (which is the current version, rele
 
 GarageBand is an interesting prism to look at Apple's perspective on creative apps because it's the only creative app that Apple makes for iOS[^applecreativeapps]. Personally, I find GarageBand so limiting it gives the impression of being hostile to creativity. It has wonderful built-in drum kits, and a fantastic array of ways to sequence and play them, but you can't make new drum kits using your own [samples](https://en.wikipedia.org/wiki/Sampling_(music)), or even mix and match the built-in sounds. GarageBand's drum kits are essentially a drum [sampler](https://en.wikipedia.org/wiki/Sampler_(musical_instrument)), where you can only use samples provided by Apple. Similarly, [GarageBand for iOS 2.2](https://www.apple.com/newsroom/2017/01/garageband-and-logic-pro-x-music-apps-get-major-updates/) added a powerful new synth named [Alchemy](https://support.apple.com/kb/PH27371?locale=en_US&viewlocale=en_US)[^alchemysynthacquired], but the version in GarageBand has a minimal interface that hides most of its controls, so you can use a great synthesizer, but only with the presets designed by Apple:
 
-![Alchemy in GarageBand](https://blog.robenkleene.com/assets/2019-11-06-alchemy-ios.jpg)
+![Alchemy in GarageBand](/assets/2019-11-06-alchemy-ios.jpg)
 
 Here's what Alchemy's interface looks like in [Logic Pro X](https://www.apple.com/logic-pro/)[^alchemyadvancedvssimple]:
 
-![Alchemy in Logic Pro X](https://blog.robenkleene.com/assets/2019-11-06-alchemy-logic.png)
+![Alchemy in Logic Pro X](/assets/2019-11-06-alchemy-logic.png)
 
 There's a difference between simplifying tools, and being hostile to the very idea of expertise and open-ended creativity. Apple is increasingly veering towards the latter. This is the same Apple that's simultaneously [marketing the iPad as a replacement for a  computer](https://www.youtube.com/watch?v=llZys3xg6sU) and selling [$10,000 computers to creative professionals](https://www.apple.com/mac-pro/). Creative professionals have always needed expensive computers, but other than being more powerful, they were the same computers used by the rest of us. We could learn to use the same tools that the pros use, just on a smaller scale. Tools like GarageBand are working to undo the 35 years of democratization of creative tools brought on by the [personal computer](https://en.wikipedia.org/wiki/Personal_computer); it's a throwback to a world where creativity is reserved for only the professionals that had access to the expensive tools required to do it.
 

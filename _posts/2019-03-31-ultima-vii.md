@@ -14,7 +14,7 @@ The defining difference between Ultima VII and more recent RPGs, is that in Ulti
 
 Ultima VII still runs beautifully on a Mac, via the open source [Exult](http://exult.sourceforge.net/) project.
 
-![Exult](https://blog.robenkleene.com/assets/2019-03-31-exult.png)
+![Exult](/assets/2019-03-31-exult.png)
 
 * * *
 

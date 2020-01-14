@@ -45,7 +45,7 @@ Here's how TextMate's command composability can be used accomplish the same goal
 
 Here's what it looks like:
 
-![TextMate Demo](https://blog.robenkleene.com/assets/2016-06-20-textmate.gif)
+![TextMate Demo](/assets/2016-06-20-textmate.gif)
 
 The key is the interpretation of `⌥⌘F` for "Find All". When interpreting this command, TextMate considers the context, and performs the most logical action:
 
