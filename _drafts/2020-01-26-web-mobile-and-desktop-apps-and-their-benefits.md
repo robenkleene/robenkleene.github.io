@@ -14,7 +14,9 @@ We now have three separate, distinct platforms: web, mobile, and desktop. Deskto
 
 If the desktop app market hasn't changed that much, then where is the transition to mobile coming from? The simplest answer is that many of the new use cases that arose with the web, the biggest example being social networking, have [transitioned from the web to mobile](https://www.statista.com/statistics/377808/distribution-of-facebook-users-by-device/)[^dontforgetchatapps].
 
-The contrast between the decline of native desktop chat apps, and social media usage on the web, compared to the continued relevance of more traditional use cases on the desktop, like Logic Pro X, and Final Cut Pro X, where it's *mobile* that's struggling for relevance, is perhaps the finest example I'm trying to get at with this piece.
+This categorization isn't perfect, for example, it doesn’t account for chat apps like AIM and ICQ which were native desktop apps, not web apps, which have now been replaced by mobile apps like Messages, Slack, and WhatsApp. “Network-enabled apps” is probably a precise term, but web apps is fine for shorthand. The collaborative nature of the web still captures the spirit of the native desktop chat apps.
+
+The contrast between the decline of native desktop chat apps, and social media usage on the web, compared to the continued relevance of more traditional use cases on the desktop, like Logic Pro X, and Final Cut Pro X, where it's *mobile* that's struggling for relevance, is a great example of the flaws in post-PC era's narrative of a declining desktop. If that narrative were true, you'd expect all desktop use cases to look like native desktop chat apps, but they don't.
 
 ## The Platform Advantage Matrix
 
@@ -55,9 +57,7 @@ The future of the desktop might be like command line. That might sound like fain
 
 [^othercreativesoftwareisntallowed]: Presumably more apps like Final Cut Pro and Logic Pro X would be in the Mac App Store if Apple eased up on the [sandboxing restrictions](https://developer.apple.com/app-sandboxing/) for Mac App Store apps.
 
-[^dontforgetchatapps]: Saying it's mainly web apps that have transitioned to mobile is incomplete. it doesn’t account for chat apps like AIM and ICQ which were native desktop apps, not web apps, and they’ve now been replaced by mobile apps like Messages, Slack, and WhatsApp. A better name is probably “network-enabled apps”, but I think web apps is fine for shorthand. The collaborative nature of the web still captures the spirit of the native desktop chat apps.
-
-	There are also new categories of app that the mobile form factor, and economic model, have enabled. Some examples are the wonderful [Procreate](https://procreate.art/), and the explosion of mobile gaming, but those are tangential to this post where we're trying to figure out which use cases are moving to which platforms and why.
+[^dontforgetchatapps]: There are also new categories of app that the mobile form factor, and economic model, have enabled. Some examples are the wonderful [Procreate](https://procreate.art/), and the explosion of mobile gaming, but those are tangential to this post where we're trying to figure out which use cases are moving to which platforms and why.
 
 [^platformsummarycaveats]: There are some caveats to this platform summary because there are a bunch of secondary characteristics that make the selection more subtle. For example, the web is also the easiest platform to make an app available from any device, and the mobile has access to sensors that aren't available on other platforms. But the goal here is to distill the essence of the platform.
 
