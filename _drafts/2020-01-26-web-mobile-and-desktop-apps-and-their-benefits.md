@@ -16,11 +16,11 @@ If the desktop app market hasn't changed that much, then where is the transition
 
 This categorization isn't perfect, for example, it doesn’t account for chat apps like AIM and ICQ which were native desktop apps, not web apps, which have now been replaced by mobile apps like Messages, Slack, and WhatsApp. “Network-enabled apps” is probably a precise term, but web apps is fine for shorthand. The collaborative nature of the web still captures the spirit of the native desktop chat apps.
 
-The contrast between the decline of native desktop chat apps, and social media usage on the web, compared to the continued relevance of more traditional use cases on the desktop, like Logic Pro X, and Final Cut Pro X, where it's *mobile* that's struggling for relevance, is a great example of the flaws in post-PC era's narrative of a declining desktop. If that narrative were true, you'd expect all desktop use cases to look like native desktop chat apps, but they don't.
+The contrast between the decline of native desktop chat apps, and social media usage on the web, compared to the continued relevance of traditional desktop use cases, like Logic Pro X, and Final Cut Pro X, where it's *mobile* that's struggling for relevance, is a flaw in the post-PC era of a declining desktop. If that narrative were true, you'd expect all desktop use cases to look like native desktop chat apps, but they don't.
 
 ## The Platform Advantage Matrix
 
-What's happening isn't a transition, it's a migration. As each app migrates to the platform whose advantages make the most sense for its use case. Below, I've tried to summarize the advantage of each platform with a single word[^platformsummarycaveats]:
+What's happening isn't a transition, it's a migration. As each app migrates to the platform whose advantages are the best fit for its use case. I've tried to summarize the advantage of each platform with a single word[^platformsummarycaveats]:
 
 - **Desktop**: Power
 - **Mobile**: Simplicity
@@ -59,7 +59,7 @@ The future of the desktop might be like command line. That might sound like fain
 
 [^dontforgetchatapps]: There are also new categories of app that the mobile form factor, and economic model, have enabled. Some examples are the wonderful [Procreate](https://procreate.art/), and the explosion of mobile gaming, but those are tangential to this post where we're trying to figure out which use cases are moving to which platforms and why.
 
-[^platformsummarycaveats]: There are some caveats to this platform summary because there are a bunch of secondary characteristics that make the selection more subtle. For example, the web is also the easiest platform to make an app available from any device, and the mobile has access to sensors that aren't available on other platforms. But the goal here is to distill the essence of the platform.
+[^platformsummarycaveats]: Summarizing the advantages of each platform with a single word is an inherently flawed undertaking. It neglects a bunch of secondary characteristics platforms have, for example the web is also the easiest way to make an app available on any device, and mobile grants access to sensors and data that aren't avaiilable anywhere else. But the goal here is just to distill the essence of the platform, in order to create a framework we can use to look for broad patterns.
 
 [^collaborationisdeceptivelyhuge]: Collaboration is a much broader concept than it at first appears, encompassing not just the straight-forward example of multiple people editing the same Google Doc, but also, say a [CMS](https://en.wikipedia.org/wiki/Content_management_system) or an employee portal. The vast majority of software used to run businesses falls under this category.
 School though
