@@ -24,11 +24,13 @@ What's happening isn't a transition, it's a migration. Apps are migrating to the
 
 - **Desktop**: Power
 - **Mobile**: Simplicity
-- **Web**: Collaboration
+- **Web**: Collaboration[^collaborationisdeceptivelyhuge]
 
 The **desktop** is for apps with long lists of features, the defining characteristic of powerful apps is that they support an ecosystem of third-party [plugins](https://en.wikipedia.org/wiki/Plug-in_%28computing%29). [The URL is the easiest way to share anything](https://blog.robenkleene.com/2019/05/02/local-data-the-cloud/), the **web** has the best features for allowing people to view and edit the same content. **Mobile** apps are the gold standard of being easy to install, easy to run, easy to use, and has convenience features like [prefetching](https://en.wikipedia.org/wiki/Prefetching).
 
-Simplicity is desirable in all apps, except for those used for creation, where it runs contrary to the flexibility necessary for expression. So mobile apps are the baseline, and the best the platform for an app, unless it needs the characteristics of one of the other two platforms. In other words, if it needs to be powerful or to support collaboration. The reason so many apps support both mobile and web, while desktop apps many desktop apps are separate, is that the advantages of web and mobile are in alignment: Collaboration and simplicity complement each other, while power is at odds with both.
+Simplicity is desirable in all apps, except for those used for creation, where it runs contrary to the flexibility necessary for expression. So mobile apps are the baseline, and the best the platform for an app, unless one of the advantages of the other two platforms is more important; if its main purpose is to be powerful or to facilitate collaboration.
+
+The reason so many apps support both mobile and web, while native desktop apps are rare, is because most apps don't need to be powerful, and the reason so many apps support both mobile and web, without having a native desktop app, is because collaboration and simplicity complement each other, while power is at odds with both[^powerisatoddswithcollaboration].
 
 ## Apps & Their Platforms
 
@@ -61,10 +63,10 @@ The future of the desktop might be like command line. That might sound like fain
 
 [^platformsummarycaveats]: Summarizing the advantages of each platform with a single word is inherently flawed, because it neglects a bunch of secondary characteristics each platform has. For example, the web is also the easiest way to make an app available on any device, and mobile grants access to sensors and data that aren't available anywhere else. The goal here is to distill *the essence* of a platform, in order to create a framework we can use to look for broad patterns.
 
-[^collaborationisdeceptivelyhuge]: Collaboration is a much broader concept than it at first appears, encompassing not just the straight-forward example of multiple people editing the same Google Doc, but also, say a [CMS](https://en.wikipedia.org/wiki/Content_management_system) or an employee portal. The vast majority of software used to run businesses falls under this category.
-School though
+[^collaborationisdeceptivelyhuge]: Collaboration is much broader than it at first appears, encompassing not just examples like Google Docs, but also, [content management systems](https://en.wikipedia.org/wiki/Content_management_system), or any kind of employee portal. The majority of software used to run businesses is collaboration software.
+
+[^powerisatoddswithcollaboration]: Power is at odds with collaboration because the more powerful and app is, the harder it is to use, and the harder it is to use, the less people who can use it, which means the less people to colloborate with.
 
 [^trucksarepopular]: Amusingly, the [top selling vehicle in the US](https://en.wikipedia.org/wiki/List_of_best-selling_automobiles#National_bestsellers) is the [Ford F-Series truck](https://en.wikipedia.org/wiki/Ford_F-Series).
 
-[^programmingontheipadneesacommandline]: The lack of a command line seems to be single handedly holding back programming on an iPad.
-
+[^programmingontheipadneesacommandline]: The lack of a command line appears to be single handedly holding back programming on an iPad.
