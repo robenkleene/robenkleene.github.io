@@ -26,11 +26,11 @@ What's happening isn't a transition, it's a migration. Apps are migrating to the
 - **Mobile**: Simplicity
 - **Web**: Collaboration[^collaborationisdeceptivelyhuge]
 
-The **desktop** is for apps with long lists of features, the defining characteristic of powerful apps is that they support an ecosystem of third-party [plugins](https://en.wikipedia.org/wiki/Plug-in_%28computing%29). [The URL is the easiest way to share anything](https://blog.robenkleene.com/2019/05/02/local-data-the-cloud/), the **web** has the best features for allowing people to view and edit the same content. **Mobile** apps are the gold standard of being easy to install, easy to run, easy to use, and has convenience features like [prefetching](https://en.wikipedia.org/wiki/Prefetching).
+The **desktop** is for apps with long lists of features, the defining characteristic of powerful apps is that they support an ecosystem of third-party [plugins](https://en.wikipedia.org/wiki/Plug-in_%28computing%29). The **web** has the best features for allowing people to view and edit the same content, [the URL is the easiest way to share anything](https://blog.robenkleene.com/2019/05/02/local-data-the-cloud/). **Mobile** is the gold standard of making apps easy to install, easy to run, easy to use, and has convenience features like [prefetching](https://en.wikipedia.org/wiki/Prefetching).
 
 Simplicity is desirable in all apps, except for those used for creation, where it runs contrary to the flexibility necessary for expression. So mobile apps are the baseline, and the best the platform for an app, unless one of the advantages of the other two platforms is more important; if its main purpose is to be powerful or to facilitate collaboration.
 
-The reason so many apps support both mobile and web, while native desktop apps are rare, is because most apps don't need to be powerful, and the reason so many apps support both mobile and web, without having a native desktop app, is because collaboration and simplicity complement each other, while power is at odds with both[^powerisatoddswithcollaboration].
+The reason so many apps support both mobile and web, while native desktop apps are rare, is because most apps don't need to be powerful. The reason so many apps support both mobile and web, without having a native desktop app, is because collaboration and simplicity complement each other, while power is at odds with both[^powerisatoddswithcollaboration].
 
 ## Apps & Their Platforms
 
@@ -65,7 +65,7 @@ The future of the desktop might be like command line. That might sound like fain
 
 [^collaborationisdeceptivelyhuge]: Collaboration is much broader than it at first appears, encompassing not just examples like Google Docs, but also, [content management systems](https://en.wikipedia.org/wiki/Content_management_system), or any kind of employee portal. The majority of software used to run businesses is collaboration software.
 
-[^powerisatoddswithcollaboration]: Power is at odds with collaboration because the more powerful and app is, the harder it is to use, and the harder it is to use, the less people who can use it, which means the less people to colloborate with.
+[^powerisatoddswithcollaboration]: Power is at odds with collaboration because the more powerful an app is, the harder it is to use, and the harder it is to use, the fewer people who can use it, which means fewer people to colloborate with.
 
 [^trucksarepopular]: Amusingly, the [top selling vehicle in the US](https://en.wikipedia.org/wiki/List_of_best-selling_automobiles#National_bestsellers) is the [Ford F-Series truck](https://en.wikipedia.org/wiki/Ford_F-Series).
 
