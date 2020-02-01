@@ -34,12 +34,12 @@ Simplicity is desirable in all apps, except for those used for creation, where i
 
 Here are some examples of apps categorized by the platform advantage that's their highest priority:
 
-- **Collaboration**: [Trello](https://trello.com/s), [Slack](https://slack.com/), [Figma](https://slack.com/)
-- **Power**: [Final Cut Pro X](https://www.apple.com/final-cut-pro/), [Logic Pro X](https://www.apple.com/logic-pro/), [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
+- **Collaboration**: [Figma](https://slack.com/), [Slack](https://slack.com/), [Trello](https://trello.com/s)
+- **Power**: [Adobe After Effects](https://www.adobe.com/products/aftereffects.html), [Final Cut Pro X](https://www.apple.com/final-cut-pro/), [Logic Pro X](https://www.apple.com/logic-pro/)
 - **Simplicity**: [Facebook](https://www.facebook.com/), [Instagram](https://www.instagram.com/), [Twitter](https://twitter.com/home)
-- **Special**: [Procreate](https://procreate.art/), [Webflow](https://webflow.com/), [OmniFocus](https://www.omnigroup.com/omnifocus/)
+- **Special**: [OmniFocus](https://www.omnigroup.com/omnifocus/), [Procreate](https://procreate.art/), [Webflow](https://webflow.com/)
 
-Facebook, Instagram, and Twitter all end up in simplicity, because while social media is inherently collaborative, the space is so competitive that zero compromises in the all important simplicity category ends up being the highest priority. Trello and Slack are the inverse, with less competition for their categories, their essences is reflected as collaborative software. Of course, they also have mobile apps, but their native apps feel more like web apps than truly native first apps, because collaboration is their highest priority. Almost all of the collaboration and simplicity apps have both mobile and web apps (the only exception is Figma), while none of the power apps have either mobile or web apps, because while simplicity and collaboration are is alignment, power conflicts with collaboration and simplicity.
+Facebook, Instagram, and Twitter all end up in simplicity, because while social media is inherently collaborative, the space is so competitive that zero compromises in the all important simplicity category ends up being the highest priority. Trello and Slack are the inverse, with less competition for their categories, their essences is reflected as collaborative software. Of course, Slack and Trello also have mobile apps, but their native apps feel more like web apps than truly native first apps, because collaboration is their highest priority. Almost all of the collaboration and simplicity apps have both mobile and web apps (the only exception is Figma), while none of the power apps[^thefirstpowermobileapp] have either mobile or web apps, because while simplicity and collaboration are is alignment, power conflicts with collaboration and simplicity.
 
 Figma is actually quite powerful, but it ends up in the collaboration category because that's it's defining trait. You could say that Figma's marketplace bet is that the interface design industry will sacrifice some power in order to to collaborate more effectively. Notably an app like Figma will still leave room for other more powerful desktop apps in the same category, because there will always be some people that want the additional features that Figma sacrifices in order to be more effective at collaboration.
 
@@ -64,6 +64,8 @@ The future of the desktop might be like command line. That might sound like fain
 [^collaborationisdeceptivelyhuge]: Collaboration is much broader than it at first appears, encompassing not just examples like Google Docs, but also, [content management systems](https://en.wikipedia.org/wiki/Content_management_system), or any kind of employee portal. The majority of software used to run businesses is collaboration software.
 
 [^powerisatoddswithcollaboration]: Power is at odds with collaboration because, the more powerful an app is, the harder it is to use, and the harder it is to use, the fewer people who can use it, which means fewer people to colloborate with.
+
+[^thefirstpowermobileapp]: Adobe Photoshop is the only power app that's [attempted to move to mobile so far](https://www.adobe.com/products/photoshop/ipad.html) (iPad only). [The jury's still out](https://www.theverge.com/2019/11/8/20953297/adobe-photoshop-ipad-cto-scott-belsky-reviews) on how successful that's been.
 
 [^trucksarepopular]: Amusingly, the [top selling vehicle in the US](https://en.wikipedia.org/wiki/List_of_best-selling_automobiles#National_bestsellers) is the [Ford F-Series truck](https://en.wikipedia.org/wiki/Ford_F-Series).
 
