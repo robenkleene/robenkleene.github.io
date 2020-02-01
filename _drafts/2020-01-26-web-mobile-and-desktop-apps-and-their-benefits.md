@@ -28,20 +28,18 @@ What's happening isn't a transition, it's a migration. Apps are migrating to the
 
 The **desktop** is for apps with long lists of features, the defining characteristic of powerful apps is that they support an ecosystem of third-party [plugins](https://en.wikipedia.org/wiki/Plug-in_%28computing%29). The **web** has the best features for allowing people to view and edit the same content, [the URL is the easiest way to share anything](https://blog.robenkleene.com/2019/05/02/local-data-the-cloud/). **Mobile** is the gold standard of making apps easy to install, easy to run, easy to use, and has convenience features like [prefetching](https://en.wikipedia.org/wiki/Prefetching).
 
-Simplicity is desirable in all apps, except for those used for creation, where it runs contrary to the flexibility necessary for expression. So mobile apps are the baseline, and the best the platform for an app, unless one of the advantages of the other two platforms is more important; if its main purpose is to be powerful or to facilitate collaboration.
-
-The reason so many apps support both mobile and web, while native desktop apps are rare, is because most apps don't need to be powerful. The reason so many apps support both mobile and web, without having a native desktop app, is because collaboration and simplicity complement each other, while power is at odds with both[^powerisatoddswithcollaboration].
+Simplicity is desirable in all apps, except for those used for creation, where it runs contrary to the flexibility necessary for expression. So mobile apps are the baseline, and the best the platform for an app, unless one of the advantages of the other two platforms is more important: If its main purpose is to be powerful or to facilitate collaboration. The reason so many apps support both mobile and web, without having a native desktop app, is because collaboration and simplicity complement each other, while power is at odds with both[^powerisatoddswithcollaboration].
 
 ## Apps & Their Platforms
 
-Here's some examples apps categorized by their highest priority platforms advantage:
+Here are some examples of apps categorized by the platform advantage that's their highest priority:
 
-- **Collaboration**: Trello, Slack, Figma
-- **Power**: Final Cut Pro X, Logic Pro X, Adobe After Effects
-- **Simplicity**: Facebook, Instagram, Twitters
-- **Special**: Procreate, Webflow, OmniFocus
+- **Collaboration**: [Trello](https://trello.com/s), [Slack](https://slack.com/), [Figma](https://slack.com/)
+- **Power**: [Final Cut Pro X](https://www.apple.com/final-cut-pro/), [Logic Pro X](https://www.apple.com/logic-pro/), [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
+- **Simplicity**: [Facebook](https://www.facebook.com/), [Instagram](https://www.instagram.com/), [Twitter](https://twitter.com/home)
+- **Special**: [Procreate](https://procreate.art/), [Webflow](https://webflow.com/), [OmniFocus](https://www.omnigroup.com/omnifocus/)
 
-Facebook, Instagram, and Twitter all end up in simplicity, because while social media is inherently collaborative, the space is so competitive that zero compromises in the all important simplicity category ends up being the most important. Trello and Slack are the inverse, with less competition for their categories, they essence is reflected essence as collaborative software. Of course they also have mobile apps, but their native apps feel more like web apps than truly native first apps, because collaboration is their highest priority. All of the collaboration apps also have mobile apps, and vice versa, all of the simplicity apps also have web apps. None of the power apps have either mobile or web apps, because while simplicity and collaboration are is alignment, power conflicts with collaboration and simplicity.
+Facebook, Instagram, and Twitter all end up in simplicity, because while social media is inherently collaborative, the space is so competitive that zero compromises in the all important simplicity category ends up being the highest priority. Trello and Slack are the inverse, with less competition for their categories, their essences is reflected as collaborative software. Of course, they also have mobile apps, but their native apps feel more like web apps than truly native first apps, because collaboration is their highest priority. Almost all of the collaboration and simplicity apps have both mobile and web apps (the only exception is Figma), while none of the power apps have either mobile or web apps, because while simplicity and collaboration are is alignment, power conflicts with collaboration and simplicity.
 
 Figma is actually quite powerful, but it ends up in the collaboration category because that's it's defining trait. You could say that Figma's marketplace bet is that the interface design industry will sacrifice some power in order to to collaborate more effectively. Notably an app like Figma will still leave room for other more powerful desktop apps in the same category, because there will always be some people that want the additional features that Figma sacrifices in order to be more effective at collaboration.
 
@@ -65,7 +63,7 @@ The future of the desktop might be like command line. That might sound like fain
 
 [^collaborationisdeceptivelyhuge]: Collaboration is much broader than it at first appears, encompassing not just examples like Google Docs, but also, [content management systems](https://en.wikipedia.org/wiki/Content_management_system), or any kind of employee portal. The majority of software used to run businesses is collaboration software.
 
-[^powerisatoddswithcollaboration]: Power is at odds with collaboration because the more powerful an app is, the harder it is to use, and the harder it is to use, the fewer people who can use it, which means fewer people to colloborate with.
+[^powerisatoddswithcollaboration]: Power is at odds with collaboration because, the more powerful an app is, the harder it is to use, and the harder it is to use, the fewer people who can use it, which means fewer people to colloborate with.
 
 [^trucksarepopular]: Amusingly, the [top selling vehicle in the US](https://en.wikipedia.org/wiki/List_of_best-selling_automobiles#National_bestsellers) is the [Ford F-Series truck](https://en.wikipedia.org/wiki/Ford_F-Series).
 
