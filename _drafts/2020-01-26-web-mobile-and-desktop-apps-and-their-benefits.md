@@ -69,4 +69,4 @@ The future of the desktop might be like the command line. That might sound like 
 
 [^trucksarepopular]: Amusingly, the [top selling vehicle in the US](https://en.wikipedia.org/wiki/List_of_best-selling_automobiles#National_bestsellers) is the [Ford F-Series truck](https://en.wikipedia.org/wiki/Ford_F-Series).
 
-[^programmingontheipadneesacommandline]: The lack of a command line appears to be single handedly holding back programming on an iPad.
+[^programmingontheipadneesacommandline]: The lack of a command line appears to be singlehandedly holding back programming on an iPad.
