@@ -12,7 +12,7 @@ We now have three separate, distinct platforms: web, mobile, and desktop. Deskto
 
 ## The Types of Apps in Transition
 
-If the desktop app market hasn't changed that much, then where is the transition to mobile coming from? The simplest answer is that many of the new use cases that arose with the web, the biggest example being social networking, have [transitioned from the web to mobile](https://www.statista.com/statistics/377808/distribution-of-facebook-users-by-device/)[^dontforgetchatapps].
+If the desktop app market hasn't changed that much, then where is the transition to mobile coming from? The simplest answer is that many of the new use cases that arose with the web, the biggest example being social networking, have [transitioned from the web to mobile](https://www.statista.com/statistics/377808/distribution-of-facebook-users-by-device/)[^othertypesofmobileapps].
 
 This categorization isn't perfect, for example, it doesn’t account for chat apps like [AIM](https://en.wikipedia.org/wiki/AIM_(software)) and [ICQ](https://en.wikipedia.org/wiki/ICQ) which were native desktop apps, not web apps, and have now been replaced by mobile apps like Messages, Slack, and WhatsApp. “Network-enabled apps” is probably a more precise term, but web apps is fine for shorthand. The collaborative nature of the web still captures the spirit of the native desktop chat apps.
 
@@ -53,20 +53,20 @@ The future of the desktop might be like the command line. That may sound like fa
 
 * * *
 
-[^googlecalendarmarketshare]: I'm not aware of any marketshare numbers for calendaring applications, but while [Microsoft Office is clearly more popular](https://blog.robenkleene.com/2019/08/31/office-suite-market-share/) in the enterprise, I'd assume Google Calendar is more popular for individual consumers.
+[^googlecalendarmarketshare]: I'm not aware of any marketshare numbers for calendaring applications, but while [Microsoft Office is clearly more popular](https://blog.robenkleene.com/2019/08/31/office-suite-market-share/) in the enterprise, I'd assume Google Calendar is more popular for individuals.
 
 [^othercreativesoftwareisntallowed]: Presumably more apps like Final Cut Pro and Logic Pro X would be in the Mac App Store if Apple eased up on the [sandboxing restrictions](https://developer.apple.com/app-sandboxing/) for Mac App Store apps.
 
-[^dontforgetchatapps]: There are also new categories of app that the mobile form factor, and economic model, have enabled. Some examples are the wonderful [Procreate](https://procreate.art/), and the explosion of mobile gaming, but those are tangential to this post where we're trying to figure out which use cases are moving to which platforms and why.
+[^othertypesofmobileapps]: There are some new categories of app that the mobile form factor, and economic model, have enabled to emerge. Some examples are the wonderful [Procreate](https://procreate.art/), and the explosion of mobile gaming.
 
-[^platformsummarycaveats]: Summarizing the advantages of each platform with a single word is inherently flawed, because it neglects a bunch of secondary characteristics each platform has. For example, the web is also the easiest way to make an app available on any device, and mobile grants access to sensors and data that aren't available anywhere else. The goal here is to distill *the essence* of a platform, in order to create a framework we can use to look for broad patterns.
+[^platformsummarycaveats]: Summarizing the advantages of each platform with a single word is inherently flawed, because it doesn't account for a bunch of secondary characteristics that each platform has. For example, the web is also the easiest way to make an app available on any device, and mobile grants access to sensors and data that aren't available anywhere else. But the goal here is just to *distill the essence* of a platform into a single word, in order to create a framework that we can use to look for broad patterns.
 
-[^collaborationisdeceptivelyhuge]: Collaboration is much broader than it at first appears, encompassing not just examples like Google Docs, but also, [content management systems](https://en.wikipedia.org/wiki/Content_management_system), or any kind of employee portal. The majority of software used to run businesses is collaboration software.
+[^collaborationisdeceptivelyhuge]: Collaboration is a much broader category than it at first appears, encompassing not just obvious examples like Google Docs, but also, [content management systems](https://en.wikipedia.org/wiki/Content_management_system), and any kind of employee portal. The majority of software used to run businesses is collaboration software.
 
 [^powerisatoddswithcollaboration]: Power is at odds with collaboration because, the more powerful an app is, the harder it is to use, and the harder it is to use, the fewer people who can use it, which means fewer people to colloborate with.
 
-[^thefirstpowermobileapp]: Adobe Photoshop is the only power app that's [attempted to move to mobile so far](https://www.adobe.com/products/photoshop/ipad.html) (iPad only). [The jury's still out](https://www.theverge.com/2019/11/8/20953297/adobe-photoshop-ipad-cto-scott-belsky-reviews) on how successful that's been.
+[^thefirstpowermobileapp]: Adobe Photoshop is one of the only powerful apps that's [attempted to move to mobile so far](https://www.adobe.com/products/photoshop/ipad.html), and [the jury's still out](https://www.theverge.com/2019/11/8/20953297/adobe-photoshop-ipad-cto-scott-belsky-reviews) on how successful that's been.
 
-[^trucksarepopular]: Amusingly, the [top selling vehicle in the US](https://en.wikipedia.org/wiki/List_of_best-selling_automobiles#National_bestsellers) is the [Ford F-Series truck](https://en.wikipedia.org/wiki/Ford_F-Series).
+[^trucksarepopular]: Amusingly, the [top selling vehicle in the US](https://en.wikipedia.org/wiki/List_of_best-selling_automobiles#National_bestsellers) is a truck, the [Ford F-Series](https://en.wikipedia.org/wiki/Ford_F-Series).
 
 [^programmingontheipadneesacommandline]: The lack of a command line appears to be singlehandedly holding back programming on an iPad.
