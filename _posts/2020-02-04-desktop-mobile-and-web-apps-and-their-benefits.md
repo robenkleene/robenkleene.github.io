@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web, Mobile, and Desktop Apps, and Their Benefits"
+title: "Desktop, Mobile, and Web Apps, and Their Benefits"
 categories: Software, Web, Mobile
 ---
 
