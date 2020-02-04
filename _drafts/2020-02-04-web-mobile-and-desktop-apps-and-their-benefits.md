@@ -53,7 +53,7 @@ The future of the desktop might be like the command line. That may sound like fa
 
 * * *
 
-[^googlecalendarmarketshare]: I'm not aware of any marketshare numbers for calendaring applications, but while [Microsoft Office is clearly more popular](https://blog.robenkleene.com/2019/08/31/office-suite-market-share/) in the enterprise, I'd assume Google Calendar is more popular for individuals.
+[^googlecalendarmarketshare]: I'm not aware of any marketshare numbers for calendar apps, but while [Microsoft Office is clearly more popular](https://blog.robenkleene.com/2019/08/31/office-suite-market-share/) in the enterprise, I'd assume Google Calendar is more popular for individuals.
 
 [^othercreativesoftwareisntallowed]: Presumably more apps like Final Cut Pro and Logic Pro X would be in the Mac App Store if Apple eased up on the [sandboxing restrictions](https://developer.apple.com/app-sandboxing/) for Mac App Store apps.
 
