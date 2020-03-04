@@ -28,7 +28,7 @@ The argument for simple creative software feels very hand wavy to me. It's based
     
 [^simpledrivesmeupthewall]: I'm firmly on team complicated, [the measure of a platform is not how popular its features are, it’s what the most capable users of your platform can accomplish](https://blog.robenkleene.com/2019/09/11/new-iphones-will-replace-3d-touch-with-haptic-touch/). What drives so many of us up the wall about iOS is that on the Mac, Apple always also offered [Logic Pro](https://www.apple.com/logic-pro/) and [Final Cut Pro](https://www.apple.com/final-cut-pro/), on iOS the only options are the simple ones.
 
-[^everythingissubsidized]: The prices of Final Cut Pro and Logic Pro X are also almost certainly also subsidized by other parts of Apple's business, but at $299.99 and $199.99, they are still expensive relative to most software.
+[^everythingissubsidized]: The prices of Final Cut Pro and Logic Pro X are also almost certainly subsidized by other parts of Apple's business, but at $299.99 and $199.99, they are still expensive relative to most software.
 
 [^glitchisalsofree]: [Glitch is also free](https://glitch.com/help/cost/).
 
