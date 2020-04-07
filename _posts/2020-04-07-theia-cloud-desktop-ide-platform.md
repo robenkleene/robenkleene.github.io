@@ -12,7 +12,7 @@ The screenshots look just like [Visual Studio Code](https://code.visualstudio.co
 
 > We believe VS Code is an excellent product. That is why Theia embraces many of the design decisions and even directly supports VS Code extensions.
 
-As to the *distinctions from* VS Code, as previously mentioned it's designed to work as both a desktop and cloud IDE, there's some details of what this exactly this means in the [Architecture Overview](https://theia-ide.org/docs/architecture/):
+As to *distinctions from* VS Code, as previously mentioned it's designed as both a desktop and cloud IDE, there's some details about what exactly that means in the [Architecture Overview](https://theia-ide.org/docs/architecture/):
 
 > The frontend process represents the client and renders the UI. In the browser, it simply runs in the rendering loop, while in Electron it runs in an Electron Window, which basically is a browser with additional Electron and Node.js APIs. Therefore, any frontend code may assume browser as a platform but not Node.js.
 
