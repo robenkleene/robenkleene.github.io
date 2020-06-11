@@ -4,7 +4,7 @@ title: "The Mere Suggestion That ARM Macs Might Only Run Sandboxed Apps"
 categories: Professional, Creative, macOS, ARM
 ---
 
-Gus Mueller has [my favorite take](https://shapeof.com/archives/2020/6/educated_guesses_about_a_mac_transition_to_arm.html) on [the news](https://www.bloomberg.com/news/articles/2020-06-09/apple-plans-to-announce-move-to-its-own-mac-chips-at-wwdc) that Apple plans to announce the transition to their own ARM chips at [WWDC](https://developer.apple.com/wwdc20/). Of the various predictions people are throwing around, the only one Mueller gives any credence to is the prospect that ARM Macs will only running sandboxed apps[^ridiculousfishisalsoworried]:
+[Gus Mueller](https://twitter.com/ccgus) has [my favorite take](https://shapeof.com/archives/2020/6/educated_guesses_about_a_mac_transition_to_arm.html) on [the news](https://www.bloomberg.com/news/articles/2020-06-09/apple-plans-to-announce-move-to-its-own-mac-chips-at-wwdc) that Apple plans to announce the transition to their own ARM chips at [WWDC](https://developer.apple.com/wwdc20/). Of the various predictions people are throwing around, the only one Mueller gives any credence to is the prospect that ARM Macs will only running sandboxed apps[^ridiculousfishisalsoworried]:
 
 > **Assertion: ARM Macs will only allow sandboxed app.**
 
