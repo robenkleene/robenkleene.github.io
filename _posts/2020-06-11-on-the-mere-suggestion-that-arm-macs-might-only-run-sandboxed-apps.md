@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "On the Mere Suggestion That ARM Macs Might Only Run Sandboxed Apps"
+title: "The Mere Suggestion That ARM Macs Might Only Run Sandboxed Apps"
 categories: Professional, Creative, macOS, ARM
 ---
 
