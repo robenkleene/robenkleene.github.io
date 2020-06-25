@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "macOS Big Sur: Has the Dust Settled on Limiting Third-Party Apps?"
+title: "macOS Big Sur: Has the Dust Finally Settled on Limiting Third-Party Apps?"
 categories: macOS, Professional
 ---
 
