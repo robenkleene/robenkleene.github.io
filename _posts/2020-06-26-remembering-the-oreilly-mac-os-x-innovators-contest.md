@@ -7,10 +7,10 @@ categories: macOS, Software
 From 2002 to 2004, [O'Reilly Media](https://www.oreilly.com/) ran the O'Reilly Mac OS X Innovators Contest, sponsored by Apple via the [Apple Developer Connection](https://en.wikipedia.org/wiki/Apple_Developer) (now just [Apple Developer](https://developer.apple.com/)). I still think of these winners as one of the high watermark for app innovation. Many concepts we take for granted today were either introduced or popularized by apps on this list. Here are a few favorite examples:
 
 - NetNewsWire, while not necessarily the first feed reader, was one of the most popular early ones. [RSS](https://en.wikipedia.org/wiki/RSS) feed readers are the origin of consuming media through streams of content, now exemplified by [Twitter](https://twitter.com/) and [Facebook's Newsfeed](https://en.wikipedia.org/wiki/News_Feed).
-- SubEthaEdit was one of the earliest practical implementations of multiple simultaneous live editing, later brought to a much wider audience by [Google Docs](https://docs.google.com/) in 2006.
-- LaunchBar popularized many features we take for granted in search user interfaces today, such as instantaneously seeing search results as you type, [fuzzy string matching](https://en.wikipedia.org/wiki/Approximate_string_matching), and combining search results of various types, such as apps, bookmarks, contacts, events, and files all into one interface.
+- SubEthaEdit was one of the earliest practical implementations of multiple simultaneous live document editing, later brought to a much wider audience by [Google Docs](https://docs.google.com/) in 2006.
+- LaunchBar popularized many features we take for granted in search user interfaces today, such as seeing search results live as you type, [fuzzy string matching](https://en.wikipedia.org/wiki/Approximate_string_matching), and combining search results of various types, such as apps, bookmarks, contacts, events, and files all into one unified interface.
 
-I've listed out all of the winners below. All of the apps that I've linked to are still maintained, so you can see visually just how many these are still around. All of these apps are at least fifteen years old now.
+I've listed out the winners below, and linked to all the ones that are still maintained, so you can see visually just how many these are still around. All of these apps are at least fifteen years old now.
 
 ## [2003 Round One Winners](https://www.oreilly.com/pub/pr/1048)
 
