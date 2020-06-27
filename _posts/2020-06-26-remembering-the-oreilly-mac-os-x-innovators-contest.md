@@ -4,7 +4,7 @@ title: "Remembering the O'Reilly Mac OS X Innovators Contest"
 categories: macOS, Software
 ---
 
-From 2002 to 2004, [O'Reilly Media](https://www.oreilly.com/) ran the O'Reilly Mac OS X Innovators Contest, sponsored by Apple via the [Apple Developer Connection](https://en.wikipedia.org/wiki/Apple_Developer) (now just [Apple Developer](https://developer.apple.com/)). I still think of these winners as some of the high watermarks of app innovation. Many concepts we take for granted today were either introduced, or popularized, by apps on this list. Here are a few favorite examples:
+From 2002 to 2004, [O'Reilly Media](https://www.oreilly.com/) ran the O'Reilly Mac OS X Innovators Contest, sponsored by Apple via the [Apple Developer Connection](https://en.wikipedia.org/wiki/Apple_Developer) (now just [Apple Developer](https://developer.apple.com/)). I still think of these winners as some of the high watermarks of app innovation. Many concepts we take for granted today were either introduced, or popularized, by apps on this list. Here are a few of my favorite examples:
 
 - NetNewsWire, while not necessarily the first [RSS](https://en.wikipedia.org/wiki/RSS) feed reader, was one of the most popular early ones. RSS feed readers are the origin of consuming media through streams of content, now exemplified by [Twitter](https://twitter.com/) and [Facebook's Newsfeed](https://en.wikipedia.org/wiki/News_Feed).
 - SubEthaEdit was one of the earliest practical implementations of multiple simultaneous live document editing, a concept later brought to a much wider audience by [Google Docs](https://docs.google.com/) in 2006.
