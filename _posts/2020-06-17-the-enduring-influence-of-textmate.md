@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "TextMate's Enduring Influence"
+title: "The Enduring Influence of TextMate"
 categories: Text-Editor
 ---
 
