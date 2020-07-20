@@ -15,6 +15,10 @@ I'd argue that the only people who shouldn't be thinking carefully about which s
 
 Luckily for those of us that do care, there appear to be some clear right answers. If you stop listening to the technology pundits, who are always focused on potential revolutions on the horizon (not that I'm faulting them, it's their job is to identify potential trends). And instead focus on which software is actually being used by creators, then patterns emerge that lead to concrete answers about what the best investment of your time is. Identifying and tracking these patterns is my central goal on this blog.
 
+## The Nature of Proficiency
+
+I appreciate not just the software itself, but also the act of using software for creative purposes. What makes one app for making things better than another? What makes an app more effective in the hands of a skilled user than another? What separates a skilled user from everyone else? Just how efficiently can a skilled user work?
+
 ## Apple Platforms
 
 I use Apple platforms. For me, I believe they have the best combination of benefits for what I'm trying to accomplish. As such, I spend a lot of time talking about Apple platforms, because essentially all of the software I use runs on those platforms.
