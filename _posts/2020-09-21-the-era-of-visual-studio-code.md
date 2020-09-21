@@ -4,7 +4,7 @@ title: "The Era of Visual Studio Code"
 categories: Visual-Studio-Code, Text-Editor, Development
 ---
 
-![VS Code Hero](assets/2020-09-20-vs-code-hero.png)
+![VS Code Hero](/assets/2020-09-20-vs-code-hero.png)
 
 The most important thing I look for when choosing which tools to use is longevity. Learning software is an investment, and if you have to switch to another application later, you lose some of that investment.
 
@@ -27,7 +27,7 @@ VS Code is the most popular text editor today. It's so popular, that it could be
 
 ### Text Editor Popularity 2015--2019
 
-![Text Editor Popularity](assets/2020-09-20-text-editor-popularity.png)
+![Text Editor Popularity](/assets/2020-09-20-text-editor-popularity.png)
 
 ## The Text Editor as Platform
 
@@ -100,7 +100,7 @@ Here's the history of major releases for these two applications:
 
 Here's a graph of the number of years between stable major releases:
 
-![Text Editor Release Schedule](assets/2020-09-20-text-editor-release-schedule.png)
+![Text Editor Release Schedule](/assets/2020-09-20-text-editor-release-schedule.png)
 
 A couple things jump out from this graph immediately:
 
@@ -115,15 +115,15 @@ Since VS Code is developed out in the open, we can evaluate its pace of developm
 
 ### Visual Studio Code Commit Graph
 
-[![Visual Studio Code Commit Graph](assets/2020-09-20-commit-graph-visual-studio-code.png)](assets/2020-09-20-commit-graph-visual-studio-code.png)
+[![Visual Studio Code Commit Graph](/assets/2020-09-20-commit-graph-visual-studio-code.png)](/assets/2020-09-20-commit-graph-visual-studio-code.png)
 
 ### Atom Commit Graph
 
-[![Atom Commit Graph](assets/2020-09-20-commit-graph-atom.png)](assets/2020-09-20-commit-graph-atom.png)
+[![Atom Commit Graph](/assets/2020-09-20-commit-graph-atom.png)](/assets/2020-09-20-commit-graph-atom.png)
 
 ### React Commit Graph
 
-[![React Commit Graph](assets/2020-09-20-commit-graph-react.png)](assets/2020-09-20-commit-graph-react.png)
+[![React Commit Graph](/assets/2020-09-20-commit-graph-react.png)](/assets/2020-09-20-commit-graph-react.png)
 
 Aggressive development pulls platforms away from the pack because the combination of forward momentum, and third parties building on the platform, is difficult to compete with[^innovationcomesfromneglect]. This is the same combination that makes it so hard for new entrants to compete with popular browsers or OSes.
 
