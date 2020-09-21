@@ -10,16 +10,16 @@ The most important thing I look for when choosing which tools to use is longevit
 
 In most software categories, choosing the software with longevity is easy, the most popular tools [are usually the ones that have been around the longest](https://blog.robenkleene.com/2020/04/27/software-to-die-for/). [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) and [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) were both released in 1987 and, for the most part, they've remained the most popular software in their categories since then.
 
-Text editors, on the other hand, are a software category where the most popular options are not the oldest. According to the [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey/), [Sublime Text](https://www.sublimetext.com/) was the most popular text editor available on the Mac from 2015--2017. Sublime Text was released in 2008, a sprightly youth compared to Excel and Illustrator. Text editors have been a category with a lot of movement: In the last 20 years, TextMate, Sublime Text, and Atom have all been the text editor with the most momentum[^whytexteditorshavechurn]. For big complicated desktop software, has any other category had so much movement?
+Text editors, on the other hand, are a software category where the most popular options are not the oldest. According to the [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey/), [Sublime Text](https://www.sublimetext.com/) was the most popular text editor available on the Mac from 2015--2017. Sublime Text was released in 2008, a sprightly youth compared to Excel and Illustrator. Text editors have been a category with a lot of movement: In the last 20 years, TextMate, Sublime Text, and Atom have all been the text editor with the most momentum[^whytexteditorshavechurn]. For big complicated desktop software, has any other category ever had so much movement?
 
-I believe the era of new text editors emerging and quickly becoming popular has now ended with [Visual Studio Code](https://code.visualstudio.com/). VS Code has reached unprecedented levels of popularity and refinement, laying the foundation for could be decades of market dominance. If, like me, one of your priorities for your tools is longevity[^whynotemacsandvim], than that means VS Code is likely a great text editor to invest in learning today.
+I believe the era of new text editors emerging and quickly becoming popular has now ended with [Visual Studio Code](https://code.visualstudio.com/). VS Code has reached unprecedented levels of popularity and refinement, laying a foundation that could mean decades of market dominance. If, like me, one of your priorities for your tools is longevity[^whynotemacsandvim], than that means VS Code might be a great text editor to invest in learning today.
 
 The case for VS Code's longevity comes from several points we'll cover in this piece:
 
 1. [**Popularity**](#popularity): It's crossed a popularity threshold that no earlier text editor in recent history has crossed.
 2. [**The Text Editor as Platform**](#the-text-editor-as-platform): It's the endgame of a revolution that saw text editors be remade around extensions.
 3. [**Paradigm Transcendence**](paradigm-transcendence): It's transcended its paradigm as a desktop app by becoming a hosted web app, and even a reference implementation.
-4. [**Company Management**](company-management): It's managed by a powerful tech company, and it's being *aggressively* developed.
+4. [**Company Management**](company-management): It's managed by a powerful tech company, and it's being developed *aggressively*.
 
 ## Popularity
 
