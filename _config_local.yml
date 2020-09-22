@@ -21,6 +21,11 @@ theme: cyclist
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+twitter:
+  username: robenkleene
+  card: summary
 
 feed:
   path: /feed/atom/index.xml

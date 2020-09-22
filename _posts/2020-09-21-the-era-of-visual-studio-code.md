@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Era of Visual Studio Code"
+image: /assets/2020-09-20-vs-code-hero.png
 categories: Visual-Studio-Code, Text-Editor, Development
 ---
 
