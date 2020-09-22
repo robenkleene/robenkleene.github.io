@@ -7,9 +7,9 @@ title: About
 
 I'm [Roben Kleene](https://robenkleene.com), I'm developing a new creative coding application called [Repla](https://repla.app). I write about computers as a platform for creative work on my [blog](https://blog.robenkleene.com). I'm interested in advancing the state of the art of using computers for creative pursuits. You can contact me via [email](mailto:contact@robenkleene.com). I can also be found on [GitHub](https://github.com/robenkleene), [Instagram](https://www.instagram.com/robenkleene/), [Pinboard](https://pinboard.in/u:robenkleene), and [Twitter](https://twitter.com/robenkleene).
 
-## What Software Should I Use?
+## Which Software Should I Use?
 
-The overarching question I'm trying to answer on this blog is what software should I use? Before I started writing about software, I was paralyzed by choice. There always seemed to be some new app or platform on the horizon that was about to disrupt everything. I was always asking myself, am I learning the right tool? You might think this is a waste of time to worry about, but I disagree. The amount of energy it takes to learn a complex software product is immense. Not to mention that, outside of some rare counter-examples, like [source code](https://en.wikipedia.org/wiki/Source_code) being stored as [plaintext](https://en.wikipedia.org/wiki/Plaintext), your data is effectively stored in app's format forever.
+The overarching question I'm trying to answer on this blog is which software should I use? Before I started writing about software, I was paralyzed by choice. There always seemed to be some new app or platform on the horizon that was about to disrupt everything. I was always asking myself, am I learning the right tool? You might think this is a waste of time to worry about, but I disagree. The amount of energy it takes to learn a complex software product is immense. Not to mention that, outside of some rare counter-examples, like [source code](https://en.wikipedia.org/wiki/Source_code) being stored as [plaintext](https://en.wikipedia.org/wiki/Plaintext), your data is effectively stored in app's format forever.
 
 I'd argue that the only people who shouldn't be thinking carefully about which software to use (for everything except plaintext), are those that don't care about preserving their creations.
 
