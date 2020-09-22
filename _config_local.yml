@@ -25,7 +25,7 @@ plugins:
 
 twitter:
   username: robenkleene
-  card: summary
+  card: summary_large_image
 
 feed:
   path: /feed/atom/index.xml
