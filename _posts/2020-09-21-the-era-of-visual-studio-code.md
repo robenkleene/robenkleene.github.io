@@ -56,7 +56,7 @@ While TextMate popularized the concept of a text editor built around extensions,
 
 Sublime Text's extensions run in an embedded [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) runtime with an [extensive API](https://www.sublimetext.com/docs/3/api_reference.html), unlike TextMate which [uses the scripting languages built-in to macOS](https://github.com/textmate/bundle-support.tmbundle/blob/13169c6209ebb02564009c4ce573d62452c9b3ae/Support/shared/bin/ruby18), and [rather than having a proper extension API](https://macromates.com/manual/en/appendix#plug-in_api), mainly centers on processing [standard out](https://en.wikipedia.org/wiki/Standard_streams).
 
-Sublime Text greatly expanded what extensions could do, allowing more sophisticated integrations such as [linters](https://en.wikipedia.org/wiki/Lint_(software)) that included GUI components. And [Package Control](https://packagecontrol.io/news), the enormously popular package manager for Sublime Text built by [Will Bond](https://twitter.com/wbond/) ([who now works for Sublime HQ](https://www.sublimetext.com/blog/articles/sublime-text-3-build-3103)), featured package management at a centralized source reducing the friction to browse, install, and update packages, a model that would also be adopted by subsequent text editors.
+Sublime Text greatly expanded what extensions could do, allowing more sophisticated integrations such as [linters](https://en.wikipedia.org/wiki/Lint_(software)) that included GUI components. And [Package Control](https://packagecontrol.io/news), the enormously popular package manager for Sublime Text built by [Will Bond](https://twitter.com/wbond/)[^sublimehqhire], featured a centralized source for package management, reducing the friction to browse, install, and update packages; a model that all subsequent popular text editors would also adopt.
 
 Even with Sublime Text's expanded extensions, it still didn't go far enough. Package Control wasn't built-in, and, while Sublime Text does have an API, its use of Python with custom calls for GUI components still left room for future text editors to make extensions more accessible to build.
 
@@ -162,6 +162,8 @@ I believe VS Code has presented extraordinary evidence. I'm hoping it moves into
 [^texteditorprogessionpreviously]: The progression of text editors becoming a platform is adapted from a [previous post](https://blog.robenkleene.com/2020/04/13/is-visual-studio-code-irreplaceable/), which is in turn adapted from a [Twitter thread](https://twitter.com/robenkleene/status/1228353731663671297).
 
 [^cuamodeinemacs]: Emacs does include [`cua-mode`](https://www.gnu.org/software/emacs/manual/html_node/emacs/CUA-Bindings.html), which when turned on, defines `C-x`, `C-c`, `C-v`, and `C-z` as "cut (kill), copy, paste (yank), and undo respectively". (The name `cua-mode`, is a bit of a misnomer because [IBM Common User Access](https://en.wikipedia.org/wiki/IBM_Common_User_Access) never used these key bindings.)
+
+[^sublimehqhire]: Will Bond was [hired by Sublime HQ in 2016](https://www.sublimetext.com/blog/articles/sublime-text-3-build-3103).
 
 [^textmate2hasabuiltinbundlebrowser]: [TextMate 2](https://macromates.com/), released in December 2011, also had the first [built-in extension browser](https://macromates.com/blog/2011/locating-bundles/) in a popular text editor.
 
