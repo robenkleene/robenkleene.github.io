@@ -30,6 +30,8 @@ VS Code is the most popular text editor today. It's so popular, that it could be
 
 ![Text Editor Popularity](/assets/2020-09-20-text-editor-popularity.png)
 
+(Note that Stackoverflow started allowing multiple answers between 2015 and 2016, so I'd take the changes between those two years in particular with a grain of salt.)
+
 ## The Text Editor as Platform
 
 So VS Code is objectively wildly popular; the next point we're going to look at is more qualitative. For the past couple of decades, text editors have been on a trajectory that I believe VS Code is the final representation of. This is the progression of text editors becoming platforms in their own right by increasing the role and capabilities of extensions. What follows is the history of this progression[^texteditorprogessionpreviously].
