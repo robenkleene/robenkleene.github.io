@@ -101,7 +101,7 @@ Here's the history of major releases for these two applications:
 - [2017](http://www.sublimetext.com/blog/articles/sublime-text-3-point-0): Sublime Text 3
 - [2019](https://github.com/textmate/textmate/blob/master/Applications/TextMate/about/Changes.md#2019-09-15-v20): TextMate 2
 
-Here's a graph of the number of years between stable major releases (contrasted with the release schedule for BBEdit 10--13):
+Here's a graph of the number of years between stable major releases (contrasted with the release schedule for BBEdit 10--13 for comparison):
 
 ![Text Editor Release Schedule](/assets/2020-09-20-text-editor-release-schedule.png)
 
