@@ -66,7 +66,7 @@ Even with Sublime Text's expanded extensions, it still didn't go far enough. Pac
 
 [Atom](https://atom.io/), released by [GitHub](https://github.com/) in 2014, finally brings extensions to their final form. Atom's package manager is built in[^textmate2hasabuiltinbundlebrowser], displays extension [READMEs](https://en.wikipedia.org/wiki/README) complete with inline images (and early extensions made by GitHub themselves popularized the convention of using [animated GIFs](https://en.wikipedia.org/wiki/GIF) to illustrate functionality), creating an extension experience reminiscent of an [app store](https://www.apple.com/ios/app-store/).
 
-Then there's the matter of [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets). Atom is built on [Electron](https://www.electronjs.org/)[^electronwasmadeforatom], which means the editor itself is written in JavaScript and runs on [Node](https://en.wikipedia.org/wiki/Node.js)[^atomwaswrittenincoffeescript]. Compared to Sublime Text's Python API; HTML, CSS, and JavaScript are some of most widely-known languages in existence, which greatly lowers the barrier of entry for creating extensions.
+Then there's the matter of [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)[^onlighttable]. Atom is built on [Electron](https://www.electronjs.org/)[^electronwasmadeforatom], which means the editor itself is written in JavaScript and runs on [Node](https://en.wikipedia.org/wiki/Node.js)[^atomwaswrittenincoffeescript]. Compared to Sublime Text's Python API; HTML, CSS, and JavaScript are some of most widely-known languages in existence, which greatly lowers the barrier of entry for creating extensions.
 
 Atom had essentially perfected the extension-based editor, there was just one problem: It's slow. Performance complaints have plagued Atom since its release, and market ended up split with Sublime Text, which is lightning fast by comparison.
 
@@ -168,6 +168,12 @@ I believe VS Code has presented extraordinary evidence. I'm hoping it moves into
 [^sublimehqhire]: Will Bond was [hired by Sublime HQ in 2016](https://www.sublimetext.com/blog/articles/sublime-text-3-build-3103).
 
 [^textmate2hasabuiltinbundlebrowser]: [TextMate 2](https://macromates.com/), released in December 2011, also had the first [built-in extension browser](https://macromates.com/blog/2011/locating-bundles/) in a popular text editor.
+
+[^onlighttable]: [Light Table](http://lighttable.com/), released in 2012, is another important milestone in the web-based text editor journey. Light Table uses [NW.js](https://nwjs.io/) (formerly node-webkit), a predecessor to Electron, and it had an integrated package manager---foreshadowing the same combination that Atom would use a couple of years later.
+
+    What's most interesting about Light Table that it focused on innovative new features first, like watching variables change as code executes, evaluating code inline, and embedding running projects in the editor itself (some of these features inspired by Bret Victor's seminal ["Inventing on Principle"](https://vimeo.com/36579366) talk). These are features that even now, eight years later, have been slow to make it into the text editors that followed.
+    
+    Light Table was about new features that weren't available anywhere else, whereas Atom, its closet successor that used a similar web-based approach, was about incremental improvements over previous text editors. Atom's main feature was that it was web-based, whereas Light Table was about new features that had never been done before.
 
 [^electronwasmadeforatom]: Electron was originally called ["Atom Shell"](https://www.electronjs.org/blog/electron).
 
