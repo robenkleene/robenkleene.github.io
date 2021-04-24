@@ -6,7 +6,7 @@
       "type": "node",
       "request": "launch",
       "runtimeExecutable": "bundle",
-      "runtimeArgs": ["exec", "jekyll", "serve", "--watch", "--drafts", "--config", "_config_local.yml", "--limit_posts", "5"],
+      "runtimeArgs": ["exec", "jekyll", "serve", "--watch", "--drafts", "--limit_posts", "5"],
       "console": "integratedTerminal",
       "serverReadyAction": {
         "pattern": "https?://127.0.0.1:([0-9]+)",
