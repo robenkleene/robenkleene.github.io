@@ -7,9 +7,9 @@ categories: Visual-Studio-Code, Text-Editor, Development
 
 ![Codespaces Logo](/assets/2021-05-16-codespaces.png)
 
-When I first saw [Codespaces](https://github.com/features/codespaces), I immediately wanted it. With ubiquitous high-speed internet, why not offload more work to the cloud? How could [our devices look](https://www.theverge.com/2015/4/9/8372335/12-inch-macbook-review) if most of their power came from the server? What would their battery life be like?
+When I first saw [Codespaces](https://github.com/features/codespaces), I immediately wanted it. With ubiquitous high-speed internet, why not offload more work to the cloud? What could [our devices look like](https://www.theverge.com/2015/4/9/8372335/12-inch-macbook-review) if most of their power came from the server? What would their battery life be like?
 
-Seamlessly leveraging remote resources has always felt like an idea that's just around the corner[^idea_as_old_as_time], but it never arrives. It usually ends up being just having a powerful machine on site is the most practical solution[^mac_pro_is_still_relevant] (outside of a few specialized workflows).
+Seamlessly leveraging remote resources has always felt like an idea that's just around the corner[^idea_as_old_as_time], but never arrives. Just having a big beefy machine on site usually ends up being the most practical solution (outside of some specialized use cases)[^mac_pro_is_still_relevant].
 
 Codespaces is perhaps the biggest play ever to make remote development more mainstream. Development has always been a prime candidate for remote computing, because with [time-sharing](https://en.wikipedia.org/wiki/Time-sharing) [machines](https://en.wikipedia.org/wiki/PDP-11), it's how the roots of programming itself began[^codespaces_is_in_beta].
 
