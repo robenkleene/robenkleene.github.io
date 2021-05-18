@@ -11,7 +11,7 @@ When I first saw [Codespaces](https://github.com/features/codespaces), I immedia
 
 Seamlessly leveraging remote resources has always felt like an idea that's just around the corner[^idea_as_old_as_time], but never arrives. Just having a big beefy machine on site usually ends up being the most practical solution (outside of some specialized use cases)[^mac_pro_is_still_relevant].
 
-Codespaces is perhaps the biggest play ever to make remote development more mainstream. Development has always been a prime candidate for remote computing, because with [time-sharing](https://en.wikipedia.org/wiki/Time-sharing) [machines](https://en.wikipedia.org/wiki/PDP-11), it's how the roots of programming itself began[^codespaces_is_in_beta].
+Codespaces is perhaps the biggest play ever to take remote development more mainstream. Development has always been a prime candidate for remote computing, because with [time-sharing](https://en.wikipedia.org/wiki/Time-sharing) [machines](https://en.wikipedia.org/wiki/PDP-11), it's how the roots of programming itself began[^codespaces_is_in_beta].
 
 ## Visual Studio Online to GitHub Codespaces
 
