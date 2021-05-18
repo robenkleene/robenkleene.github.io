@@ -9,7 +9,7 @@ categories: Visual-Studio-Code, Text-Editor, Development
 
 When I first saw [Codespaces](https://github.com/features/codespaces), I immediately wanted it. With ubiquitous high-speed internet, why not offload more work to the cloud? What could [our devices look like](https://www.theverge.com/2015/4/9/8372335/12-inch-macbook-review) if most of their power came from the server? What would their battery life be like?
 
-Seamlessly leveraging remote resources has always felt like an idea that's just around the corner[^idea_as_old_as_time], but never arrives. Just having a big beefy machine on site usually ends up being the most practical solution (outside of some specialized use cases)[^mac_pro_is_still_relevant].
+Seamlessly leveraging remote resources has always felt like an idea that's just around the corner, but never arrives. Just having a big beefy machine on site usually ends up being the most practical solution (outside of some specialized use cases)[^mac_pro_is_still_relevant].
 
 Codespaces is perhaps the biggest play ever to take remote development more mainstream. Development has always been a prime candidate for remote computing, because with [time-sharing](https://en.wikipedia.org/wiki/Time-sharing) [machines](https://en.wikipedia.org/wiki/PDP-11), it's how the roots of programming itself began[^codespaces_is_in_beta].
 
@@ -148,11 +148,9 @@ I don't expect Codespaces to win over many longtime developers, who already have
 
 * * *
 
-[^codespaces_is_in_beta]: Since Codespaces is still in [beta](https://en.wikipedia.org/wiki/Software_release_life_cycle#Beta), we're not going to spend any time reviewing bugs or incomplete features, which might be fixed before release. This piece is about the full promise of Codespaces and remote development when it's finished.
-
-[^idea_as_old_as_time]: Of course remote computing isn't a new idea, it's one of the [oldest](https://en.wikipedia.org/wiki/Time-sharing) ideas in all of computing.
-
 [^mac_pro_is_still_relevant]: The continued relevance of the [Mac Pro](https://www.apple.com/mac-pro/) is an example of how relevant powerful, on premises, hardware still is.
+
+[^codespaces_is_in_beta]: Since Codespaces is still in [beta](https://en.wikipedia.org/wiki/Software_release_life_cycle#Beta), we're not going to spend any time reviewing bugs or incomplete features, which might be fixed before release. This piece is about the full promise of Codespaces and remote development when it's finished.
 
 [^instance_types_coming]: Setting an instance type will also [come to GitHub Codespaces](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/about-billing-for-codespaces):
 
