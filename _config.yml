@@ -33,3 +33,4 @@ feed:
 show_contents: true
 
 permalink: /:year/:month/:day/:title/
+
