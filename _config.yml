@@ -16,6 +16,9 @@ kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
 
 remote_theme: cyclist-grid/cyclist-jekyll
+cyclist_jekyll:
+  social_links:
+    twitter: robenkleene
 
 plugins:
   - jekyll-feed
