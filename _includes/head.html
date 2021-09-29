@@ -16,8 +16,8 @@
     <link rel="icon" type="image/png" sizes="96x96" href="{{ "/assets/favicon/96x96.png" | relative_url }}" />
     <link rel="icon" type="image/png" sizes="128x128" href="{{ "/assets/favicon/128x128.png" | relative_url }}" />
     <link rel="icon" type="image/png" sizes="196x196" href="{{ "/assets/favicon/196x196.png" | relative_url }}" />
-
-{% seo %}
+    {% seo title=false %}
+    <title>{% if page.title %}{{ site.title }}: {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link
       href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&family=Fira+Mono&family=Lato&family=Playfair+Display:ital,wght@0,700;1,700&display=swap"
