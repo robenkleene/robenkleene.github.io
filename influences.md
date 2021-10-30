@@ -21,7 +21,9 @@ title: Influences
 
 ## Designers
 
+* [Davy Evans](https://www.davyevans.co.uk)
 * [Gleb Kuznetsov](https://twitter.com/glebich)
+* [Jason Yuan](https://jasonyuan.design)
 * [Kristoffer Brady](https://twitter.com/kristofferbrady)
 * [Mark Boulton](https://twitter.com/markboulton)
 
