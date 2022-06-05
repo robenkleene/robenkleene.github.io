@@ -20,7 +20,6 @@ This blog uses [Jekyll](https://jekyllrb.com/), with my own theme called [Cyclis
 
 I've committed to learning [a number of big software packages](https://blog.robenkleene.com/2020/04/27/software-to-die-for/). While generally this blog is just text, this is the software I also use when I create assets, and generally I try to spend as much of my day as I can using these applications:
 
-
 - [**3D Editor**](https://en.wikipedia.org/wiki/3D_computer_graphics): [Blender](https://www.blender.org/), [Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/)
 - [**Audio Sequencer**](https://en.wikipedia.org/wiki/Digital_audio_workstation): [Ableton Live](https://www.ableton.com/), [Logic Pro](https://www.apple.com/logic-pro/)
 - [**Motion Graphics Editor**](https://en.wikipedia.org/wiki/Adobe_After_Effects): [After Effects](https://www.adobe.com/products/aftereffects.html)

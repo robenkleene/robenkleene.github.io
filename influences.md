@@ -26,6 +26,7 @@ title: Influences
 * [Jason Yuan](https://jasonyuan.design)
 * [Kristoffer Brady](https://twitter.com/kristofferbrady)
 * [Mark Boulton](https://twitter.com/markboulton)
+* [Rus Khasanov](https://www.instagram.com/ruskhasanov/)
 
 ## Hardware
 
