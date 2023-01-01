@@ -20,7 +20,7 @@ I've listed the winners below, and linked to all the ones that are still maintai
 ## [2003 Second Round Winners](https://www.oreilly.com/pub/pr/1071)
 
 - **First Place, International Category:** [Hydra (now SubEthaEdit)](https://subethaedit.net/)
-- **Second Place, International Category:** [LaunchBar](LaunchBar)
+- **Second Place, International Category:** [LaunchBar](https://obdev.at/products/launchbar/index.html)
 - **First Place, US Category:** [VoodooPad](https://www.voodoopad.com/)
 - **Second Place, US Category:** [Audio Hijack Pro](https://rogueamoeba.com/audiohijackpro/)
 
