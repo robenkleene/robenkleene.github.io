@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Five-Year Rule of Software Transitions"
+image: /assets/2023-06-18-rise-fall-1.png
 categories: Development, Creative
 ---
 
