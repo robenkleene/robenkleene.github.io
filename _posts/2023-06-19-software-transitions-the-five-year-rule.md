@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Software Transitions: The Five-Year Rule"
-categories: 
+title: "The Five-Year Rule of Software Transitions"
+categories: Development, Creative
 ---
 
-![Rise & Fall 1](assets/2023-06-18-rise-fall-1.png)
+![Rise & Fall 1](/assets/2023-06-18-rise-fall-1.png)
 
 With software, I'm always trying to picker winners. I mainly care about the big apps[^zawinkskis_law]: the Photoshops, the Excels, the [NLEs](https://en.wikipedia.org/wiki/Video_editing_software), [DAWs](https://en.wikipedia.org/wiki/Digital_audio_workstation), [IDEs](https://en.wikipedia.org/wiki/Integrated_development_environment). Software people spend their whole day in, that can take a lifetime to learn, that a career can be built on. I'm interested in picking winners for these apps because they're powerful and they're hard to learn. So if I'm going to learn one, I want to be sure I pick the right one.
 
@@ -48,7 +48,7 @@ Then there's the question of determining when a transition has occurred. To do t
 
 ## The Transitions
 
-![Rise & Fall 2](assets/2023-06-18-rise-fall-2.png)
+![Rise & Fall 2](/assets/2023-06-18-rise-fall-2.png)
 
 ### Transitions From the Design World
 
@@ -58,7 +58,7 @@ All the best software transitions are from the design world. This is because des
 
 *QuarkXPress goes from being it's introduction in 1987 to 95% market share during the 1990s.*
 
-![PageMaker](assets/2023-06-18-pagemaker.png)
+![PageMaker](/assets/2023-06-18-pagemaker.png)
 
 *PageMaker 7.0 running on Mac OS 9*
 
@@ -78,7 +78,7 @@ With that said, this isn't a great example of a transition because it happened s
 
 *QuarkXPress loses its dominate market position to Adobe InDesign over the course of about six years.*
 
-![QuarkXPress](assets/2023-06-18-quarkxpress.png)
+![QuarkXPress](/assets/2023-06-18-quarkxpress.png)
 
 *QuarkXPress*
 
@@ -124,7 +124,7 @@ Daring Fireball continued to post about QuarkXPress and InDesign, and reading th
 
 InDesign was released in 1999, so 1999--2006 is seven years, which is close enough for the accuracy we're shooting for with the five-year rule. But that's tracking until QuarkXPress has almost disappeared, whereas the five-year rule really tries to predict when the new player overtakes the original dominant player in popularity, which has happened earlier than that. Without any market share data to go on, we'll just have to take a guess as to when that might have happened. For the purposes of this piece, I said six years, which is close enough accuracy for the five year rule.
 
-![InDesign](assets/2023-06-18-indesign.png)
+![InDesign](/assets/2023-06-18-indesign.png)
 
 *InDesign*
 
@@ -152,11 +152,11 @@ How was Sketch able to disrupt a behemoth application like Photoshop? That had o
 
 Apple announced iOS 7 in 2013, radically changing the user-interface design of iOS. Before flat design, Apple had been pushing a [skeumorphic](https://www.macworld.com/article/221261/why-ill-miss-skeuomorphism-in-ios.html) style simulating real-world objects using rich textures and [whimsical animations](https://www.youtube.com/watch?v=K-HJy4zqgLQ&t=0m59s). Photoshop, which combined rich bitmap editing features with vector editing tools, was a much better fit for the skeumorphic style than the austere flat design.
 
-![iOS 6 & iOS 7](assets/2023-06-18-ios6-ios7.png)
+![iOS 6 & iOS 7](/assets/2023-06-18-ios6-ios7.png)
 
 *Wikipedia's [iOS 6](https://en.wikipedia.org/wiki/IOS_6) and [iOS 7](https://en.wikipedia.org/wiki/IOS_7) screenshots side-by-side*
 
-![Review for iPad](assets/2023-06-18-review.png)
+![Review for iPad](/assets/2023-06-18-review.png)
 
 *Review for iPad, an app I designed during the skeumorphic era*
 
@@ -170,7 +170,7 @@ You can blame Adobe for missing the boat on user-interface design deserving thei
 
 #### Sketch to Figma
 
-![UI Design App Popularity](assets/2023-06-18-ui-design-app-popularity.png)
+![UI Design App Popularity](/assets/2023-06-18-ui-design-app-popularity.png)
 
 *UI design tool popularity from the [Subtraction Design Tools Survey](http://web.archive.org/web/20151226212541/https://tools.subtraction.com/) (2015) and [UX Tools](https://uxtools.co/) (2016-2020)*
 
@@ -184,13 +184,13 @@ In the section on Photoshop to Sketch, we discussed an underappreciated factor i
 
 Another factor that's rarely mentioned in Figma's success is that co-founder and former CTO [Evan Wallace](https://madebyevan.com/) appears to me to be a once in a generation programmer, deserving to be on a short list with the likes of [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson), [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds), and [John Carmack](https://en.wikipedia.org/wiki/John_Carmack). Figma itself is evidence of Wallace's skill, especially since no other company seems to be able to make another web app that feels as nice. It's rare for a technical implementation to act as a moat, but that appears to be what has happened with Figma. For evidence of how widespread the architecture Wallace pioneered for Figma is expanding, [Google Docs is switching to canvas-based rendering](https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html). I'm also struck by the startling beauty of some of his early work that predates Figma, like this gorgeous [WebGL water simulation](https://www.madebyevan.com/webgl-water/) presumably done while Wallace was studying computer graphics at Brown University. Then there's [esbuild](https://esbuild.github.io/), a JavaScript bundler like [webpack](https://webpack.js.org/), with amazing performance. The homepage for esbuild sports this graph:
 
-![esbuild performance](assets/2023-06-18-esbuild.png)
+![esbuild performance](/assets/2023-06-18-esbuild.png)
 
 There's a point at which the magnitude of the performance improvements starts to show contempt for your competitors, and esbuild crosses that line. Wallace [left Figma at the end of 2021](https://twitter.com/evanwallace/status/1475685056454836229), less than a year before [Adobe's acquisition of Figma](https://news.adobe.com/news/news-details/2022/Adobe-to-Acquire-Figma/default.aspx) was announced in 2022.
 
 ### The Rise of Visual Studio Code
 
-![Text Editor Popularity](assets/2023-06-18-text-editor-popularity.png)
+![Text Editor Popularity](/assets/2023-06-18-text-editor-popularity.png)
 
 *Visual Studio Code, first released in 2015, becomes the most popular text editor by 2018, over the course of just three years.*
 
@@ -198,7 +198,7 @@ I've already written about [the rise of Visual Studio Code](https://blog.robenkl
 
 ## Conclusion
 
-![Rise & Fall 3](assets/2023-06-18-rise-fall-3.png)
+![Rise & Fall 3](/assets/2023-06-18-rise-fall-3.png)
 
 I looked at six examples of software transitions of big creative apps, starting with tracing the history of print design, then transitions from the user-interface design world, and finally the rise of Visual Studio Code. In this, imperfect, but hopefully still useful, analysis, all of those transitions took between three and six years with an average (and median) of five years.
 
@@ -212,7 +212,7 @@ In the end, just building a great software product is not enough to lead to a tr
 
 ## Appendix
 
-![Rise & Fall 4](assets/2023-06-18-rise-fall-4.png)
+![Rise & Fall 4](/assets/2023-06-18-rise-fall-4.png)
 
 In the appendix I'll look at a few more interesting transitions that don't fit in the narrow category of professional creative software.
 
@@ -234,7 +234,7 @@ As to what slowed down the switch, Bresnahan and Greenstein mainly attribute thi
 
 Figuring out how long the transition from mainframes to the client-server model took is more difficult than with software, because there isn't a clear date to mark the start of the transition. With software, we can use the first release date of the software, but with something like the client-server model, which had many moving parts evolving together to eventually create a compelling package, there isn't an obvious start date. Bresnahan and Greenstein choose 1989 as the start date, because in their words, "before 1989 workstations and personal computers could no more replace mainframes than could the people of Lilliput wrestle Gulliver to the ground."
 
-![Mainframe to Client-Server](assets/2023-06-18-mainframe-to-client-server.png)
+![Mainframe to Client-Server](/assets/2023-06-18-mainframe-to-client-server.png)
 
 *The sample of companies and their distribution of mainframe versus client-server over time.*
 
@@ -248,7 +248,7 @@ One of the most popular transitions to discuss is browser market share because i
 
 Additionally, through the very nature of the browser, it's very easy to collect market share data. The main use of the browser is to access arbitrary remote servers, so all you need to do collect market share numbers is for some of those servers to record which browser is being used to access the site. A number of different sites have done that over the years.
 
-![Browser Popularity](assets/2023-06-18-browser-popularity.png)
+![Browser Popularity](/assets/2023-06-18-browser-popularity.png)
 
 *Browser usage data aggregated from the [*Usage share of web browsers* Wikipedia page](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers)[^browser_data_sources] which includes data from several different sources.*
 
@@ -260,7 +260,7 @@ Chrome's rise is a textbook example of the five year rule, released in 2008[^chr
 
 *[`git`](https://en.wikipedia.org/wiki/Git) is introduced in 2005 and the total number of repositories using `git` overtakes [Apache Subversion](https://en.wikipedia.org/wiki/Apache_Subversion) nine years later in 2014. But I'd argue more developers were using `git` for their work in five years, by 2010.*
 
-![`git` Repos](assets/2023-06-18-git-repos.png)
+![`git` Repos](/assets/2023-06-18-git-repos.png)
 
 *The total number of repositories using Subversion vs. `git`. The data was collected by [Ohloh](https://en.wikipedia.org/wiki/Open_Hub), now called [Black Duck Open Hub](https://www.openhub.net/), a site that "aims to index the open-source software development community". The data was sourced the data from [a summary on StackExchange](https://softwareengineering.stackexchange.com/questions/136079/are-there-any-statistics-that-show-the-popularity-of-git-versus-svn).*
 
@@ -270,7 +270,7 @@ The Ohloh data at first appears to illustrate that `git` took a long time to ove
 
 Tracking the number of [Stack Overflow](https://stackoverflow.com/) questions about different version control systems over time probably maps more closely to which version control system is actually being used. This data shows `git` overtaking Subversion in 2010, five years after `git` was first released.
 
-![git Stack Overflow Trends](assets/2023-06-18-git-stackoverflow-trends.png)
+![git Stack Overflow Trends](/assets/2023-06-18-git-stackoverflow-trends.png)
 
 *[Stack Overflow Trends](https://insights.stackoverflow.com/trends/?tags=svn%2Cgit%2Cmercurial%2Cperforce) changes in questions about version control systems over time.*
 
