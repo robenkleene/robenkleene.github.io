@@ -87,7 +87,7 @@ It's hard to overstate how dominant QuarkXPress's position was as the industry l
 
 But we don't talk much about QuarkXPress today, it's fall being so great that it's drifted into irrelevance. I've always considered this the canonical software transition, because it went from being so dominate, to so rarely used. It happened long enough ago that it's a story woven into the fabric of computing history.
 
-How did InDesign beat QuarkXPress? It start with our old friend PageMaker, and its parent company Aldus. Adobe purchased Aldus[^adobe_freehand] in 1995, with the intent of taking on QuarkXPress. InDesign was based on the source code to [a successor to PageMaker Aldus had begun developing in-house](https://en.wikipedia.org/wiki/Adobe_InDesign) and was first released in 1999:
+How did InDesign beat QuarkXPress? It starts with our old friend PageMaker, and its parent company Aldus. Adobe purchased Aldus[^adobe_freehand] in 1995, with the intent of taking on QuarkXPress. InDesign was based on the source code to [a successor to PageMaker Aldus had begun developing in-house](https://en.wikipedia.org/wiki/Adobe_InDesign) and was first released in 1999:
 
 > [Adobe] continued to develop a new desktop publishing application. Aldus had begun developing a successor to PageMaker, which was code-named "Shuksan". Later, Adobe code-named the project "K2", and Adobe released InDesign 1.0 in 1999.
 
