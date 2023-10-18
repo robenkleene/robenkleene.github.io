@@ -7,7 +7,7 @@ categories: Development, Creative
 
 ![Rise & Fall 1](/assets/2023-06-18-rise-fall-1.png)
 
-With software, I'm always trying to picker winners. I mainly care about the big apps[^zawinkskis_law]: the Photoshops, the Excels, the [NLEs](https://en.wikipedia.org/wiki/Video_editing_software), [DAWs](https://en.wikipedia.org/wiki/Digital_audio_workstation), [IDEs](https://en.wikipedia.org/wiki/Integrated_development_environment). Software people spend their whole day in, that can take a lifetime to learn, that a career can be built on. I'm interested in picking winners for these apps because they're powerful and they're hard to learn. So if I'm going to learn one, I want to be sure I pick the right one.
+With software, I'm always trying to pick winners. I mainly care about the big apps[^zawinkskis_law]: the Photoshops, the Excels, the [NLEs](https://en.wikipedia.org/wiki/Video_editing_software), [DAWs](https://en.wikipedia.org/wiki/Digital_audio_workstation), [IDEs](https://en.wikipedia.org/wiki/Integrated_development_environment). Software people spend their whole day in, that can take a lifetime to learn, that a career can be built on. I'm interested in picking winners for these apps because they're powerful and they're hard to learn. So if I'm going to learn one, I want to be sure I pick the right one.
 
 I say this upfront because it means when I'm talking about software transitions, I'm mainly talking about that kind of software, industry-leading creative software, and not, say, the next big social media platform. It also means I'm mainly talking about desktop software, because [this kind of software doesn't have any traction on mobile](https://blog.robenkleene.com/2019/08/07/apples-app-stores-have-failed-creative-apps/).
 
