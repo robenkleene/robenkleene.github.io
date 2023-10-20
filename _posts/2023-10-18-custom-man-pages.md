@@ -1,6 +1,6 @@
 ---
 layout: link
-title: "Adding Custom `man` Pages from Markdown Notes"
+title: "Adding Custom `man` Pages From Markdown Notes"
 categories: Unix, Markdown
 ---
 
