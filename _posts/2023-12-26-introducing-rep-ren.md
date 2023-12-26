@@ -8,15 +8,15 @@ categories: Unix, Rust
 
 1. Perform a search with a grep tool like [ripgrep](https://github.com/BurntSushi/ripgrep).
 
-	![grep](/assets/2023-12-26-rep-rep-1-grep.png)
+	![grep](/assets/2023-12-26-rep-1-grep.png)
 
 2. Pipe the results of the search into `rep` and provide search and replace terms as arguments.
 
-	![diff](/assets/2023-12-26-rep-rep-2-diff.png)
+	![diff](/assets/2023-12-26-rep-2-diff.png)
 
 3. If the diff looks good, pass the `-w` flag to `rep` to write the changes to the files.
 
-	![write](/assets/2023-12-26-rep-rep-3-write.png)
+	![write](/assets/2023-12-26-rep-3-write.png)
 
 [`rep`](https://github.com/robenkleene/rep-grep) and [`ren`](https://github.com/robenkleene/ren-find) are two new tools for performing find and replace in files, and renaming files, respectively.
 
