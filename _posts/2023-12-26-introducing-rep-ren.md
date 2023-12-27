@@ -4,23 +4,25 @@ title: "Introducing `rep` & `ren`: A New Approach to Command-Line Find & Replace
 categories: Unix, Rust
 ---
 
-## Using `rep`
+## How to Use `Rep`
 
-1. Perform a search with a grep tool like [ripgrep](https://github.com/BurntSushi/ripgrep).
+1. Perform a search with a grep tool like [ripgrep](https://github.com/BurntSushi/ripgrep):
 
 	![grep](/assets/2023-12-26-rep-1-grep.png)
 
-2. Pipe the results of the search into `rep` and provide search and replace terms as arguments.
+2. Pipe the results of the search to `rep`, and provide search and replace terms as arguments:
 
 	![diff](/assets/2023-12-26-rep-2-diff.png)
 
-3. If the diff looks good, pass the `-w` flag to `rep` to write the changes to the files.
+3. If the diff looks good, pass the `-w` flag to `rep` to write the changes to the files:
 
 	![write](/assets/2023-12-26-rep-3-write.png)
 
+## `rep` & `ren`
+
 [`rep`](https://github.com/robenkleene/rep-grep) and [`ren`](https://github.com/robenkleene/ren-find) are two new tools for performing find and replace in files, and renaming files, respectively.
 
-They share a design in two ways:
+They share a similar design in two ways:
 
 1. **Standard input determines what should be changed.** `rep` takes `grep`-formatted text via standard input to determine which lines to change, and `ren` takes a single file per line to determine which files to rename.
 2. **A preview of the resulting diff is printed to standard output by default.**  By default, `rep` and `ren` both print a diff of the changes that would result by performing the find and replace or rename. In order to actually write the changes to disk, both have a `-w` / `--write` flag.
