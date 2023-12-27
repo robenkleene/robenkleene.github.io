@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing `rep` & `ren`: A New Approach to CLI Find & Replace, and Renaming"
+title: "Introducing `rep` & `ren`: A New Approach to Command-Line Find & Replace, and Renaming"
 categories: Unix, Rust
 ---
 
