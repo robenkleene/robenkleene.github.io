@@ -42,13 +42,15 @@ Loading matching into an editor and performing the replacement there is a great 
 `sed` is the definitive search and replace utility for the Unix command line, the problem is, it doesn't combine well with ripgrep. Here's the command from [an example of a popular answer on Stackoverflow](https://stackoverflow.com/questions/1583219/how-can-i-do-a-recursive-find-replace-of-a-string-with-awk-or-sed) about how you do a recursive find and replace with `sed`:
 
 ```
-find /home/www \( -type d -name .git -prune \) -o -type f -print0 | xargs -0 sed -i 's/subdomainA\.example\.com/subdomainB.example.com/g'
+find /home/www \( -type d -name .git -prune \) -o -type f -print0 \
+    | xargs -0 sed -i 's/subdomainA\.example\.com/subdomainB.example.com/g'
 ```
 
 You could adapt this to use `rg` instead of `find` by using the `-l` flag which only lists files with matches:
 
 ```
-rg "subdomainA\.example\.com" -l -0 | xargs -0 sed -i 's/subdomainA\.example\.com/subdomainB.example.com/g'
+rg "subdomainA\.example\.com" -l -0 \
+    | xargs -0 sed -i 's/subdomainA\.example\.com/subdomainB.example.com/g'
 ```
 
 The problem with this approach is that `sed` is then performing the search again from scratch on each file, and since `sed` and `rg` have different regular expression engines, the matches could be different (or the search could fail with a syntax error)[^sd_regex].
