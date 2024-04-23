@@ -73,6 +73,7 @@ Another, equally problematic, issue with `sed` approach is it's hard to tell wha
 - The structure of the source code, and much of the functionality, was borrowed from [`sd`](https://github.com/chmln/sd),  `rep` and `ren` both started as forks of `sd`.
 - The code for specifying a custom pager for both `rep` and `ren` came from the source code for [delta`](https://github.com/dandavison/delta).
 
+
 * * *
 
 [^sd_regex]: Using `rg` and with [`sd`](https://github.com/chmln/sd) instead of `sed` should resolve most discrepancies between regular expression engines, since they both use [the same Rust engine](https://github.com/rust-lang/regex).
