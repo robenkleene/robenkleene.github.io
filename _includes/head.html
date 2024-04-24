@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-    <link type="application/atom+xml" rel="alternate" href="{{ "/feed/atom/" | relative_url }}" title="Roben Kleene" />
+    <link type="application/atom+xml" rel="alternate" href="{{ "/feed/atom/" | relative_url }}" title="{% if page.title %}{{ site.title }}: {{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ "/assets/favicon/57x57.png" | relative_url }}" />
     <link rel="apple-touch-icon-precomposed" sizes="60x60" href="{{ "/assets/favicon/60x60.png" | relative_url }}" />
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ "/assets/favicon/72x72.png" | relative_url }}" />
