@@ -6,7 +6,7 @@ categories: Unix, Rust
 
 *This post is about two new command-line utilities: [`rep`](https://github.com/robenkleene/rep-grep) and [`ren`](https://github.com/robenkleene/ren-find). Both are available on GitHub.*
 
-## How to Use `Rep`
+## How to Use `rep`
 
 1. Perform a search with a grep tool like [ripgrep](https://github.com/BurntSushi/ripgrep):
 
