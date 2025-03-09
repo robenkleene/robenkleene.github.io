@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Software to Die For"
+title: "Software to Live For"
 categories: Software, Creative, Professional
 ---
 
