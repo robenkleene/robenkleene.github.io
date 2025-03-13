@@ -8,7 +8,7 @@ categories: Productivity, Market-Share
 
 > To create all our Businesses @ Work reports, we anonymize Okta customer data from our network of thousands of companies, applications, and IT infrastructure integrations, and millions of daily authentications and verifications from countries around the world. Our customers and their employees, contractors, partners, and customers use Okta to log in to devices, apps and services, and leverage security features to protect their sensitive data. Our customers span every major industry and vary in size, from small businesses to enterprises with hundreds of thousands of employees or millions of customers. As you read this report, keep in mind that this data is representative of Okta's customers, the applications we connect to, and the ways in which users access these applications through our service.
 
-If you're in the tech industry, where Google has significantly more mind share, you might be surprised to learn that Microsoft Office has twice as many customers than Google Docs, and they're *growing at a good clip*:
+If you're in the tech industry, where Google has significantly more mindshare, you might be surprised to learn that Microsoft Office has twice as many customers than Google Docs, and they're *growing at a good clip*:
 
 > Office 365 increased its lead and continues to dominate the total pool of apps by number of customers, and it's growing its active unique users by 55% year over year.
 

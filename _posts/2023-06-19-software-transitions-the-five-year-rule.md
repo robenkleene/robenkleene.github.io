@@ -134,7 +134,7 @@ InDesign was released in 1999, so 1999--2006 is seven years, which is close enou
 
 *Sketch becomes the most popular user-interface design tool, overtaking Photoshop over the course of about five years.*
 
-While the QuarkXPress and InDesign transitions feel like ancient history, Photoshop to Sketch still feels fresh. There's so much mind share around this transition, and even more so for the subsequent transition from Sketch to Figma, that they feel bound to be the new default case studies in software transitions.
+While the QuarkXPress and InDesign transitions feel like ancient history, Photoshop to Sketch still feels fresh. There's so much mindshare around this transition, and even more so for the subsequent transition from Sketch to Figma, that they feel bound to be the new default case studies in software transitions.
 
 * * *
 
