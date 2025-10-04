@@ -15,8 +15,6 @@ title: Influences
 * *Grid Systems in Graphic Design* by Josef Müller-Brockmann
 * [*In the Beginning... Was the Command Line*](https://en.wikipedia.org/wiki/In_the_Beginning..._Was_the_Command_Line) by Neal Stephenson
 * [*The Art of Unix Programming*](https://en.wikipedia.org/wiki/The_Art_of_Unix_Programming) by Eric S. Raymond
-* [*The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography*](https://en.wikipedia.org/wiki/The_Code_Book) by Simon Singh
-* [*The Innovators*](https://en.wikipedia.org/wiki/The_Innovators_(book)) by Walter Isaacson
 * [*The Pragmatic Programmer: From Journeyman to Master*](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) by Andrew Hunt and David Thomas
 
 ## Designers
